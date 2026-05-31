@@ -1,0 +1,1347 @@
+id,calories,proteins,fat,carbohydrate,name,kategori,protein_density,fat_ratio,pct_cal_from_fat,pct_cal_from_protein,pct_cal_from_carb,risiko_kolesterol,is_recommended
+1,280.0,9.2,28.4,0.0,Abon,Tinggi Lemak,0.0327,0.1011,90.96,13.1,0.0,2,0
+2,513.0,23.7,37.0,21.3,Abon Haruwan,Tinggi Protein & Lemak,0.0461,0.072,64.79,18.44,16.58,2,0
+3,0.0,0.0,0.2,0.0,Agar-Agar,Rendah Lemak & Karbo,0.0,0.2,180.0,0.0,0.0,0,0
+4,45.0,1.1,0.4,10.8,Akar Tonjong Segar,Rendah Lemak & Karbo,0.0239,0.0087,7.83,9.57,93.91,0,0
+5,37.0,4.4,0.5,3.8,Aletoge Segar,Rendah Lemak & Karbo,0.1158,0.0132,11.84,46.32,40.0,0,0
+6,85.0,0.9,6.5,7.7,Alpukat Segar,Sedang,0.0105,0.0756,68.02,4.19,35.81,0,0
+7,96.0,3.7,0.6,19.1,Ampas Kacang Hijau,Rendah Lemak,0.0381,0.0062,5.57,15.26,78.76,0,0
+8,414.0,26.6,18.3,41.3,Ampas Tahu,Tinggi Protein & Lemak,0.0641,0.0441,39.69,25.64,39.81,2,0
+9,75.0,4.1,2.1,10.7,Ampas Tahu Kukus,Rendah Lemak & Karbo,0.0539,0.0276,24.87,21.58,56.32,0,0
+10,67.0,5.0,2.1,8.1,Ampas Tahu Mentah,Rendah Lemak & Karbo,0.0735,0.0309,27.79,29.41,47.65,0,1
+11,184.0,18.8,14.0,0.0,Anak Sapi Daging Gemuk Segar,Sedang,0.1016,0.0757,68.11,40.65,0.0,1,0
+12,174.0,19.6,10.0,0.0,Anak Sapi Daging Kurus Segar,Sedang,0.112,0.0571,51.43,44.8,0.0,1,1
+13,190.0,19.1,12.0,0.0,Anak Sapi Daging Sedang Segar,Sedang,0.1,0.0628,56.54,40.0,0.0,1,0
+14,99.0,4.6,1.0,18.0,Andaliman Segar,Rendah Lemak,0.046,0.01,9.0,18.4,72.0,0,0
+15,25.0,1.6,0.2,5.3,Andewi,Rendah Lemak & Karbo,0.0615,0.0077,6.92,24.62,81.54,0,0
+16,30.0,0.5,0.2,6.8,Anggur Hutan Segar,Rendah Lemak & Karbo,0.0161,0.0065,5.81,6.45,87.74,0,0
+17,354.0,16.4,31.5,0.0,Angsa,Tinggi Protein & Lemak,0.0462,0.0887,79.86,18.48,0.0,2,0
+18,126.0,3.4,7.9,10.3,Anyang Sayur,Sedang,0.0268,0.0622,55.98,10.71,32.44,0,0
+19,58.0,0.3,0.4,14.9,Apel,Rendah Lemak & Karbo,0.0051,0.0068,6.1,2.03,101.02,0,0
+20,57.0,0.5,0.4,12.8,Apel Malang Segar,Rendah Lemak & Karbo,0.0086,0.0069,6.21,3.45,88.28,0,0
+21,37.0,0.8,0.5,8.3,Arbei,Rendah Lemak & Karbo,0.0211,0.0132,11.84,8.42,87.37,0,0
+22,113.0,0.9,7.2,11.2,Ares Sayur,Sedang,0.0079,0.0632,56.84,3.16,39.3,0,0
+23,102.0,1.0,0.2,24.1,Arrowroot Segar,Rendah Lemak,0.0097,0.0019,1.75,3.88,93.59,0,0
+24,277.0,2.4,25.0,10.7,Arwan Sirsir,Tinggi Lemak,0.0086,0.0899,80.94,3.45,15.4,2,0
+25,75.0,0.2,1.1,16.1,Asam Kandis Segar,Rendah Lemak,0.0026,0.0145,13.03,1.05,84.74,0,0
+26,239.0,2.8,0.6,62.5,Asam Masak Di Pohon,Rendah Lemak,0.0117,0.0025,2.25,4.67,104.17,0,0
+27,135.0,0.8,0.4,32.1,Asam Payak Segar,Rendah Lemak,0.0059,0.0029,2.65,2.35,94.41,0,0
+28,261.0,0.9,1.6,63.3,Asan Kandis Kering,Rendah Lemak,0.0034,0.0061,5.5,1.37,96.64,0,0
+29,98.0,3.9,2.6,14.8,Asinan Bogor Sayuran,Rendah Lemak & Karbo,0.0394,0.0263,23.64,15.76,59.8,0,0
+30,302.0,18.2,25.0,0.0,Ayam,Tinggi Protein & Lemak,0.0601,0.0825,74.26,24.03,0.0,2,0
+31,297.0,35.9,15.2,1.6,Ayam  Goreng Kentuckysayap,Tinggi Protein & Lemak,0.1205,0.051,45.91,48.19,2.15,2,0
+32,270.0,32.3,11.2,9.9,Ayam Ampela Goreng,Sedang,0.1192,0.0413,37.2,47.68,14.61,1,0
+33,75.0,13.8,1.9,0.7,Ayam Dideh/Darah Segar,"Tinggi Protein, Rendah Lemak",0.1816,0.025,22.5,72.63,3.68,0,1
+34,295.0,34.0,16.0,1.5,Ayam Goreng Church Texa Sayap,Tinggi Protein & Lemak,0.1149,0.0541,48.65,45.95,2.03,2,0
+35,338.0,35.2,20.6,0.4,Ayam Goreng Church Texas Dada,Tinggi Protein & Lemak,0.1038,0.0608,54.69,41.53,0.47,2,0
+36,275.0,37.4,12.2,1.3,Ayam Goreng Kalasan Paha,Sedang,0.1355,0.0442,39.78,54.2,1.88,1,0
+37,298.0,34.2,16.8,0.1,Ayam Goreng Kentucky Dada,Tinggi Protein & Lemak,0.1144,0.0562,50.57,45.75,0.13,2,0
+38,286.0,32.1,16.1,1.1,Ayam Goreng Kentucky Paha,Tinggi Protein & Lemak,0.1118,0.0561,50.49,44.74,1.53,2,0
+39,295.0,39.2,13.6,1.0,Ayam Goreng Mbok Berek Dada,Sedang,0.1324,0.0459,41.35,52.97,1.35,1,0
+40,287.0,31.0,15.7,1.7,Ayam Goreng Paha,Tinggi Protein & Lemak,0.1076,0.0545,49.06,43.06,2.36,2,0
+41,246.0,37.9,9.0,0.7,Ayam Goreng Pasundan Dada,Sedang,0.1534,0.0364,32.79,61.38,1.13,1,1
+42,245.0,33.1,11.4,0.3,Ayam Goreng Pasundan Paha,Sedang,0.1346,0.0463,41.71,53.82,0.49,1,0
+43,295.0,37.4,14.7,0.6,Ayam Goreng Pioneer Dada,Sedang,0.1264,0.0497,44.7,50.54,0.81,1,0
+44,244.0,36.7,9.2,1.0,Ayam Goreng Sukabumi Dada,Sedang,0.1498,0.0376,33.8,59.92,1.63,1,1
+45,283.0,35.7,14.3,0.5,Ayam Goreng Sukabumi Paha,Sedang,0.1257,0.0504,45.32,50.28,0.7,1,0
+46,261.0,27.4,16.1,1.6,Ayam Hati Segar,Tinggi Protein & Lemak,0.1046,0.0615,55.31,41.83,2.44,2,0
+47,264.0,18.2,20.1,2.7,Ayam Taliwang Masakan,Tinggi Protein & Lemak,0.0687,0.0758,68.26,27.47,4.08,2,0
+48,473.0,45.2,26.3,13.9,Ayam Usus Goreng,Tinggi Protein & Lemak,0.0954,0.0555,49.94,38.14,11.73,2,0
+49,113.0,17.6,4.2,0.0,Babat,Sedang,0.1544,0.0368,33.16,61.75,0.0,0,1
+50,453.0,11.9,45.0,0.0,Babi Daging Gemuk Segar,Tinggi Lemak,0.0262,0.0991,89.21,10.48,0.0,2,0
+51,371.0,14.1,35.0,0.0,Babi Daging Kurus Segar,Tinggi Lemak,0.0379,0.0941,84.68,15.16,0.0,2,0
+52,110.0,16.3,4.6,0.8,Babi Ginjal Segar,Sedang,0.1468,0.0414,37.3,58.74,2.88,0,1
+53,129.0,19.7,4.8,1.7,Babi Hati Segar,Sedang,0.1515,0.0369,33.23,60.62,5.23,0,1
+54,491.0,24.6,16.3,0.2,Babi Hutan Masak Rica Masakan,Tinggi Protein & Lemak,0.05,0.0331,29.82,20.0,0.16,1,0
+55,102.9,3.3,2.7,16.3,Bacang,Rendah Lemak,0.0318,0.026,23.39,12.7,62.75,0,0
+56,450.0,3.2,13.9,78.1,Bagea Kelapa Asin,Sedang,0.0071,0.0308,27.74,2.84,69.27,1,0
+57,452.0,1.3,13.8,80.6,Bagea Kelapa Manis,Sedang,0.0029,0.0305,27.42,1.15,71.17,1,0
+58,529.0,3.2,29.1,63.6,Bagea Kenari Asin,Tinggi Lemak,0.006,0.0549,49.42,2.42,48.0,2,0
+59,523.0,3.2,28.2,64.2,Bagea Kenari Manis,Tinggi Lemak,0.0061,0.0538,48.44,2.44,49.01,2,0
+60,416.0,6.5,9.4,76.3,Bagea Kw 1,Sedang,0.0156,0.0225,20.29,6.24,73.19,1,0
+61,382.0,0.3,3.5,87.2,Bagea Kw 2,Sedang,0.0008,0.0091,8.22,0.31,91.07,0,0
+62,129.0,1.9,6.6,15.6,Baje,Sedang,0.0146,0.0508,45.69,5.85,48.0,0,0
+63,272.0,8.7,6.7,44.1,Bakpia Kue,Sedang,0.0319,0.0245,22.09,12.75,64.62,0,1
+64,76.0,4.1,2.5,9.2,Bakso,Rendah Lemak & Karbo,0.0532,0.0325,29.22,21.3,47.79,0,0
+65,27.0,2.0,0.2,4.2,Bakung Segar,Rendah Lemak & Karbo,0.0714,0.0071,6.43,28.57,60.0,0,0
+66,280.0,8.2,10.2,39.0,Bakwan,Sedang,0.0292,0.0363,32.67,11.67,55.52,1,0
+67,13.0,0.4,0.2,3.0,Baligo,Rendah Lemak & Karbo,0.0286,0.0143,12.86,11.43,85.71,0,0
+68,190.0,3.3,0.3,43.5,Bantal,Rendah Lemak,0.0173,0.0016,1.41,6.91,91.1,0,0
+69,159.0,3.1,5.8,23.5,Barongko,Sedang,0.0194,0.0362,32.62,7.75,58.75,0,0
+70,137.0,4.3,4.8,19.1,Batang Tading,Sedang,0.0312,0.0348,31.3,12.46,55.36,0,0
+71,107.0,2.2,2.2,19.6,Batar Daan,Rendah Lemak,0.0204,0.0204,18.33,8.15,72.59,0,0
+72,76.0,1.1,0.9,16.0,Batatas Gembili Segar,Rendah Lemak,0.0143,0.0117,10.52,5.71,83.12,0,0
+73,110.0,1.4,1.1,23.4,Batatas Kelapa Ubi Bakar,Rendah Lemak,0.0126,0.0099,8.92,5.05,84.32,0,0
+74,92.0,1.2,0.3,21.0,Batatas Kelapa Ubi Kukus,Rendah Lemak,0.0129,0.0032,2.9,5.16,90.32,0,0
+75,89.0,1.1,0.1,21.0,Batatas Kelapa Ubi Segar,Rendah Lemak,0.0122,0.0011,1.0,4.89,93.33,0,0
+76,182.0,2.4,0.4,42.2,Batatas Tali Ubi Rebus,Rendah Lemak,0.0131,0.0022,1.97,5.25,92.24,0,0
+77,45.0,1.4,0.2,10.3,Bawang Bombay,Rendah Lemak & Karbo,0.0304,0.0043,3.91,12.17,89.57,0,0
+78,39.0,1.5,0.3,0.2,Bawang Merah,Rendah Lemak & Karbo,0.0375,0.0075,6.75,15.0,2.0,0,0
+79,95.0,4.5,0.2,23.1,Bawang Putih,Rendah Lemak,0.0469,0.0021,1.88,18.75,96.25,0,0
+80,30.0,1.3,0.7,5.8,Bayam Kukus,Rendah Lemak & Karbo,0.0419,0.0226,20.32,16.77,74.84,0,0
+81,51.0,4.6,0.5,10.0,Bayam Merah,Rendah Lemak & Karbo,0.0885,0.0096,8.65,35.38,76.92,0,0
+82,41.0,2.2,0.8,6.3,Bayam Merah Segar,Rendah Lemak & Karbo,0.0524,0.019,17.14,20.95,60.0,0,0
+83,23.0,1.2,0.6,3.7,Bayam Rebus,Rendah Lemak & Karbo,0.05,0.025,22.5,20.0,61.67,0,0
+84,36.0,3.5,0.5,6.5,Bayam Segar,Rendah Lemak & Karbo,0.0946,0.0135,12.16,37.84,70.27,0,0
+85,102.0,3.7,6.7,6.9,Bayam Tumis + Oncom,Sedang,0.0359,0.065,58.54,14.37,26.8,0,0
+86,48.0,1.4,4.2,2.6,Bayam Tumis Bersantan,Sedang,0.0286,0.0857,77.14,11.43,21.22,0,0
+87,326.0,16.0,28.6,0.0,Bebek (Itik),Tinggi Protein & Lemak,0.0489,0.0875,78.72,19.57,0.0,2,0
+88,303.0,11.3,27.0,3.7,Bebek Alabio Daging Segar,Tinggi Lemak,0.0372,0.0888,79.93,14.87,4.87,2,0
+89,300.0,24.0,20.7,4.5,Bebek Daging Goreng,Tinggi Protein & Lemak,0.0797,0.0688,61.89,31.89,5.98,2,0
+90,65.0,1.1,5.2,3.5,Beberuk,Sedang,0.0167,0.0788,70.91,6.67,21.21,0,0
+91,258.0,10.6,9.5,32.5,Beef Burger,Sedang,0.0409,0.0367,33.01,16.37,50.19,1,1
+92,151.0,8.6,3.1,22.3,Beef Teriyaki Masakan,Sedang,0.0566,0.0204,18.36,22.63,58.68,0,1
+93,132.0,9.8,1.1,20.7,Beef Yakiniku Masakan,Rendah Lemak,0.0737,0.0083,7.44,29.47,62.26,0,1
+94,116.0,11.9,4.9,6.1,Bekasam,Sedang,0.1017,0.0419,37.69,40.68,20.85,0,1
+95,78.0,11.4,2.0,3.6,Bekasang,"Tinggi Protein, Rendah Lemak",0.1443,0.0253,22.78,57.72,18.23,0,1
+96,131.0,20.2,4.3,2.8,Belibis Daging Segar,Sedang,0.153,0.0326,29.32,61.21,8.48,0,1
+97,36.0,0.4,0.4,8.8,Belimbing,Rendah Lemak & Karbo,0.0108,0.0108,9.73,4.32,95.14,0,0
+98,145.0,1.2,0.4,34.2,Belitung Talas Kukus,Rendah Lemak,0.0082,0.0027,2.47,3.29,93.7,0,0
+99,417.0,25.9,19.4,32.0,Belut Goreng,Tinggi Protein & Lemak,0.062,0.0464,41.77,24.78,30.62,2,0
+100,70.0,14.6,0.8,1.0,Belut Segar,"Tinggi Protein, Rendah Lemak",0.2056,0.0113,10.14,82.25,5.63,0,1
+101,93.0,12.8,1.5,6.1,Belutlaut Segar,"Tinggi Protein, Rendah Lemak",0.1362,0.016,14.36,54.47,25.96,0,1
+102,55.0,1.4,0.2,12.8,Bengkuang,Rendah Lemak & Karbo,0.025,0.0036,3.21,10.0,91.43,0,0
+103,98.0,1.6,0.7,20.9,Bentul (Komba)  Talas Segar,Rendah Lemak,0.0162,0.0071,6.36,6.46,84.44,0,0
+104,71.0,2.3,0.3,15.4,Bentul Talas Kukus,Rendah Lemak,0.0319,0.0042,3.75,12.78,85.56,0,0
+105,350.0,2.7,1.1,82.3,Beras Cerdas,Rendah Lemak,0.0077,0.0031,2.82,3.08,93.79,0,0
+106,364.0,3.4,0.7,86.3,Beras Ganyong,Rendah Lemak,0.0093,0.0019,1.73,3.73,94.58,0,0
+107,360.0,6.8,0.7,78.9,Beras Giling,Rendah Lemak,0.0188,0.0019,1.75,7.53,87.42,0,0
+108,178.0,2.1,0.1,40.6,Beras Giling Masak (Nasi),Rendah Lemak,0.0117,0.0006,0.5,4.69,90.73,0,0
+109,357.0,8.4,1.7,77.1,Beras Giling Mentah,Rendah Lemak,0.0235,0.0047,4.27,9.39,86.15,0,0
+110,369.0,9.5,1.4,77.1,Beras Giling Var Pelita Mentah,Rendah Lemak,0.0257,0.0038,3.41,10.27,83.35,0,0
+111,357.0,8.4,1.7,77.1,Beras Giling Var Rojolele Mentah,Rendah Lemak,0.0235,0.0047,4.27,9.39,86.15,0,0
+112,351.0,8.0,1.3,76.9,Beras Hitam Mentah,Rendah Lemak,0.0227,0.0037,3.32,9.09,87.39,0,0
+113,358.0,5.5,0.1,82.7,Beras Jagung Kuning Kering Mentah,Rendah Lemak,0.0153,0.0003,0.25,6.13,92.14,0,0
+114,307.0,4.8,0.1,71.8,Beras Jagung Putih Kering Mentah,Rendah Lemak,0.0156,0.0003,0.29,6.23,93.25,0,0
+115,356.0,7.0,0.7,78.0,Beras Ketan Hitam,Rendah Lemak,0.0196,0.002,1.76,7.84,87.39,0,0
+116,181.0,4.0,1.2,37.3,Beras Ketan Hitam Kukus,Rendah Lemak,0.022,0.0066,5.93,8.79,81.98,0,0
+117,166.0,3.8,1.0,34.4,Beras Ketan Hitam Tape,Rendah Lemak,0.0228,0.006,5.39,9.1,82.4,0,0
+118,360.0,8.0,2.3,74.5,Beras Ketan Hitam Tumbuk,Rendah Lemak,0.0222,0.0064,5.73,8.86,82.55,0,0
+119,360.0,8.0,2.3,74.5,Beras Ketan Hitam Tumbuk Mentah,Rendah Lemak,0.0222,0.0064,5.73,8.86,82.55,0,0
+120,362.0,6.7,0.7,79.4,Beras Ketan Putih,Rendah Lemak,0.0185,0.0019,1.74,7.38,87.49,0,0
+121,163.0,3.0,0.4,35.7,Beras Ketan Putih Kukus,Rendah Lemak,0.0183,0.0024,2.2,7.32,87.07,0,0
+122,172.0,3.0,0.5,37.5,Beras Ketan Putih Tape,Rendah Lemak,0.0173,0.0029,2.6,6.94,86.71,0,0
+123,361.0,7.4,0.8,78.4,Beras Ketan Putih Tumbuk,Rendah Lemak,0.0204,0.0022,1.99,8.18,86.63,0,0
+124,361.0,7.4,0.8,78.4,Beras Ketan Putih Tumbuk Mentah,Rendah Lemak,0.0204,0.0022,1.99,8.18,86.63,0,0
+125,376.0,7.5,3.8,78.0,Beras Ladang Mentah,Sedang,0.0199,0.0101,9.07,7.96,82.76,0,0
+126,339.0,7.7,4.4,73.0,Beras Menir,Sedang,0.0226,0.0129,11.65,9.06,85.88,0,0
+127,362.0,7.7,4.4,73.0,Beras Menir Mentah,Sedang,0.0212,0.0121,10.91,8.48,80.44,0,0
+128,359.0,7.5,0.9,77.6,Beras Merah Tumbuk,Rendah Lemak,0.0208,0.0025,2.25,8.33,86.22,0,0
+129,364.0,6.8,0.6,80.1,Beras Parboiled,Rendah Lemak,0.0186,0.0016,1.48,7.45,87.78,0,0
+130,353.0,6.8,0.6,80.0,Beras Parboiled,Rendah Lemak,0.0192,0.0017,1.53,7.68,90.4,0,0
+131,335.0,7.4,1.9,76.2,Beras Pecah Kulit,Rendah Lemak,0.022,0.0057,5.09,8.81,90.71,0,0
+132,363.0,7.6,1.1,78.3,Beras Setengah Giling,Rendah Lemak,0.0209,0.003,2.72,8.35,86.04,0,0
+133,344.0,1.1,0.2,28.3,Beras Siger,Rendah Lemak,0.0032,0.0006,0.52,1.28,32.81,0,0
+134,354.0,7.8,0.4,79.9,Beras Tumbuk Mentah,Rendah Lemak,0.022,0.0011,1.01,8.79,90.03,0,0
+135,352.0,7.3,0.9,76.2,Beras Tumbuk Merah Mentah,Rendah Lemak,0.0207,0.0025,2.29,8.27,86.35,0,0
+136,145.0,16.3,7.0,4.1,Betok Wadi Masakan,Sedang,0.1116,0.0479,43.15,44.66,11.23,0,1
+137,360.0,4.7,0.1,82.1,Bihun,Rendah Lemak,0.013,0.0003,0.25,5.21,90.97,0,0
+138,154.0,3.0,4.5,25.5,Bihun Goreng,Sedang,0.0194,0.029,26.13,7.74,65.81,0,0
+139,381.0,6.1,3.9,80.3,Bihun Goreng Instan,Sedang,0.016,0.0102,9.19,6.39,84.08,0,0
+140,354.0,0.5,0.3,87.4,Bihun Jagung Mentah,Rendah Lemak,0.0014,0.0008,0.76,0.56,98.48,0,0
+141,348.0,4.7,0.1,82.1,Bihun Mentah,Rendah Lemak,0.0135,0.0003,0.26,5.39,94.1,0,0
+142,562.0,21.2,49.6,23.6,Biji Jambu Mete,Tinggi Protein & Lemak,0.0377,0.0881,79.29,15.06,16.77,2,0
+143,629.0,21.5,56.6,19.8,Biji Jambu Mete Goreng,Tinggi Protein & Lemak,0.0341,0.0898,80.86,13.65,12.57,2,0
+144,262.0,2.3,5.4,51.1,Biji Nangka/Biji Salak,Sedang,0.0087,0.0205,18.48,3.5,77.72,0,0
+145,199.0,2.1,1.5,44.4,Bika Ambon,Rendah Lemak,0.0105,0.0075,6.75,4.2,88.8,0,0
+146,225.7,3.0,0.3,52.9,Bika Ambon,Rendah Lemak,0.0132,0.0013,1.19,5.29,93.34,0,0
+147,48.0,0.6,0.0,4.4,Bir (4% Alkohol),Rendah Lemak & Karbo,0.0122,0.0,0.0,4.9,35.92,0,0
+148,458.0,6.9,14.4,75.1,Biskuit,Sedang,0.015,0.0314,28.24,6.01,65.45,1,0
+149,42.0,1.6,0.1,9.6,Bit,Rendah Lemak & Karbo,0.0372,0.0023,2.09,14.88,89.3,0,0
+150,51.0,0.3,0.1,12.1,Biwah Segar,Rendah Lemak & Karbo,0.0058,0.0019,1.73,2.31,93.08,0,0
+151,43.0,2.6,0.0,11.6,Bonggol Pisang,Rendah Lemak & Karbo,0.0591,0.0,0.0,23.64,105.45,0,0
+152,245.0,3.4,0.0,66.2,Bonggol Pisang Kering,Rendah Lemak,0.0138,0.0,0.0,5.53,107.64,0,0
+153,119.0,4.4,3.5,18.3,Bongkrek (Tempe Bungkil),Sedang,0.0367,0.0292,26.25,14.67,61.0,0,0
+154,23.0,1.0,0.8,7.2,Boros Kunci,Rendah Lemak & Karbo,0.0417,0.0333,30.0,16.67,120.0,0,0
+155,22.0,1.0,0.3,4.7,Boros Laja (Lengkuas),Rendah Lemak & Karbo,0.0435,0.013,11.74,17.39,81.74,0,0
+156,186.0,11.7,9.7,13.0,Botok Lamtoro,Sedang,0.0626,0.0519,46.68,25.03,27.81,1,1
+157,249.0,3.4,0.4,58.0,Brem,Rendah Lemak,0.0136,0.0016,1.44,5.44,92.8,0,0
+158,400.0,4.0,0.7,95.3,Brondong,Rendah Lemak,0.01,0.0017,1.57,3.99,95.06,0,0
+159,141.0,15.3,3.3,12.6,Brongkos,Sedang,0.1077,0.0232,20.92,43.1,35.49,0,1
+160,23.0,0.8,0.2,5.2,Buah Atung,Rendah Lemak & Karbo,0.0333,0.0083,7.5,13.33,86.67,0,0
+161,110.0,1.4,2.1,21.4,Buah Kelenting Segar,Rendah Lemak,0.0126,0.0189,17.03,5.05,77.12,0,0
+162,38.0,1.5,0.2,7.5,Buah Kelor,Rendah Lemak & Karbo,0.0385,0.0051,4.62,15.38,76.92,0,0
+163,264.0,4.0,1.1,59.6,Buah Kom Segar,Rendah Lemak,0.0151,0.0042,3.74,6.04,89.96,0,0
+164,39.0,0.7,0.2,9.7,Buah Mentega (Bisbul),Rendah Lemak & Karbo,0.0175,0.005,4.5,7.0,97.0,0,0
+165,87.0,2.6,2.7,13.1,Buah Merah,Rendah Lemak & Karbo,0.0295,0.0307,27.61,11.82,59.55,0,0
+166,71.0,1.7,3.1,9.1,Buah Naga Merah Segar,Sedang,0.0236,0.0431,38.75,9.44,50.56,0,0
+167,56.0,0.8,1.0,10.9,Buah Naga Putih Segar,Rendah Lemak & Karbo,0.014,0.0175,15.79,5.61,76.49,0,0
+168,55.0,1.2,0.1,12.2,Buah Negri Segar,Rendah Lemak & Karbo,0.0214,0.0018,1.61,8.57,87.14,0,0
+169,101.0,1.7,0.6,25.2,Buah Nona,Rendah Lemak,0.0167,0.0059,5.29,6.67,98.82,0,0
+170,78.0,0.6,0.3,18.2,Buah Rotan Segar,Rendah Lemak,0.0076,0.0038,3.42,3.04,92.15,0,0
+171,113.0,0.8,0.3,26.8,Buah Rukam Segar,Rendah Lemak,0.007,0.0026,2.37,2.81,94.04,0,0
+172,29.0,2.1,0.7,3.6,Buah Ruruhi Segar,Rendah Lemak & Karbo,0.07,0.0233,21.0,28.0,48.0,0,0
+173,67.0,0.4,0.2,15.9,Buah Tuppa Segar,Rendah Lemak,0.0059,0.0029,2.65,2.35,93.53,0,0
+174,365.0,49.6,4.8,30.8,Buaya Daging Dendeng Mentah,Sedang,0.1355,0.0131,11.8,54.21,33.66,0,0
+175,60.0,1.0,60.0,13.0,Bubur,Tinggi Lemak,0.0164,0.9836,885.25,6.56,85.25,2,0
+176,167.0,0.2,4.0,33.0,Bubur Sagu,Sedang,0.0012,0.0238,21.43,0.48,78.57,0,0
+177,156.0,2.3,0.2,15.6,Bubur Tinotuan (Manado),Rendah Lemak,0.0146,0.0013,1.15,5.86,39.75,0,0
+178,72.0,11.4,4.9,1.4,Bulgogi Masakan,Sedang,0.1562,0.0671,60.41,62.47,7.67,0,1
+179,212.0,16.9,0.2,47.6,Bulung Jajan,"Tinggi Protein, Rendah Lemak",0.0793,0.0009,0.85,31.74,89.39,0,1
+180,237.0,14.7,0.2,56.0,Bulung Sangu,"Tinggi Protein, Rendah Lemak",0.0618,0.0008,0.76,24.71,94.12,0,1
+181,35.0,2.4,0.2,7.7,Buncis,Rendah Lemak & Karbo,0.0667,0.0056,5.0,26.67,85.56,0,0
+182,60.0,5.1,0.5,8.5,Buncis Asam,Rendah Lemak & Karbo,0.0836,0.0082,7.38,33.44,55.74,0,1
+183,30.0,2.2,0.2,6.4,Buncis Rebus,Rendah Lemak & Karbo,0.071,0.0065,5.81,28.39,82.58,0,0
+184,45.0,2.6,0.3,8.1,Bunga Pepaya Segar,Rendah Lemak & Karbo,0.0565,0.0065,5.87,22.61,70.43,0,0
+185,42.0,2.0,1.1,6.1,Bunga Turi Segar,Rendah Lemak & Karbo,0.0465,0.0256,23.02,18.6,56.74,0,0
+186,333.0,29.3,3.3,50.0,Bungkil Biji Karet,Sedang,0.0877,0.0099,8.89,35.09,59.88,0,0
+187,336.0,37.4,13.0,30.5,Bungkil Kacang Tanah,Sedang,0.111,0.0386,34.72,44.39,36.2,1,0
+188,368.0,23.0,15.0,40.0,Bungkil Kelapa,Sedang,0.0623,0.0407,36.59,24.93,43.36,1,0
+189,106.0,4.4,6.3,7.9,Buntil,Sedang,0.0411,0.0589,52.99,16.45,29.53,0,0
+190,141.0,4.4,10.2,8.0,Buntil Daun Talas,Sedang,0.031,0.0718,64.65,12.39,22.54,1,0
+191,125.7,3.3,1.9,23.9,Buras,Rendah Lemak,0.026,0.015,13.5,10.42,75.45,0,0
+192,281.0,37.5,0.3,32.1,Burung Sarang Segar,"Tinggi Protein, Rendah Lemak",0.133,0.0011,0.96,53.19,45.53,0,1
+193,38.0,1.6,0.8,6.3,Cabai Gembor Merah Segar,Rendah Lemak & Karbo,0.041,0.0205,18.46,16.41,64.62,0,0
+194,26.0,0.7,0.3,5.2,Cabai Hijau Segar,Rendah Lemak & Karbo,0.0259,0.0111,10.0,10.37,77.04,0,0
+195,367.0,15.9,6.2,61.8,Cabai Merah Kering,Sedang,0.0432,0.0168,15.16,17.28,67.17,0,0
+196,36.0,1.0,0.3,7.3,Cabai Merah Segar,Rendah Lemak & Karbo,0.027,0.0081,7.3,10.81,78.92,0,0
+197,120.0,4.7,2.4,19.9,Cabai Rawit Segar,Rendah Lemak,0.0388,0.0198,17.85,15.54,65.79,0,0
+198,20.0,1.7,0.4,3.4,Caisin Segar,Rendah Lemak & Karbo,0.081,0.019,17.14,32.38,64.76,0,0
+199,155.0,20.1,3.8,10.2,Cakalang Asar (Asap Papua),Sedang,0.1288,0.0244,21.92,51.54,26.15,0,1
+200,323.0,4.9,11.5,50.1,Cake Tape,Sedang,0.0151,0.0355,31.94,6.05,61.85,1,0
+201,102.0,3.2,6.0,8.7,Cammetutu,Sedang,0.0311,0.0583,52.43,12.43,33.79,0,0
+202,366.0,11.0,3.3,73.0,Cantel Mentah,Sedang,0.03,0.009,8.09,11.99,79.56,0,0
+203,97.0,5.8,6.3,4.2,Cap Cai Sayur,Sedang,0.0592,0.0643,57.86,23.67,17.14,0,1
+204,24.0,1.9,0.2,3.7,Carica Papaya Segar,Rendah Lemak & Karbo,0.076,0.008,7.2,30.4,59.2,0,0
+205,460.0,0.8,18.7,17.2,Cassavastick,Tinggi Lemak,0.0017,0.0406,36.51,0.69,14.92,2,0
+206,116.0,3.0,0.4,28.6,Cempedak,Rendah Lemak,0.0256,0.0034,3.08,10.26,97.78,0,0
+207,330.0,5.2,8.9,57.4,Cengkeh Kering,Sedang,0.0157,0.0269,24.2,6.28,69.37,1,0
+208,332.0,11.0,3.3,73.0,Centel,Sedang,0.033,0.0099,8.92,13.21,87.69,0,0
+209,462.0,1.2,20.7,67.7,Ceriping Getuk Singkong,Tinggi Lemak,0.0026,0.0447,40.24,1.04,58.49,2,0
+210,168.0,13.0,9.6,7.5,Chicken Teriyaki Masakan,Sedang,0.0769,0.0568,51.12,30.77,17.75,1,1
+211,143.0,9.8,1.4,22.8,Chikiniku Masakan,Rendah Lemak,0.0681,0.0097,8.75,27.22,63.33,0,1
+212,311.0,8.0,4.0,48.9,Coklat Bubuk,Sedang,0.0256,0.0128,11.54,10.26,62.69,0,0
+213,472.0,2.0,29.8,62.7,Coklat Manis Batang,Tinggi Lemak,0.0042,0.063,56.7,1.69,53.02,2,0
+214,504.0,5.5,52.9,29.2,Coklat Pahit Batang,Tinggi Lemak,0.0109,0.1048,94.28,4.36,23.13,2,0
+215,381.0,9.0,35.0,53.6,Coklat Susu Batang,Tinggi Lemak,0.0236,0.0916,82.46,9.42,56.13,2,0
+216,210.0,1.6,6.6,35.8,Combro,Sedang,0.0076,0.0313,28.15,3.03,67.87,0,0
+217,241.0,16.0,25.0,0.0,Corned Beef,Tinggi Protein & Lemak,0.0661,0.1033,92.98,26.45,0.0,2,0
+218,96.0,6.8,5.9,3.8,Coto Mangkasara Kuda Masakan,Sedang,0.0701,0.0608,54.74,28.04,15.67,0,1
+219,84.0,6.0,6.0,1.4,Coto Mangkasara Sapi Masakan,Sedang,0.0706,0.0706,63.53,28.24,6.59,0,1
+220,145.0,27.0,2.3,0.0,Cue Selar Kuning,"Tinggi Protein, Rendah Lemak",0.1849,0.0158,14.18,73.97,0.0,0,1
+221,12.0,0.1,0.1,5.0,Cuka,Rendah Lemak & Karbo,0.0077,0.0077,6.92,3.08,153.85,0,0
+222,265.0,40.6,10.1,0.0,Cumi-Cumi Goreng,Sedang,0.1526,0.038,34.17,61.05,0.0,1,0
+223,75.0,16.1,0.7,0.1,Cumi-Cumi Segar,"Tinggi Protein, Rendah Lemak",0.2118,0.0092,8.29,84.74,0.53,0,1
+224,190.0,19.1,12.0,0.0,Daging Anak Sapi,Sedang,0.1,0.0628,56.54,40.0,0.0,1,0
+225,191.0,32.0,6.0,0.0,Daging Asap,Sedang,0.1667,0.0312,28.12,66.67,0.0,0,1
+226,457.0,11.6,45.0,0.0,Daging Babi Gemuk,Tinggi Lemak,0.0253,0.0983,88.43,10.13,0.0,2,0
+227,376.0,14.1,35.0,0.0,Daging Babi Kurus,Tinggi Lemak,0.0374,0.0928,83.55,14.96,0.0,2,0
+228,206.0,17.1,14.8,0.0,Daging Domba,Sedang,0.0826,0.0715,64.35,33.04,0.0,1,0
+229,154.0,16.6,9.2,0.0,Daging Kambing,Sedang,0.1071,0.0594,53.42,42.84,0.0,1,1
+230,84.0,18.7,0.5,0.0,Daging Kerbau,"Tinggi Protein, Rendah Lemak",0.22,0.0059,5.29,88.0,0.0,0,1
+231,118.0,18.1,4.1,0.9,Daging Kuda,Sedang,0.1521,0.0345,31.01,60.84,3.03,0,1
+232,207.0,18.8,14.0,0.0,Daging Sapi,Sedang,0.0904,0.0673,60.58,36.15,0.0,1,0
+233,27.0,1.3,0.6,4.0,Daun Bangun-Bangun Segar,Rendah Lemak & Karbo,0.0464,0.0214,19.29,18.57,57.14,0,0
+234,29.0,1.8,0.7,5.2,Daun Bawang,Rendah Lemak & Karbo,0.06,0.0233,21.0,24.0,69.33,0,0
+235,41.0,2.0,0.3,7.8,Daun Bawang  Merah Segar,Rendah Lemak & Karbo,0.0476,0.0071,6.43,19.05,74.29,0,0
+236,41.0,2.7,1.0,7.3,Daun Bebuas Segar,Rendah Lemak & Karbo,0.0643,0.0238,21.43,25.71,69.52,0,0
+237,50.0,4.4,1.4,7.8,Daun Belem Segar,Rendah Lemak & Karbo,0.0863,0.0275,24.71,34.51,61.18,0,0
+238,42.0,1.8,0.5,9.4,Daun Beluntas,Rendah Lemak & Karbo,0.0419,0.0116,10.47,16.74,87.44,0,0
+239,122.0,6.0,1.0,26.0,Daun Cincau,Rendah Lemak,0.0488,0.0081,7.32,19.51,84.55,0,1
+240,60.0,3.1,0.3,14.0,Daun Gandaria,Rendah Lemak & Karbo,0.0508,0.0049,4.43,20.33,91.8,0,0
+241,58.0,2.9,0.7,10.0,Daun Gedi Besar Segar,Rendah Lemak & Karbo,0.0492,0.0119,10.68,19.66,67.8,0,0
+242,30.0,1.3,0.7,5.8,Daun Gelang Segar,Rendah Lemak & Karbo,0.0419,0.0226,20.32,16.77,74.84,0,0
+243,50.0,4.6,0.9,7.0,Daun Gunda Bali Segar,Rendah Lemak & Karbo,0.0902,0.0176,15.88,36.08,54.9,0,0
+244,62.0,4.2,0.9,9.2,Daun Gunda Serang Segar,Rendah Lemak & Karbo,0.0667,0.0143,12.86,26.67,58.41,0,0
+245,73.0,4.6,0.5,16.2,Daun Jambu Mete Muda,Rendah Lemak,0.0622,0.0068,6.08,24.86,87.57,0,0
+246,34.0,3.8,0.5,5.3,Daun Jampang Segar,Rendah Lemak & Karbo,0.1086,0.0143,12.86,43.43,60.57,0,0
+247,93.0,5.0,1.3,15.3,Daun Jawaw Seluang Segar,Rendah Lemak,0.0532,0.0138,12.45,21.28,65.11,0,1
+248,27.0,2.1,0.7,4.4,Daun Jonghe Segar,Rendah Lemak & Karbo,0.075,0.025,22.5,30.0,62.86,0,0
+249,36.0,2.9,0.6,6.8,Daun Kacang Ma Segar,Rendah Lemak & Karbo,0.0784,0.0162,14.59,31.35,73.51,0,0
+250,34.0,4.1,0.4,5.8,Daun Kacang Panjang,Rendah Lemak & Karbo,0.1171,0.0114,10.29,46.86,66.29,0,0
+251,40.0,3.7,0.3,8.0,Daun Kacang Panjang Kukus,Rendah Lemak & Karbo,0.0902,0.0073,6.59,36.1,78.05,0,0
+252,30.0,3.1,0.3,5.8,Daun Kacang Panjang Segar,Rendah Lemak & Karbo,0.1,0.0097,8.71,40.0,74.84,0,0
+253,92.0,4.0,3.6,10.9,Daun Kasbi/Singkong Karet Segar,Sedang,0.043,0.0387,34.84,17.2,46.88,0,0
+254,59.0,4.8,1.0,11.0,Daun Katuk,Rendah Lemak & Karbo,0.08,0.0167,15.0,32.0,73.33,0,0
+255,53.0,5.3,0.9,9.1,Daun Katuk Rebus,Rendah Lemak & Karbo,0.0981,0.0167,15.0,39.26,67.41,0,1
+256,59.0,6.4,1.0,9.9,Daun Katuk Segar,Rendah Lemak & Karbo,0.1067,0.0167,15.0,42.67,66.0,0,1
+257,47.0,5.0,0.5,8.5,Daun Kecipir,Rendah Lemak & Karbo,0.1042,0.0104,9.38,41.67,70.83,0,1
+258,59.0,2.8,0.3,13.4,Daun Kedondong,Rendah Lemak & Karbo,0.0467,0.005,4.5,18.67,89.33,0,0
+259,82.0,6.7,1.7,14.3,Daun Kelor,Rendah Lemak & Karbo,0.0807,0.0205,18.43,32.29,68.92,0,1
+260,61.0,6.1,0.9,10.0,Daun Kelor Rebus,Rendah Lemak & Karbo,0.0984,0.0145,13.06,39.35,64.52,0,1
+261,46.0,4.0,0.5,8.9,Daun Kemangi,Rendah Lemak & Karbo,0.0851,0.0106,9.57,34.04,75.74,0,0
+262,45.0,3.7,0.5,6.6,Daun Kenikir Segar,Rendah Lemak & Karbo,0.0804,0.0109,9.78,32.17,57.39,0,0
+263,48.0,4.5,0.8,9.1,Daun Kesum Segar,Rendah Lemak & Karbo,0.0918,0.0163,14.69,36.73,74.29,0,0
+264,22.0,2.1,0.5,3.6,Daun Kol Sawi Segar,Rendah Lemak & Karbo,0.0913,0.0217,19.57,36.52,62.61,0,0
+265,23.0,3.0,0.3,3.7,Daun Koro,Rendah Lemak & Karbo,0.125,0.0125,11.25,50.0,61.67,0,0
+266,51.0,2.5,1.1,8.0,Daun Kubis Segar,Rendah Lemak & Karbo,0.0481,0.0212,19.04,19.23,61.54,0,0
+267,14.0,1.3,0.3,2.3,Daun Kumak,Rendah Lemak & Karbo,0.0867,0.02,18.0,34.67,61.33,0,0
+268,60.0,4.0,0.4,4.7,Daun Labu Siam,Rendah Lemak & Karbo,0.0656,0.0066,5.9,26.23,30.82,0,0
+269,30.0,3.6,0.6,4.5,Daun Labu Waluh,Rendah Lemak & Karbo,0.1161,0.0194,17.42,46.45,58.06,0,0
+270,87.0,8.3,1.8,14.4,Daun Lamtoro Segar,Rendah Lemak & Karbo,0.0943,0.0205,18.41,37.73,65.45,0,1
+271,76.0,2.8,0.2,15.8,Daun Leilem Segar,Rendah Lemak,0.0364,0.0026,2.34,14.55,82.08,0,0
+272,45.0,4.7,0.5,8.1,Daun Leunca,Rendah Lemak & Karbo,0.1022,0.0109,9.78,40.87,70.43,0,0
+273,30.0,2.3,0.4,5.8,Daun Lobak,Rendah Lemak & Karbo,0.0742,0.0129,11.61,29.68,74.84,0,0
+274,40.0,3.0,0.8,7.4,Daun Lompong Tales,Rendah Lemak & Karbo,0.0732,0.0195,17.56,29.27,72.2,0,0
+275,54.0,3.7,0.3,11.8,Daun Mangkokan,Rendah Lemak & Karbo,0.0673,0.0055,4.91,26.91,85.82,0,0
+276,71.0,6.8,1.6,11.5,Daun Matel Ambon Segar,Rendah Lemak & Karbo,0.0944,0.0222,20.0,37.78,63.89,0,1
+277,99.0,5.0,1.3,21.3,Daun Melinjo,Rendah Lemak,0.05,0.013,11.7,20.0,85.2,0,1
+278,63.0,3.8,1.5,11.5,Daun Mengkudu Kukus,Rendah Lemak & Karbo,0.0594,0.0234,21.09,23.75,71.88,0,0
+279,166.0,1.7,0.5,38.8,Daun Ndusuk Segar,Rendah Lemak,0.0102,0.003,2.69,4.07,92.93,0,0
+280,22.0,1.0,0.1,5.3,Daun Oyong,Rendah Lemak & Karbo,0.0435,0.0043,3.91,17.39,92.17,0,0
+281,22.0,1.0,0.1,5.3,Daun Oyong Segar,Rendah Lemak & Karbo,0.0435,0.0043,3.91,17.39,92.17,0,0
+282,35.0,4.0,0.3,6.4,Daun Pakis,Rendah Lemak & Karbo,0.1111,0.0083,7.5,44.44,71.11,0,0
+283,54.0,2.2,3.6,3.1,Daun Pakis Longgiho Segar,Sedang,0.04,0.0655,58.91,16.0,22.55,0,0
+284,39.0,4.5,0.4,6.9,Daun Pakis Segar,Rendah Lemak & Karbo,0.1125,0.01,9.0,45.0,69.0,0,0
+285,53.0,3.4,1.2,7.2,Daun Pakis Wambateu Segar,Rendah Lemak & Karbo,0.063,0.0222,20.0,25.19,53.33,0,0
+286,29.0,3.4,0.1,6.5,Daun Paku Segar,Rendah Lemak & Karbo,0.1133,0.0033,3.0,45.33,86.67,0,0
+287,104.0,3.9,0.6,17.9,Daun Pangisegar,Rendah Lemak,0.0371,0.0057,5.14,14.86,68.19,0,0
+288,49.0,2.7,1.0,8.4,Daun Pare Segar,Rendah Lemak & Karbo,0.054,0.02,18.0,21.6,67.2,0,0
+289,87.0,8.0,2.0,11.9,Daun Pepaya Segar,Rendah Lemak & Karbo,0.0909,0.0227,20.45,36.36,54.09,0,1
+290,128.0,12.0,6.5,12.4,Daun Pete Cina,Sedang,0.093,0.0504,45.35,37.21,38.45,0,1
+291,37.0,2.5,0.8,6.9,Daun Poh-Pohan,Rendah Lemak & Karbo,0.0658,0.0211,18.95,26.32,72.63,0,0
+292,301.0,14.2,10.9,49.0,Daun Salam  Bubuk,Sedang,0.047,0.0361,32.48,18.81,64.9,1,0
+293,62.0,4.0,0.5,10.5,Daun Selasih Segar,Rendah Lemak & Karbo,0.0635,0.0079,7.14,25.4,66.67,0,0
+294,45.0,4.4,8.0,0.5,Daun Semanggi,Sedang,0.0957,0.1739,156.52,38.26,4.35,0,0
+295,45.0,4.4,0.5,8.5,Daun Semanggi Segar,Rendah Lemak & Karbo,0.0957,0.0109,9.78,38.26,73.91,0,0
+296,53.0,3.2,2.5,7.6,Daun Simpur Segar,Rendah Lemak & Karbo,0.0593,0.0463,41.67,23.7,56.3,0,0
+297,68.0,2.0,1.0,15.2,Daun Singkil Segar,Rendah Lemak,0.029,0.0145,13.04,11.59,88.12,0,0
+298,73.0,6.8,1.2,13.0,Daun Singkong,Rendah Lemak & Karbo,0.0919,0.0162,14.59,36.76,70.27,0,1
+299,144.0,12.7,1.2,25.2,Daun Singkong Ambon Segar,"Tinggi Protein, Rendah Lemak",0.0876,0.0083,7.45,35.03,69.52,0,1
+300,50.0,6.2,1.1,7.1,Daun Singkong Ampenan Segar,Rendah Lemak & Karbo,0.1216,0.0216,19.41,48.63,55.69,0,1
+301,74.0,6.3,0.7,10.7,Daun Singkong Kopang Segar,Rendah Lemak & Karbo,0.084,0.0093,8.4,33.6,57.07,0,1
+302,55.0,4.0,0.5,8.5,Daun Singkong Lodeh,Rendah Lemak & Karbo,0.0714,0.0089,8.04,28.57,60.71,0,0
+303,31.0,3.7,0.6,4.8,Daun Singkong Rebus,Rendah Lemak & Karbo,0.1156,0.0188,16.88,46.25,60.0,0,0
+304,50.0,6.2,1.1,7.1,Daun Singkong Segar,Rendah Lemak & Karbo,0.1216,0.0216,19.41,48.63,55.69,0,1
+305,36.0,2.6,0.9,6.1,Daun Sintrong,Rendah Lemak & Karbo,0.0703,0.0243,21.89,28.11,65.95,0,0
+306,27.0,1.3,0.2,5.9,Daun Talas Rebus,Rendah Lemak & Karbo,0.0464,0.0071,6.43,18.57,84.29,0,0
+307,59.0,3.0,0.4,13.5,Daun Talas Segar,Rendah Lemak & Karbo,0.05,0.0067,6.0,20.0,90.0,0,0
+308,71.0,4.1,2.1,12.3,Daun Tales,Rendah Lemak & Karbo,0.0569,0.0292,26.25,22.78,68.33,0,0
+309,27.0,1.3,0.2,5.9,Daun Tales Rebus,Rendah Lemak & Karbo,0.0464,0.0071,6.43,18.57,84.29,0,0
+310,70.0,2.9,0.3,13.9,Daun Tespong Segar,Rendah Lemak & Karbo,0.0408,0.0042,3.8,16.34,78.31,0,0
+311,47.0,2.8,0.4,10.4,Daun Ubi Jalar,Rendah Lemak & Karbo,0.0583,0.0083,7.5,23.33,86.67,0,0
+312,56.0,3.1,0.3,13.0,Daun Ubi Jalar Kukus,Rendah Lemak & Karbo,0.0544,0.0053,4.74,21.75,91.23,0,0
+313,62.0,3.7,0.3,11.1,Daun Ubi Kuning Segar,Rendah Lemak & Karbo,0.0587,0.0048,4.29,23.49,70.48,0,0
+314,56.0,3.1,0.3,13.0,Daun Ubi Merah Kukus,Rendah Lemak & Karbo,0.0544,0.0053,4.74,21.75,91.23,0,0
+315,48.0,3.0,0.3,10.8,Daun Ubi Merah Segar,Rendah Lemak & Karbo,0.0612,0.0061,5.51,24.49,88.16,0,0
+316,46.0,2.8,0.2,8.2,Daun Ubi Putih Segar,Rendah Lemak & Karbo,0.0596,0.0043,3.83,23.83,69.79,0,0
+317,55.0,1.7,0.1,11.9,Daun Ubi Tinta Segar,Rendah Lemak & Karbo,0.0304,0.0018,1.61,12.14,85.0,0,0
+318,260.0,2.0,15.0,53.0,Deblo,Sedang,0.0077,0.0575,51.72,3.07,81.23,1,0
+319,382.0,55.7,14.1,8.0,Dendeng Belut Goreng,Sedang,0.1454,0.0368,33.13,58.17,8.36,1,0
+320,433.0,55.0,9.0,0.0,Dendeng Daging Sapi,Sedang,0.1267,0.0207,18.66,50.69,0.0,1,0
+321,598.0,74.3,26.9,9.2,Dendeng Mujahir Goreng,Tinggi Protein & Lemak,0.124,0.0449,40.42,49.62,6.14,2,0
+322,77.0,13.8,1.9,0.7,Dideh Darah Ayam,"Tinggi Protein, Rendah Lemak",0.1769,0.0244,21.92,70.77,3.59,0,1
+323,104.0,21.9,1.1,0.0,Dideh Darah Sapi,"Tinggi Protein, Rendah Lemak",0.2086,0.0105,9.43,83.43,0.0,0,1
+324,248.0,10.0,2.3,40.9,Djibokum Masakan,"Tinggi Protein, Rendah Lemak",0.0402,0.0092,8.31,16.06,65.7,0,1
+325,395.0,3.0,5.7,81.2,Dodol,Sedang,0.0076,0.0144,12.95,3.03,82.02,0,0
+326,298.0,3.7,2.1,65.9,Dodol Bali,Rendah Lemak,0.0124,0.007,6.32,4.95,88.16,0,0
+327,368.0,2.6,8.6,70.0,Dodol Banjarmasin,Sedang,0.007,0.0233,20.98,2.82,75.88,1,0
+328,348.0,0.4,3.8,76.1,Dodol Galamai,Sedang,0.0011,0.0109,9.8,0.46,87.22,0,0
+329,331.0,1.9,7.6,63.8,Dodol Kedondong,Sedang,0.0057,0.0229,20.6,2.29,76.87,0,0
+330,373.0,4.3,16.5,51.9,Dodol Manado,Tinggi Lemak,0.0115,0.0441,39.71,4.6,55.51,2,0
+331,17.5,3.3,2.3,39.5,Dodonkol,Rendah Lemak,0.1784,0.1243,111.89,71.35,854.05,0,0
+332,317.0,15.7,27.7,0.0,Domba Daging Gemuk Segar,Tinggi Protein & Lemak,0.0494,0.0871,78.4,19.75,0.0,2,0
+333,202.0,17.1,14.8,0.0,Domba Daging Kurus  Segar,Sedang,0.0842,0.0729,65.62,33.69,0.0,1,0
+334,100.0,16.6,3.3,1.0,Domba Ginjal Segar,Sedang,0.1644,0.0327,29.41,65.74,3.96,0,1
+335,63.0,1.0,0.2,16.1,Duku,Rendah Lemak,0.0156,0.0031,2.81,6.25,100.63,0,0
+336,134.0,2.5,3.0,28.0,Durian,Rendah Lemak,0.0185,0.0222,20.0,7.41,82.96,0,0
+337,80.0,0.5,0.6,18.2,Duwet Segar,Rendah Lemak,0.0062,0.0074,6.67,2.47,89.88,0,0
+338,18.0,1.0,0.2,3.8,Eceng Gondok,Rendah Lemak & Karbo,0.0526,0.0105,9.47,21.05,80.0,0,0
+339,98.0,1.4,0.2,25.4,Embacang,Rendah Lemak,0.0141,0.002,1.82,5.66,102.63,0,0
+340,248.0,36.2,6.9,10.1,Empal (Daging) Goreng Masakan,Sedang,0.1454,0.0277,24.94,58.15,16.22,0,1
+341,590.0,18.5,57.0,0.0,Empal Goreng,Tinggi Protein & Lemak,0.0313,0.0964,86.8,12.52,0.0,2,0
+342,345.0,12.0,1.5,71.5,Emping (Kerupuk Melinjo),"Tinggi Protein, Rendah Lemak",0.0347,0.0043,3.9,13.87,82.66,0,0
+343,403.0,10.6,2.2,85.3,Emping Beras,"Tinggi Protein, Rendah Lemak",0.0262,0.0054,4.9,10.5,84.46,0,0
+344,355.0,17.8,4.6,60.7,Emping Komak,Sedang,0.05,0.0129,11.63,20.0,68.2,0,0
+345,122.0,3.5,4.5,17.5,Encung Asam Segar,Sedang,0.0285,0.0366,32.93,11.38,56.91,0,0
+346,538.0,13.6,30.3,52.6,Enting-Enting Gepuk Hello Kity,Tinggi Lemak,0.0252,0.0562,50.59,10.09,39.04,2,0
+347,524.0,13.3,29.2,52.0,Enting-Enting Gepuk Kacang Tanah,Tinggi Lemak,0.0253,0.0556,50.06,10.13,39.62,2,0
+348,565.0,18.2,38.4,36.8,Enting-Enting Wijen,Tinggi Protein & Lemak,0.0322,0.0678,61.06,12.86,26.01,2,0
+349,70.0,0.6,0.0,18.9,Erbis,Rendah Lemak,0.0085,0.0,0.0,3.38,106.48,0,0
+350,210.0,4.0,12.5,20.6,Es Krim,Sedang,0.019,0.0592,53.32,7.58,39.05,1,0
+351,156.7,3.0,1.7,32.7,Es Krim (Coconut Milk),Rendah Lemak,0.019,0.0108,9.7,7.61,82.94,0,0
+352,152.0,0.0,0.0,37.6,Es Mambo,Rendah Lemak,0.0,0.0,0.0,0.0,98.3,0,0
+353,44.8,0.0,0.0,11.3,Es Sirup,Rendah Lemak & Karbo,0.0,0.0,0.0,0.0,98.69,0,0
+354,270.0,12.3,15.9,19.3,Fillet O-Fish,Tinggi Lemak,0.0454,0.0587,52.8,18.15,28.49,2,0
+355,322.0,2.4,0.6,76.6,Gadeng/Gadung Kering,Rendah Lemak,0.0074,0.0019,1.67,2.97,94.86,0,0
+356,137.0,6.1,3.2,21.0,Gado-Gado,Sedang,0.0442,0.0232,20.87,17.68,60.87,0,1
+357,88.0,0.8,0.3,20.9,Gadung Kukus,Rendah Lemak,0.009,0.0034,3.03,3.6,93.93,0,0
+358,101.0,2.1,0.2,23.2,Gadung Mentah,Rendah Lemak,0.0206,0.002,1.76,8.24,90.98,0,0
+359,88.0,0.6,0.3,20.9,Gadung Ubi Kukus,Rendah Lemak,0.0067,0.0034,3.03,2.7,93.93,0,0
+360,100.0,0.9,0.3,23.5,Gadung Ubi Segar,Rendah Lemak,0.0089,0.003,2.67,3.56,93.07,0,0
+361,18.0,0.8,0.2,4.1,Gambas (Oyong),Rendah Lemak & Karbo,0.0421,0.0105,9.47,16.84,86.32,0,0
+362,13.0,0.3,0.6,1.6,Gambas Lodeh,Rendah Lemak & Karbo,0.0214,0.0429,38.57,8.57,45.71,0,0
+363,68.0,0.7,0.1,18.0,Gandaria,Rendah Lemak,0.0101,0.0014,1.3,4.06,104.35,0,0
+364,100.0,0.8,0.2,23.8,Ganyong Kukus,Rendah Lemak,0.0079,0.002,1.78,3.17,94.26,0,0
+365,95.0,1.0,0.1,22.6,Ganyong Mentah,Rendah Lemak,0.0104,0.001,0.94,4.17,94.17,0,0
+366,100.0,0.8,0.2,23.8,Ganyong Rebus,Rendah Lemak,0.0079,0.002,1.78,3.17,94.26,0,0
+367,77.0,0.6,0.2,18.4,Ganyong Segar,Rendah Lemak,0.0077,0.0026,2.31,3.08,94.36,0,0
+368,338.0,1.5,0.7,81.3,Gaplek,Rendah Lemak,0.0044,0.0021,1.86,1.77,95.93,0,0
+369,191.0,4.5,1.5,39.7,Gatep Segar,Rendah Lemak,0.0234,0.0078,7.03,9.38,82.71,0,0
+370,347.0,1.3,0.7,83.8,Gatot,Rendah Lemak,0.0037,0.002,1.81,1.49,96.32,0,0
+371,195.0,0.4,1.7,44.4,Geblek,Rendah Lemak,0.002,0.0087,7.81,0.82,90.61,0,0
+372,389.0,0.0,0.0,91.0,Gelatine,Rendah Lemak,0.0,0.0,0.0,0.0,93.33,0,0
+373,95.0,1.5,0.1,22.4,Gembili,Rendah Lemak,0.0156,0.001,0.94,6.25,93.33,0,0
+374,131.0,1.1,0.2,31.3,Gembili Ubi Segar,Rendah Lemak,0.0083,0.0015,1.36,3.33,94.85,0,0
+375,274.0,1.7,5.4,55.5,Gemblong,Sedang,0.0062,0.0196,17.67,2.47,80.73,0,0
+376,407.0,6.4,28.2,32.0,Gendar Goreng,Tinggi Lemak,0.0157,0.0691,62.21,6.27,31.37,2,0
+377,35.0,1.7,0.2,7.7,Genjer Segar,Rendah Lemak & Karbo,0.0472,0.0056,5.0,18.89,85.56,0,0
+378,350.0,1.4,14.4,53.6,Geplak,Sedang,0.004,0.041,36.92,1.6,61.08,1,0
+379,462.0,3.1,24.4,57.7,Geplak Jahe,Tinggi Lemak,0.0067,0.0527,47.43,2.68,49.85,2,0
+380,75.0,8.2,2.0,6.0,Gete Kuah Asam Masakan,Rendah Lemak & Karbo,0.1079,0.0263,23.68,43.16,31.58,0,1
+381,360.0,1.3,6.4,74.3,Getuk Goreng,Sedang,0.0036,0.0177,15.96,1.44,82.33,0,0
+382,171.4,4.0,4.0,32.0,Getuk Lindri,Sedang,0.0232,0.0232,20.88,9.28,74.25,0,0
+383,144.0,1.1,0.4,34.1,Getuk Pisang,Rendah Lemak,0.0076,0.0028,2.48,3.03,94.07,0,0
+384,204.0,0.5,1.4,47.4,Getuk Singkong,Rendah Lemak,0.0024,0.0068,6.15,0.98,92.49,0,0
+385,114.0,16.3,4.6,0.8,Ginjal Babi,Sedang,0.1417,0.04,36.0,56.7,2.78,0,1
+386,105.0,16.6,3.3,1.0,Ginjal Domba,Sedang,0.1566,0.0311,28.02,62.64,3.77,0,1
+387,141.0,15.0,8.1,0.9,Ginjal Sapi,Sedang,0.1056,0.057,51.34,42.25,2.54,1,1
+388,53.0,1.6,1.6,8.8,Gudeg,Rendah Lemak & Karbo,0.0296,0.0296,26.67,11.85,65.19,0,0
+389,160.0,3.3,9.2,16.0,Gudeg Sayur,Sedang,0.0205,0.0571,51.43,8.2,39.75,1,0
+390,368.0,0.0,0.0,95.0,Gula Aren,Rendah Lemak,0.0,0.0,0.0,0.0,102.98,0,0
+391,386.0,3.0,10.0,76.0,Gula Kelapa,Sedang,0.0078,0.0258,23.26,3.1,78.55,1,0
+392,356.0,0.4,0.5,90.6,Gula Merah Tebu Belum Dimurnikan,Rendah Lemak,0.0011,0.0014,1.26,0.45,101.51,0,0
+393,394.0,0.0,0.0,94.0,Gula Putih,Rendah Lemak,0.0,0.0,0.0,0.0,95.19,0,0
+394,52.0,10.0,0.5,1.8,Gulai Asam Keueung Masakan,"Tinggi Protein, Rendah Lemak",0.1887,0.0094,8.49,75.47,13.58,0,1
+395,106.0,16.5,3.3,2.5,Gulai Ikan Masakan,Sedang,0.1542,0.0308,27.76,61.68,9.35,0,1
+396,148.0,10.0,9.8,5.0,Gulai Ikan Paya Masakan,Sedang,0.0671,0.0658,59.19,26.85,13.42,1,1
+397,126.0,4.2,9.4,6.2,Gulai Kambing,Sedang,0.0331,0.074,66.61,13.23,19.53,1,0
+398,110.0,5.9,8.2,3.2,Gulai Keumamah Masakan,Sedang,0.0532,0.0739,66.49,21.26,11.53,1,1
+399,143.0,4.0,11.4,6.0,Gulai Pakis,Sedang,0.0278,0.0792,71.25,11.11,16.67,1,0
+400,176.0,7.3,14.9,3.2,Gulai Pliek,Sedang,0.0412,0.0842,75.76,16.5,7.23,1,0
+401,132.0,9.0,7.2,7.8,Gulai Tiram Masakan,Sedang,0.0677,0.0541,48.72,27.07,23.46,0,1
+402,192.0,12.7,10.1,12.7,Gurame Asem Manis Masakan,Sedang,0.0658,0.0523,47.1,26.32,26.32,1,0
+403,218.0,0.5,2.5,48.5,Gurandil,Rendah Lemak,0.0023,0.0114,10.27,0.91,88.58,0,0
+404,389.0,16.9,35.0,0.3,Ham,Tinggi Protein & Lemak,0.0433,0.0897,80.77,17.33,0.31,2,0
+405,65.0,10.0,1.0,3.5,Hangop,"Tinggi Protein, Rendah Lemak",0.1515,0.0152,13.64,60.61,21.21,0,1
+406,134.0,19.7,4.8,1.7,Hati Babi,Sedang,0.1459,0.0356,32.0,58.37,5.04,0,1
+407,136.0,19.7,3.2,6.0,Hati Sapi,Sedang,0.1438,0.0234,21.02,57.52,17.52,0,1
+408,390.0,14.2,7.4,68.2,Havermout,Sedang,0.0363,0.0189,17.03,14.53,69.77,0,0
+409,127.0,1.2,0.5,29.5,Hofa/Ubi Hutan Segar,Rendah Lemak,0.0094,0.0039,3.52,3.75,92.19,0,0
+410,146.0,17.7,5.9,5.6,Ikan Asar Merah Masakan,Sedang,0.1204,0.0401,36.12,48.16,15.24,0,1
+411,380.0,33.6,27.5,0.0,Ikan Asin Bilis Goreng,Tinggi Protein & Lemak,0.0882,0.0722,64.96,35.28,0.0,2,0
+412,456.0,46.5,24.4,0.0,Ikan Asin Gabus Goreng,Tinggi Protein & Lemak,0.1018,0.0534,48.05,40.7,0.0,2,0
+413,348.0,18.7,29.5,0.0,Ikan Asin Japuh Goreng,Tinggi Protein & Lemak,0.0536,0.0845,76.07,21.43,0.0,2,0
+414,193.0,42.0,1.5,0.0,Ikan Asin Kering,"Tinggi Protein, Rendah Lemak",0.2165,0.0077,6.96,86.6,0.0,0,1
+415,430.0,58.2,23.6,0.0,Ikan Asin Pari Goreng,Tinggi Protein & Lemak,0.135,0.0548,49.28,54.01,0.0,2,0
+416,652.0,40.4,54.3,0.0,Ikan Asin Pepetek Goreng,Tinggi Protein & Lemak,0.0619,0.0832,74.84,24.75,0.0,2,0
+417,319.0,6.9,31.7,0.0,Ikan Asin Sirinding Goreng,Tinggi Lemak,0.0216,0.0991,89.16,8.62,0.0,2,0
+418,430.0,33.4,32.4,0.0,Ikan Asin Teri Goreng,Tinggi Protein & Lemak,0.0775,0.0752,67.66,31.0,0.0,2,0
+419,198.0,19.0,13.0,0.0,Ikan Bader (Tawes),Sedang,0.0955,0.0653,58.79,38.19,0.0,1,0
+420,107.0,16.5,3.9,1.5,Ikan Balong Segar,Sedang,0.1528,0.0361,32.5,61.11,5.56,0,1
+421,112.0,20.0,1.3,3.7,Ikan Bambangan Segar,"Tinggi Protein, Rendah Lemak",0.177,0.0115,10.35,70.8,13.1,0,1
+422,129.0,20.0,4.8,0.0,Ikan Bandeng,Sedang,0.1538,0.0369,33.23,61.54,0.0,0,1
+423,296.0,17.1,20.3,11.3,Ikan Bandeng Presto Masakan,Tinggi Protein & Lemak,0.0576,0.0684,61.52,23.03,15.22,2,0
+424,111.0,19.4,0.9,4.8,Ikan Banjar Segar,"Tinggi Protein, Rendah Lemak",0.1732,0.008,7.23,69.29,17.14,0,1
+425,78.0,14.5,0.6,3.7,Ikan Baronang Segar,"Tinggi Protein, Rendah Lemak",0.1835,0.0076,6.84,73.42,18.73,0,1
+426,144.0,17.8,5.8,5.2,Ikan Baung Bakar,Sedang,0.1228,0.04,36.0,49.1,14.34,0,1
+427,123.0,15.1,5.5,3.3,Ikan Baung Segar,Sedang,0.1218,0.0444,39.92,48.71,10.65,0,1
+428,96.0,19.0,1.7,0.0,Ikan Bawal,"Tinggi Protein, Rendah Lemak",0.1959,0.0175,15.77,78.35,0.0,0,1
+429,138.0,14.0,0.7,7.4,Ikan Bekasang,"Tinggi Protein, Rendah Lemak",0.1007,0.005,4.53,40.29,21.29,0,1
+430,128.0,18.0,3.0,7.2,Ikan Belida Bakar,"Tinggi Protein, Rendah Lemak",0.1395,0.0233,20.93,55.81,22.33,0,1
+431,80.0,14.7,1.4,2.2,Ikan Belida Segar,"Tinggi Protein, Rendah Lemak",0.1815,0.0173,15.56,72.59,10.86,0,1
+432,417.0,25.9,19.4,32.0,Ikan Belut Segar Goreng,Tinggi Protein & Lemak,0.062,0.0464,41.77,24.78,30.62,2,0
+433,82.0,6.7,1.0,10.9,Ikan Belut Segar Mentah,Rendah Lemak & Karbo,0.0807,0.012,10.84,32.29,52.53,0,1
+434,66.0,14.0,0.0,0.0,Ikan Beunteur,"Tinggi Protein, Rendah Lemak",0.209,0.0,0.0,83.58,0.0,0,1
+435,90.0,14.9,2.5,2.1,Ikan Biawan Segar,"Tinggi Protein, Rendah Lemak",0.1637,0.0275,24.73,65.49,9.23,0,1
+436,88.0,14.2,0.7,6.2,Ikan Bili Segar,"Tinggi Protein, Rendah Lemak",0.1596,0.0079,7.08,63.82,27.87,0,1
+437,100.0,14.7,2.4,4.9,Ikan Bubara Segar,"Tinggi Protein, Rendah Lemak",0.1455,0.0238,21.39,58.22,19.41,0,1
+438,134.0,25.5,1.3,5.0,Ikan Bulan-Bulan Segar,"Tinggi Protein, Rendah Lemak",0.1889,0.0096,8.67,75.56,14.81,0,1
+439,204.0,34.2,5.6,1.9,Ikan Cakalang Asap Mentah,Sedang,0.1668,0.0273,24.59,66.73,3.71,0,1
+440,198.0,36.5,2.2,5.5,Ikan Cakalang Asin Mentah,"Tinggi Protein, Rendah Lemak",0.1834,0.0111,9.95,73.37,11.06,0,1
+441,120.0,11.3,3.9,10.0,Ikan Cakalang Hati Segar,Sedang,0.0934,0.0322,29.01,37.36,33.06,0,1
+442,116.0,11.2,1.2,10.2,Ikan Cakalang Jantung Segar,"Tinggi Protein, Rendah Lemak",0.0957,0.0103,9.23,38.29,34.87,0,1
+443,86.0,10.2,1.1,8.7,Ikan Cakalang Perut Segar,"Tinggi Protein, Rendah Lemak",0.1172,0.0126,11.38,46.9,40.0,0,1
+444,107.0,19.6,0.7,5.5,Ikan Cakalang Segar,"Tinggi Protein, Rendah Lemak",0.1815,0.0065,5.83,72.59,20.37,0,1
+445,81.0,11.4,1.9,3.8,Ikan Calo/ Peda Mentah,"Tinggi Protein, Rendah Lemak",0.139,0.0232,20.85,55.61,18.54,0,1
+446,101.0,11.5,4.1,4.6,Ikan Daun Segar,Sedang,0.1127,0.0402,36.18,45.1,18.04,0,1
+447,109.0,17.0,4.0,0.0,Ikan Ekor Kuning,Sedang,0.1545,0.0364,32.73,61.82,0.0,0,1
+448,261.0,38.1,2.3,21.9,Ikan Gabus Asap Mentah,"Tinggi Protein, Rendah Lemak",0.1454,0.0088,7.9,58.17,33.44,0,1
+449,292.0,58.0,4.0,0.0,Ikan Gabus Kering,Sedang,0.198,0.0137,12.29,79.18,0.0,0,1
+450,74.0,25.2,1.7,0.0,Ikan Gabus Segar,"Tinggi Protein, Rendah Lemak",0.336,0.0227,20.4,134.4,0.0,0,1
+451,267.0,23.1,19.4,0.2,Ikan Gete Goreng,Tinggi Protein & Lemak,0.0862,0.0724,65.15,34.48,0.3,2,0
+452,101.0,10.3,3.7,6.7,Ikan Hitam Segar,Sedang,0.101,0.0363,32.65,40.39,26.27,0,1
+453,298.0,46.3,3.6,20.2,Ikan Hiu Kering,Sedang,0.1548,0.012,10.84,61.94,27.02,0,1
+454,57.0,10.7,0.3,2.2,Ikan Hiu Segar,"Tinggi Protein, Rendah Lemak",0.1845,0.0052,4.66,73.79,15.17,0,1
+455,77.0,15.6,0.9,1.6,Ikan Kacangan Segar,"Tinggi Protein, Rendah Lemak",0.2,0.0115,10.38,80.0,8.21,0,1
+456,92.0,20.0,0.7,0.0,Ikan Kakap Segar,"Tinggi Protein, Rendah Lemak",0.2151,0.0075,6.77,86.02,0.0,0,1
+457,82.0,11.4,1.2,6.4,Ikan Kakatua Segar,"Tinggi Protein, Rendah Lemak",0.1373,0.0145,13.01,54.94,30.84,0,1
+458,132.0,17.0,6.7,0.8,Ikan Kapar Segar,Sedang,0.1278,0.0504,45.34,51.13,2.41,0,1
+459,162.0,31.7,2.8,0.3,Ikan Katombo Asin,"Tinggi Protein, Rendah Lemak",0.1945,0.0172,15.46,77.79,0.74,0,1
+460,110.0,12.6,4.2,5.4,Ikan Kawalinya Segar,Sedang,0.1135,0.0378,34.05,45.41,19.46,0,1
+461,302.0,70.7,1.9,0.4,Ikan Kayu Kering,"Tinggi Protein, Rendah Lemak",0.2333,0.0063,5.64,93.33,0.53,0,0
+462,103.0,22.0,1.0,0.0,Ikan Kembung,"Tinggi Protein, Rendah Lemak",0.2115,0.0096,8.65,84.62,0.0,0,1
+463,70.0,10.8,0.7,5.2,Ikan Kima Segar,"Tinggi Protein, Rendah Lemak",0.1521,0.0099,8.87,60.85,29.3,0,1
+464,147.0,17.5,6.5,5.4,Ikan Lais Bakar,Sedang,0.1182,0.0439,39.53,47.3,14.59,0,1
+465,109.0,22.0,1.7,0.0,Ikan Layang,"Tinggi Protein, Rendah Lemak",0.2,0.0155,13.91,80.0,0.0,0,1
+466,82.0,18.0,1.0,0.4,Ikan Layur Segar,"Tinggi Protein, Rendah Lemak",0.2169,0.012,10.84,86.75,1.93,0,1
+467,90.0,20.4,0.9,0.0,Ikan Lehoma Segar,"Tinggi Protein, Rendah Lemak",0.2242,0.0099,8.9,89.67,0.0,0,1
+468,252.0,19.9,19.1,0.0,Ikan Lele Goreng,Tinggi Protein & Lemak,0.0787,0.0755,67.94,31.46,0.0,2,0
+469,112.0,20.0,3.0,0.0,Ikan Lemuru,"Tinggi Protein, Rendah Lemak",0.177,0.0265,23.89,70.8,0.0,0,1
+470,104.0,15.6,3.2,2.0,Ikan Lidah Segar,Sedang,0.1486,0.0305,27.43,59.43,7.62,0,1
+471,258.0,40.3,2.3,18.9,Ikan Lomak Asin Mentah,"Tinggi Protein, Rendah Lemak",0.1556,0.0089,7.99,62.24,29.19,0,1
+472,99.0,20.6,1.4,0.9,Ikan Malalugis Segar,"Tinggi Protein, Rendah Lemak",0.206,0.014,12.6,82.4,3.6,0,1
+473,86.0,16.0,2.0,0.0,Ikan Mas,"Tinggi Protein, Rendah Lemak",0.1839,0.023,20.69,73.56,0.0,0,1
+474,188.0,19.3,12.2,0.0,Ikan Mas Goreng,Sedang,0.1021,0.0646,58.1,40.85,0.0,1,0
+475,209.0,15.2,11.3,11.8,Ikan Mas Pepes,Sedang,0.0724,0.0538,48.43,28.95,22.48,1,0
+476,97.0,17.9,2.0,0.4,Ikan Mayong Segar,"Tinggi Protein, Rendah Lemak",0.1827,0.0204,18.37,73.06,1.63,0,1
+477,598.0,74.3,26.9,9.2,Ikan Mujair Dendeng Goreng,Tinggi Protein & Lemak,0.124,0.0449,40.42,49.62,6.14,2,0
+478,582.0,68.3,15.2,37.2,Ikan Mujair Dendeng Mentah,Tinggi Protein & Lemak,0.1172,0.0261,23.46,46.86,25.52,1,0
+479,416.0,46.9,23.9,0.0,Ikan Mujair Goreng,Tinggi Protein & Lemak,0.1125,0.0573,51.58,44.99,0.0,2,0
+480,121.0,21.7,2.8,0.8,Ikan Mujair Pepes,"Tinggi Protein, Rendah Lemak",0.1779,0.023,20.66,71.15,2.62,0,1
+481,89.0,18.7,1.0,0.0,Ikan Mujair Segar,"Tinggi Protein, Rendah Lemak",0.2078,0.0111,10.0,83.11,0.0,0,1
+482,154.0,16.8,5.0,10.5,Ikan Nasu Metti Segar,Sedang,0.1084,0.0323,29.03,43.35,27.1,0,1
+483,125.0,21.3,3.4,2.2,Ikan Oci Kembung Segar,Sedang,0.169,0.027,24.29,67.62,6.98,0,1
+484,152.0,17.6,6.1,6.7,Ikan Papuyu Bakar,Sedang,0.115,0.0399,35.88,46.01,17.52,0,1
+485,120.0,14.3,4.9,4.6,Ikan Papuyu/ Betok Segar,Sedang,0.1182,0.0405,36.45,47.27,15.21,0,1
+486,144.0,17.5,6.3,4.3,Ikan Patin Bakar,Sedang,0.1207,0.0434,39.1,48.28,11.86,0,1
+487,132.0,17.0,6.6,1.1,Ikan Patin Segar,Sedang,0.1278,0.0496,44.66,51.13,3.31,0,1
+488,156.0,28.0,4.0,2.0,Ikan Peda Banjar Mentah,Sedang,0.1783,0.0255,22.93,71.34,5.1,0,1
+489,176.0,32.0,4.4,0.0,Ikan Pepetek,Sedang,0.1808,0.0249,22.37,72.32,0.0,0,1
+490,157.0,28.0,4.2,1.8,Ikan Pindang Banjar Mentah,Sedang,0.1772,0.0266,23.92,70.89,4.56,0,1
+491,170.0,31.0,4.2,0.0,Ikan Pindang Benggol Mentah,Sedang,0.1813,0.0246,22.11,72.51,0.0,0,1
+492,153.0,30.0,2.8,0.0,Ikan Pindang Layang Mentah,"Tinggi Protein, Rendah Lemak",0.1948,0.0182,16.36,77.92,0.0,0,1
+493,142.0,27.0,3.0,0.0,Ikan Pindang Selar Mentah,"Tinggi Protein, Rendah Lemak",0.1888,0.021,18.88,75.52,0.0,0,1
+494,415.0,61.3,17.6,2.9,Ikan Sale Lais Mentah,Tinggi Protein & Lemak,0.1474,0.0423,38.08,58.94,2.79,2,0
+495,534.0,40.2,39.3,4.9,Ikan Sale Segar,Tinggi Protein & Lemak,0.0751,0.0735,66.11,30.06,3.66,2,0
+496,284.0,34.1,9.9,14.6,Ikan Saluang Kering Mentah,Sedang,0.1196,0.0347,31.26,47.86,20.49,1,1
+497,113.0,13.9,4.9,3.4,Ikan Saluang Segar,Sedang,0.1219,0.043,38.68,48.77,11.93,0,1
+498,240.0,21.7,7.7,20.7,Ikan Sanggang Masakan,Sedang,0.09,0.032,28.76,36.02,34.36,0,1
+499,109.0,19.9,1.8,3.4,Ikan Sarden Segar,"Tinggi Protein, Rendah Lemak",0.1809,0.0164,14.73,72.36,12.36,0,1
+500,113.0,17.0,4.5,0.0,Ikan Segar,Sedang,0.1491,0.0395,35.53,59.65,0.0,0,1
+501,194.0,38.0,3.5,0.0,Ikan Selar Kering,Sedang,0.1949,0.0179,16.15,77.95,0.0,0,1
+502,138.0,27.0,3.3,0.0,Ikan Selar Kuning Cue Mentah,Sedang,0.1942,0.0237,21.37,77.7,0.0,0,1
+503,100.0,18.8,2.2,0.0,Ikan Selar Segar,"Tinggi Protein, Rendah Lemak",0.1861,0.0218,19.6,74.46,0.0,0,1
+504,289.0,38.0,14.0,0.0,Ikan Sepat Kering,Sedang,0.131,0.0483,43.45,52.41,0.0,1,0
+505,84.0,15.2,0.6,4.7,Ikan Sepat Segar,"Tinggi Protein, Rendah Lemak",0.1788,0.0071,6.35,71.53,22.12,0,1
+506,81.0,11.4,1.9,3.8,Ikan Sidat Segar,"Tinggi Protein, Rendah Lemak",0.139,0.0232,20.85,55.61,18.54,0,1
+507,199.0,34.1,3.8,7.1,Ikan Sunu Asin Mentah,Sedang,0.1705,0.019,17.1,68.2,14.2,0,1
+508,111.0,13.3,3.4,6.7,Ikan Sunu Segar,Sedang,0.1188,0.0304,27.32,47.5,23.93,0,1
+509,88.0,15.9,0.9,4.1,Ikan Tahuman Segar,"Tinggi Protein, Rendah Lemak",0.1787,0.0101,9.1,71.46,18.43,0,1
+510,96.0,19.5,1.1,2.0,Ikan Tarmon Segar,"Tinggi Protein, Rendah Lemak",0.201,0.0113,10.21,80.41,8.25,0,1
+511,95.0,15.8,0.7,6.5,Ikan Telan Segar,"Tinggi Protein, Rendah Lemak",0.1646,0.0073,6.56,65.83,27.08,0,1
+512,358.0,20.7,26.4,9.4,Ikan Telur Asin Mentah,Tinggi Protein & Lemak,0.0577,0.0735,66.18,23.06,10.47,2,0
+513,204.0,16.0,15.0,0.0,Ikan Tembang,Sedang,0.078,0.0732,65.85,31.22,0.0,1,0
+514,101.0,15.1,4.1,1.0,Ikan Tempahas Segar,Sedang,0.148,0.0402,36.18,59.22,3.92,0,1
+515,316.0,60.1,6.5,22.4,Ikan Tepung Mentah,Sedang,0.1896,0.0205,18.45,75.84,28.26,0,0
+516,98.0,19.6,1.7,1.0,Ikan Terbang Segar,"Tinggi Protein, Rendah Lemak",0.198,0.0172,15.45,79.19,4.04,0,1
+517,277.0,60.0,2.3,1.8,Ikan Teri Bubuk,"Tinggi Protein, Rendah Lemak",0.2158,0.0083,7.45,86.33,2.59,0,1
+518,170.0,33.4,3.0,0.0,Ikan Teri Kering,"Tinggi Protein, Rendah Lemak",0.1953,0.0175,15.79,78.13,0.0,0,1
+519,331.0,68.7,4.2,0.0,Ikan Teri Kering Tawar,Sedang,0.2069,0.0127,11.39,82.77,0.0,0,0
+520,144.0,32.5,0.6,0.0,Ikan Teri Nasi Kering,"Tinggi Protein, Rendah Lemak",0.2241,0.0041,3.72,89.66,0.0,0,1
+521,74.0,10.3,1.4,4.1,Ikan Teri Segar,"Tinggi Protein, Rendah Lemak",0.1373,0.0187,16.8,54.93,21.87,0,1
+522,347.0,48.8,6.4,19.6,Ikan Teri Tepung,Sedang,0.1402,0.0184,16.55,56.09,22.53,0,0
+523,82.0,17.4,0.4,2.3,Ikan Titang Segar,"Tinggi Protein, Rendah Lemak",0.2096,0.0048,4.34,83.86,11.08,0,1
+524,100.0,13.7,1.5,8.0,Ikan Tongkol Segar,"Tinggi Protein, Rendah Lemak",0.1356,0.0149,13.37,54.26,31.68,0,1
+525,96.0,19.2,2.0,0.2,Ikan Turi Segar,"Tinggi Protein, Rendah Lemak",0.1979,0.0206,18.56,79.18,0.82,0,1
+526,474.0,7.6,21.6,62.3,Intip Goreng,Tinggi Lemak,0.016,0.0455,40.93,6.4,52.46,2,0
+527,496.0,30.3,33.5,18.4,Itik Alabio Daging Dendeng Mentah,Tinggi Protein & Lemak,0.061,0.0674,60.66,24.39,14.81,2,0
+528,156.0,2.7,1.3,33.3,Jagung Grontol,Rendah Lemak,0.0172,0.0083,7.45,6.88,84.84,0,0
+529,361.0,8.7,4.5,72.4,Jagung Kuning Giling,Sedang,0.024,0.0124,11.19,9.61,80.0,0,0
+530,129.0,4.1,1.3,30.3,Jagung Kuning Muda,Rendah Lemak,0.0315,0.01,9.0,12.62,93.23,0,0
+531,307.0,7.9,3.4,63.6,Jagung Kuning Pipil Baru,Sedang,0.0256,0.011,9.94,10.26,82.6,0,0
+532,366.0,9.8,7.3,69.1,Jagung Kuning Pipil Kering Mentah,Sedang,0.0267,0.0199,17.9,10.68,75.31,0,0
+533,355.0,9.2,3.9,73.7,Jagung Kuning Pipil Lama,Sedang,0.0258,0.011,9.86,10.34,82.81,0,0
+534,154.0,3.8,3.5,28.4,Jagung Kuning Pipil Rebus,Sedang,0.0245,0.0226,20.32,9.81,73.29,0,0
+535,140.0,4.7,1.3,33.1,Jagung Kuning Segar,Rendah Lemak,0.0333,0.0092,8.3,13.33,93.9,0,0
+536,355.0,9.2,3.9,73.7,Jagung Kuning Tepung,Sedang,0.0258,0.011,9.86,10.34,82.81,0,0
+537,35.0,2.2,0.1,7.4,Jagung Muda,Rendah Lemak & Karbo,0.0611,0.0028,2.5,24.44,82.22,0,0
+538,147.0,5.1,0.7,31.5,Jagung Muda Kuning Mentah,Rendah Lemak,0.0345,0.0047,4.26,13.78,85.14,0,1
+539,142.0,5.0,0.7,30.3,Jagung Muda Rebus,Rendah Lemak,0.035,0.0049,4.41,13.99,84.76,0,1
+540,367.0,6.2,5.1,76.2,Jagung Pipil Var. Harapan Kering,Sedang,0.0168,0.0139,12.47,6.74,82.83,0,0
+541,368.0,5.5,4.6,78.0,Jagung Pipil Var. Metro Kering,Sedang,0.0149,0.0125,11.22,5.96,84.55,0,0
+542,361.0,8.7,4.5,72.4,Jagung Putih Giling,Sedang,0.024,0.0124,11.19,9.61,80.0,0,0
+543,129.0,4.1,1.3,30.3,Jagung Putih Muda,Rendah Lemak,0.0315,0.01,9.0,12.62,93.23,0,0
+544,307.0,7.9,3.4,63.6,Jagung Putih Pipil Baru,Sedang,0.0256,0.011,9.94,10.26,82.6,0,0
+545,355.0,9.2,3.9,73.7,Jagung Putih Pipil Lama,Sedang,0.0258,0.011,9.86,10.34,82.81,0,0
+546,140.0,4.7,1.3,33.1,Jagung Putih Segar,Rendah Lemak,0.0333,0.0092,8.3,13.33,93.9,0,0
+547,175.0,1.8,1.8,35.0,Jagung Rebus,Rendah Lemak,0.0102,0.0102,9.2,4.09,79.55,0,0
+548,148.9,10.4,10.4,20.1,Jagung Sayur (Tumis),Sedang,0.0694,0.0694,62.44,27.75,53.64,1,0
+549,374.0,9.4,2.2,79.1,Jagung Titi,Rendah Lemak,0.0251,0.0059,5.28,10.03,84.37,0,0
+550,51.0,1.5,1.0,10.1,Jahe,Rendah Lemak & Karbo,0.0288,0.0192,17.31,11.54,77.69,0,0
+551,289.0,11.0,4.0,61.0,Jali,Sedang,0.0379,0.0138,12.41,15.17,84.14,0,1
+552,239.0,0.5,0.6,64.5,Jam Selai,Rendah Lemak,0.0021,0.0025,2.25,0.83,107.5,0,0
+553,286.0,48.5,9.2,2.3,Jambal Goreng,Sedang,0.169,0.0321,28.85,67.6,3.21,1,1
+554,46.0,0.6,0.0,11.8,Jambu Air,Rendah Lemak & Karbo,0.0128,0.0,0.0,5.11,100.43,0,0
+555,49.0,0.9,0.3,12.2,Jambu Biji,Rendah Lemak & Karbo,0.018,0.006,5.4,7.2,97.6,0,0
+556,61.0,0.9,0.3,15.4,Jambu Biji Putih Tidak Berbiji,Rendah Lemak,0.0145,0.0048,4.35,5.81,99.35,0,0
+557,56.0,0.6,0.3,14.2,Jambu Bol,Rendah Lemak & Karbo,0.0105,0.0053,4.74,4.21,99.65,0,0
+558,64.0,0.7,0.6,15.8,Jambu Monyet Buah,Rendah Lemak,0.0108,0.0092,8.31,4.31,97.23,0,0
+559,350.0,6.2,1.4,78.2,Jampang Huma Mentah,Rendah Lemak,0.0177,0.004,3.59,7.07,89.12,0,0
+560,45.0,2.5,3.9,0.0,Jamur Coklat (Kulat Siau),Sedang,0.0543,0.0848,76.3,21.74,0.0,0,0
+561,296.0,9.4,1.1,62.0,Jamur Encik,Rendah Lemak,0.0316,0.0037,3.33,12.66,83.5,0,1
+562,294.0,16.0,0.9,64.6,Jamur Kuping Kering,"Tinggi Protein, Rendah Lemak",0.0542,0.0031,2.75,21.69,87.59,0,1
+563,21.0,3.8,0.6,0.9,Jamur Kuping Segar,Rendah Lemak & Karbo,0.1727,0.0273,24.55,69.09,16.36,0,0
+564,30.0,3.5,0.2,4.0,Jamur Merang Segar,Rendah Lemak & Karbo,0.1129,0.0065,5.81,45.16,51.61,0,0
+565,48.0,2.8,4.1,2.9,Jamur Putih (Kulat Putih),Sedang,0.0571,0.0837,75.31,22.86,23.67,0,0
+566,48.0,1.9,3.2,2.8,Jamur Sagu,Sedang,0.0388,0.0653,58.78,15.51,22.86,0,0
+567,30.0,1.9,0.1,5.5,Jamur Tiram Segar,Rendah Lemak & Karbo,0.0613,0.0032,2.9,24.52,70.97,0,0
+568,107.0,5.3,2.2,16.5,Jangang Bintatoeng Masakan,Rendah Lemak,0.0491,0.0204,18.33,19.63,61.11,0,1
+569,31.0,1.2,0.3,7.1,Jantung Pisang Segar,Rendah Lemak & Karbo,0.0375,0.0094,8.44,15.0,88.75,0,0
+570,500.0,1.2,25.1,67.3,Japilus,Tinggi Lemak,0.0024,0.0501,45.09,0.96,53.73,2,0
+571,48.0,2.5,4.2,0.0,Jaruk Tigarun,Sedang,0.051,0.0857,77.14,20.41,0.0,0,0
+572,334.0,9.7,3.5,73.4,Jawawut,Sedang,0.029,0.0104,9.4,11.58,87.64,0,0
+573,381.7,9.5,9.5,65.8,Jenang,Sedang,0.0248,0.0248,22.34,9.93,68.77,1,0
+574,192.0,5.4,0.3,40.7,Jengkol Segar,Rendah Lemak,0.028,0.0016,1.4,11.19,84.35,0,1
+575,48.0,0.6,0.2,12.4,Jeruk Bali,Rendah Lemak & Karbo,0.0122,0.0041,3.67,4.9,101.22,0,0
+576,61.0,0.8,0.2,14.1,Jeruk Banjar Segar,Rendah Lemak & Karbo,0.0129,0.0032,2.9,5.16,90.97,0,0
+577,44.0,0.8,0.3,10.9,Jeruk Garut,Rendah Lemak & Karbo,0.0178,0.0067,6.0,7.11,96.89,0,0
+578,39.0,0.3,0.3,8.9,Jeruk Kalamansi Segar,Rendah Lemak & Karbo,0.0075,0.0075,6.75,3.0,89.0,0,0
+579,45.0,0.9,0.2,11.2,Jeruk Manis,Rendah Lemak & Karbo,0.0196,0.0043,3.91,7.83,97.39,0,0
+580,37.0,0.8,0.1,12.3,Jeruk Nipis,Rendah Lemak & Karbo,0.0211,0.0026,2.37,8.42,129.47,0,0
+581,49.0,0.7,0.2,11.1,Jeruk Ragi Segar,Rendah Lemak & Karbo,0.014,0.004,3.6,5.6,88.8,0,0
+582,32.0,1.9,0.3,7.1,Jotang,Rendah Lemak & Karbo,0.0576,0.0091,8.18,23.03,86.06,0,0
+583,15.0,15.2,4.3,8.8,Jukku Pallu Kaloa Masakan,Sedang,0.95,0.2688,241.87,380.0,220.0,0,1
+584,130.0,6.7,0.3,25.2,Kabau Segar,Rendah Lemak,0.0511,0.0023,2.06,20.46,76.95,0,1
+585,133.0,1.0,0.2,32.2,Kaburan Ubi Segar,Rendah Lemak,0.0075,0.0015,1.34,2.99,96.12,0,0
+586,250.0,2.6,2.5,35.4,Kabuto,Rendah Lemak,0.0104,0.01,8.96,4.14,56.41,0,0
+587,356.0,20.5,4.1,61.6,Kacang Andong,Sedang,0.0574,0.0115,10.34,22.97,69.02,0,0
+588,330.0,23.8,1.4,60.2,Kacang Arab,"Tinggi Protein, Rendah Lemak",0.0719,0.0042,3.81,28.76,72.75,0,0
+589,533.0,27.8,38.1,28.8,Kacang Atom,Tinggi Protein & Lemak,0.0521,0.0713,64.21,20.82,21.57,2,0
+590,341.0,30.4,3.2,51.3,Kacang Babi Kering,Sedang,0.0889,0.0094,8.42,35.56,60.0,0,0
+591,400.0,34.4,16.9,34.1,Kacang Belimbing (Kecipir) Kering,Tinggi Protein & Lemak,0.0858,0.0421,37.93,34.31,34.01,2,0
+592,204.0,16.9,8.8,17.5,Kacang Belimbing Rebus,Sedang,0.0824,0.0429,38.63,32.98,34.15,1,1
+593,212.0,17.5,10.0,12.9,Kacang Belimbing Tempe,Sedang,0.0822,0.0469,42.25,32.86,24.23,1,1
+594,118.0,4.4,1.5,21.6,Kacang Beracun Segar,Rendah Lemak,0.037,0.0126,11.34,14.79,72.61,0,0
+595,479.0,12.7,23.2,58.9,Kacang Bogor Goreng,Tinggi Lemak,0.0265,0.0483,43.5,10.58,49.08,2,0
+596,370.0,16.0,6.0,65.0,Kacang Bogor Kering,Sedang,0.0431,0.0162,14.56,17.25,70.08,0,0
+597,161.0,7.7,2.8,27.1,Kacang Bogor Rebus,Rendah Lemak,0.0475,0.0173,15.56,19.01,66.91,0,1
+598,165.0,7.7,3.1,27.4,Kacang Bogor Segar,Sedang,0.0464,0.0187,16.81,18.55,66.02,0,1
+599,331.0,25.0,1.0,58.0,Kacang Endel Biji,"Tinggi Protein, Rendah Lemak",0.0753,0.003,2.71,30.12,69.88,0,0
+600,129.0,12.4,0.7,18.3,Kacang Ercis Segar,"Tinggi Protein, Rendah Lemak",0.0954,0.0054,4.85,38.15,56.31,0,1
+601,336.0,23.1,1.7,59.5,Kacang Galing Segar,"Tinggi Protein, Rendah Lemak",0.0685,0.005,4.54,27.42,70.62,0,0
+602,516.0,14.7,31.1,44.4,Kacang Goyang,Tinggi Lemak,0.0284,0.0602,54.14,11.37,34.35,2,0
+603,336.0,20.7,1.4,62.0,Kacang Gude Biji,"Tinggi Protein, Rendah Lemak",0.0614,0.0042,3.74,24.57,73.59,0,0
+604,316.0,20.7,1.0,58.0,Kacang Gude Biji Kering,"Tinggi Protein, Rendah Lemak",0.0653,0.0032,2.84,26.12,73.19,0,0
+605,114.0,7.0,0.6,20.8,Kacang Gude Biji Muda,Rendah Lemak,0.0609,0.0052,4.7,24.35,72.35,0,1
+606,123.0,8.4,0.6,1.8,Kacang Gude Muda,Rendah Lemak & Karbo,0.0677,0.0048,4.35,27.1,5.81,0,1
+607,147.0,9.0,0.5,27.5,Kacang Gude Rebus,Rendah Lemak,0.0608,0.0034,3.04,24.32,74.32,0,1
+608,323.0,22.9,1.5,56.8,Kacang Hijau Kering,"Tinggi Protein, Rendah Lemak",0.0707,0.0046,4.17,28.27,70.12,0,0
+609,109.0,8.7,0.5,18.3,Kacang Hijau Rebus,Rendah Lemak,0.0791,0.0045,4.09,31.64,66.55,0,1
+610,350.0,17.1,1.8,70.7,Kacang Hijau Var. Bakti Kering,"Tinggi Protein, Rendah Lemak",0.0487,0.0051,4.62,19.49,80.57,0,0
+611,339.0,20.8,2.1,64.6,Kacang Hijau Var. Siwalik Kering,"Tinggi Protein, Rendah Lemak",0.0612,0.0062,5.56,24.47,76.0,0,0
+612,346.0,16.6,1.7,66.1,Kacang Hitam Kering,"Tinggi Protein, Rendah Lemak",0.0478,0.0049,4.41,19.14,76.2,0,0
+613,345.0,22.2,1.2,62.9,Kacang Ijo,"Tinggi Protein, Rendah Lemak",0.0642,0.0035,3.12,25.66,72.72,0,0
+614,445.0,11.0,11.0,65.5,Kacang Kapri Goreng,Sedang,0.0247,0.0247,22.2,9.87,58.74,1,0
+615,98.0,6.7,0.4,17.7,Kacang Kapri Muda,Rendah Lemak,0.0677,0.004,3.64,27.07,71.52,0,1
+616,286.0,30.2,15.6,30.1,Kacang Kedelai Basah,Tinggi Protein & Lemak,0.1052,0.0544,48.92,42.09,41.95,2,0
+617,521.0,32.2,37.7,22.9,Kacang Kedelai Goreng,Tinggi Protein & Lemak,0.0617,0.0722,65.0,24.67,17.55,2,0
+618,381.0,40.4,16.7,24.9,Kacang Kedelai Kering,Tinggi Protein & Lemak,0.1058,0.0437,39.35,42.3,26.07,2,0
+619,75.0,4.1,2.1,10.7,Kacang Kedelai Kukus,Rendah Lemak & Karbo,0.0539,0.0276,24.87,21.58,56.32,0,0
+620,189.0,20.2,8.2,12.7,Kacang Kedelai Rebus,Sedang,0.1063,0.0432,38.84,42.53,26.74,1,1
+621,286.0,30.2,15.6,30.1,Kacang Kedelai Segar,Tinggi Protein & Lemak,0.1052,0.0544,48.92,42.09,41.95,2,0
+622,327.0,16.4,4.3,55.8,Kacang Komak Segar,Sedang,0.05,0.0131,11.8,20.0,68.05,0,0
+623,355.0,17.0,2.5,66.0,Kacang Kuning Kering,"Tinggi Protein, Rendah Lemak",0.0478,0.007,6.32,19.1,74.16,0,0
+624,346.0,16.5,1.5,66.6,Kacang Lebui /Iris Kering,"Tinggi Protein, Rendah Lemak",0.0476,0.0043,3.89,19.02,76.77,0,0
+625,22.0,1.1,1.0,3.4,Kacang Mekah Polong Segar,Rendah Lemak & Karbo,0.0478,0.0435,39.13,19.13,59.13,0,0
+626,344.0,16.7,2.1,64.6,Kacang Mentega Kering,"Tinggi Protein, Rendah Lemak",0.0484,0.0061,5.48,19.36,74.9,0,0
+627,336.0,23.1,1.7,59.5,Kacang Merah,"Tinggi Protein, Rendah Lemak",0.0685,0.005,4.54,27.42,70.62,0,0
+628,350.0,13.9,3.0,66.9,Kacang Merah /Banda Kering,"Tinggi Protein, Rendah Lemak",0.0396,0.0085,7.69,15.84,76.24,0,0
+629,314.0,22.1,1.1,56.2,Kacang Merah Kering,"Tinggi Protein, Rendah Lemak",0.0702,0.0035,3.14,28.06,71.37,0,0
+630,158.0,10.3,0.9,28.2,Kacang Merah Kering Rebus,"Tinggi Protein, Rendah Lemak",0.0648,0.0057,5.09,25.91,70.94,0,1
+631,171.0,11.0,2.2,28.0,Kacang Merah Segar,"Tinggi Protein, Rendah Lemak",0.064,0.0128,11.51,25.58,65.12,0,1
+632,144.0,10.0,1.0,24.7,Kacang Merah Segar Rebus,"Tinggi Protein, Rendah Lemak",0.069,0.0069,6.21,27.59,68.14,0,1
+633,280.0,16.7,1.6,63.2,Kacang Merah Tua Kering,"Tinggi Protein, Rendah Lemak",0.0594,0.0057,5.12,23.77,89.96,0,1
+634,629.0,20.4,56.3,19.8,Kacang Mete/Biji Jambu Monyet Goreng,Tinggi Protein & Lemak,0.0324,0.0894,80.43,12.95,12.57,2,0
+635,616.0,16.3,48.4,28.7,Kacang Mete/Biji Jambu Monyet Segar,Tinggi Protein & Lemak,0.0264,0.0784,70.6,10.57,18.61,2,0
+636,480.0,18.4,19.1,58.5,Kacang Negara,Tinggi Protein & Lemak,0.0383,0.0397,35.74,15.3,48.65,2,0
+637,44.0,2.7,0.3,7.8,Kacang Panjang,Rendah Lemak & Karbo,0.06,0.0067,6.0,24.0,69.33,0,0
+638,357.0,17.3,1.5,70.0,Kacang Panjang Biji,"Tinggi Protein, Rendah Lemak",0.0483,0.0042,3.77,19.33,78.21,0,0
+639,39.0,3.0,0.6,7.6,Kacang Panjang Kukus,Rendah Lemak & Karbo,0.075,0.015,13.5,30.0,76.0,0,0
+640,150.0,2.5,12.5,7.0,Kacang Panjang Tumis,Sedang,0.0166,0.0828,74.5,6.62,18.54,1,0
+641,37.0,3.1,0.2,7.9,Kacang Ranti Polong,Rendah Lemak & Karbo,0.0816,0.0053,4.74,32.63,83.16,0,0
+642,484.0,8.8,26.1,57.7,Kacang Sukro,Tinggi Lemak,0.0181,0.0538,48.43,7.26,47.59,2,0
+643,488.0,25.6,25.6,59.6,Kacang Sukro Putih,Tinggi Protein & Lemak,0.0524,0.0524,47.12,20.94,48.75,2,0
+644,535.0,27.8,38.1,28.8,Kacang Tanah Atom,Tinggi Protein & Lemak,0.0519,0.0711,63.97,20.75,21.49,2,0
+645,564.0,25.5,44.4,25.5,Kacang Tanah Goreng,Tinggi Protein & Lemak,0.0451,0.0786,70.73,18.05,18.05,2,0
+646,561.0,25.5,43.8,26.0,Kacang Tanah Kacang Sari,Tinggi Protein & Lemak,0.0454,0.0779,70.14,18.15,18.51,2,0
+647,525.0,27.9,42.7,17.4,Kacang Tanah Kering,Tinggi Protein & Lemak,0.053,0.0812,73.06,21.22,13.23,2,0
+648,385.0,14.0,31.0,13.0,Kacang Tanah Rebus,Tinggi Lemak,0.0363,0.0803,72.28,14.51,13.47,2,0
+649,360.0,13.5,31.2,12.8,Kacang Tanah Rebus Berkulit,Tinggi Lemak,0.0374,0.0864,77.78,14.96,14.18,2,0
+650,513.0,17.5,32.5,44.3,Kacang Tanah Rempeyek,Tinggi Protein & Lemak,0.034,0.0632,56.91,13.62,34.47,2,0
+651,569.0,28.8,48.4,15.8,Kacang Tanah Sangan Berselaput,Tinggi Protein & Lemak,0.0505,0.0849,76.42,20.21,11.09,2,0
+652,559.0,26.9,44.2,23.6,Kacang Tanah Sangan Tanpa Selaput,Tinggi Protein & Lemak,0.048,0.0789,71.04,19.21,16.86,2,0
+653,561.0,25.5,43.8,26.0,Kacang Tanah Sari,Tinggi Protein & Lemak,0.0454,0.0779,70.14,18.15,18.51,2,0
+654,748.0,20.8,20.8,124.8,Kacang Telur,Tinggi Protein & Lemak,0.0278,0.0278,24.99,11.11,66.65,1,0
+655,331.0,24.4,1.9,56.6,Kacang Tolo / Tunggak Kering,"Tinggi Protein, Rendah Lemak",0.0735,0.0057,5.15,29.4,68.19,0,0
+656,138.0,10.7,1.1,22.6,Kacang Tolo Rebus,"Tinggi Protein, Rendah Lemak",0.077,0.0079,7.12,30.79,65.04,0,1
+657,342.0,22.9,1.4,61.6,Kacang Tunggak (Tolo),"Tinggi Protein, Rendah Lemak",0.0668,0.0041,3.67,26.71,71.84,0,0
+658,138.0,10.7,1.1,22.6,Kacang Tunggak Rebus,"Tinggi Protein, Rendah Lemak",0.077,0.0079,7.12,30.79,65.04,0,1
+659,451.0,11.2,20.2,59.7,Kacang Tunggak Rempeyek,Tinggi Lemak,0.0248,0.0447,40.22,9.91,52.83,2,0
+660,351.0,12.2,1.2,72.9,Kacang Tunis Kering,"Tinggi Protein, Rendah Lemak",0.0347,0.0034,3.07,13.86,82.84,0,0
+661,358.0,23.4,2.4,60.6,Kacang Uci Kering,"Tinggi Protein, Rendah Lemak",0.0652,0.0067,6.02,26.07,67.52,0,0
+662,354.0,12.8,1.8,69.3,Kacang Urei Kering,"Tinggi Protein, Rendah Lemak",0.0361,0.0051,4.56,14.42,78.08,0,0
+663,110.0,4.5,6.9,7.1,Kadada Katembe,Sedang,0.0405,0.0622,55.95,16.22,25.59,0,0
+664,413.0,28.7,19.8,29.8,Kaholeo Masakan,Tinggi Protein & Lemak,0.0693,0.0478,43.04,27.73,28.79,2,0
+665,92.0,20.0,0.7,0.0,Kakap,"Tinggi Protein, Rendah Lemak",0.2151,0.0075,6.77,86.02,0.0,0,1
+666,66.0,2.8,6.8,3.4,Kalakai,Sedang,0.0418,0.1015,91.34,16.72,20.3,0,0
+667,163.0,16.5,9.0,4.1,Kalio Jeroan Masakan,Sedang,0.1006,0.0549,49.39,40.24,10.0,1,1
+668,122.0,13.8,5.7,3.9,Kalio Kikil (Tunjang) Masakan,Sedang,0.1122,0.0463,41.71,44.88,12.68,0,1
+669,157.0,8.1,8.8,11.4,Kalio Otak Masakan,Sedang,0.0513,0.0557,50.13,20.51,28.86,1,1
+670,193.0,10.6,12.4,9.7,Kalio Telur Masakan,Sedang,0.0546,0.0639,57.53,21.86,20.0,1,0
+671,149.0,16.6,9.2,0.0,Kambing Daging Segar,Sedang,0.1107,0.0613,55.2,44.27,0.0,1,1
+672,164.0,3.0,2.4,32.6,Kambose,Rendah Lemak,0.0182,0.0145,13.09,7.27,79.03,0,0
+673,29.0,3.0,0.3,5.4,Kangkung,Rendah Lemak & Karbo,0.1,0.01,9.0,40.0,72.0,0,0
+674,30.0,3.2,0.7,4.7,Kangkung Kukus,Rendah Lemak & Karbo,0.1032,0.0226,20.32,41.29,60.65,0,0
+675,22.0,2.5,0.6,3.1,Kangkung Rebus,Rendah Lemak & Karbo,0.1087,0.0261,23.48,43.48,53.91,0,0
+676,43.0,1.8,0.2,8.4,Kangkung Tondano,Rendah Lemak & Karbo,0.0409,0.0045,4.09,16.36,76.36,0,0
+677,52.0,1.8,3.6,3.0,Kangkung Tumis,Sedang,0.034,0.0679,61.13,13.58,22.64,0,0
+678,38.0,2.4,2.0,2.6,Kaparende Sayur,Rendah Lemak & Karbo,0.0615,0.0513,46.15,24.62,26.67,0,0
+679,42.0,3.3,0.2,9.6,Kapri Muda,Rendah Lemak & Karbo,0.0767,0.0047,4.19,30.7,89.3,0,0
+680,41.0,2.0,0.3,7.8,Kapurung,Rendah Lemak & Karbo,0.0476,0.0071,6.43,19.05,74.29,0,0
+681,158.0,4.4,3.2,27.8,Kapusa,Sedang,0.0277,0.0201,18.11,11.07,69.94,0,0
+682,25.0,2.3,0.2,3.5,Karawila,Rendah Lemak & Karbo,0.0885,0.0077,6.92,35.38,53.85,0,0
+683,146.7,5.9,5.9,19.7,Karedok,Sedang,0.0399,0.0399,35.95,15.98,53.35,0,1
+684,92.0,2.2,3.3,14.1,Karedok Sayur,Sedang,0.0237,0.0355,31.94,9.46,60.65,0,0
+685,292.0,11.2,11.2,2.8,Karoket,Sedang,0.0382,0.0382,34.4,15.29,3.82,1,0
+686,73.0,16.4,0.3,0.0,Katak,"Tinggi Protein, Rendah Lemak",0.2216,0.0041,3.65,88.65,0.0,0,1
+687,275.0,12.6,14.8,54.6,Katul Beras,Sedang,0.0457,0.0536,48.26,18.26,79.13,1,0
+688,356.0,9.0,8.5,64.5,Katul Jagung,Sedang,0.0252,0.0238,21.43,10.08,72.27,1,0
+689,120.0,3.5,2.5,20.8,Kawista Segar,Rendah Lemak,0.0289,0.0207,18.6,11.57,68.76,0,0
+690,46.0,5.7,1.3,9.0,Kecap,Rendah Lemak & Karbo,0.1213,0.0277,24.89,48.51,76.6,0,1
+691,464.0,1.2,18.6,73.0,Kecimpring Singkong Goreng,Tinggi Lemak,0.0026,0.04,36.0,1.03,62.8,2,0
+692,405.0,32.8,17.0,36.5,Kecipir Biji,Tinggi Protein & Lemak,0.0808,0.0419,37.68,32.32,35.96,2,0
+693,35.0,2.9,0.2,0.8,Kecipir Buah Muda,Rendah Lemak & Karbo,0.0806,0.0056,5.0,32.22,8.89,0,0
+694,32.0,2.9,0.2,5.8,Kecipir Muda Segar,Rendah Lemak & Karbo,0.0879,0.0061,5.45,35.15,70.3,0,0
+695,34.0,0.9,1.0,6.7,Kecombrang Segar,Rendah Lemak & Karbo,0.0257,0.0286,25.71,10.29,76.57,0,0
+696,47.0,0.5,0.2,10.4,Kedondong Segar,Rendah Lemak & Karbo,0.0104,0.0042,3.75,4.17,86.67,0,0
+697,326.0,22.8,20.3,13.1,Keju,Tinggi Protein & Lemak,0.0697,0.0621,55.87,27.89,16.02,2,0
+698,590.0,27.0,49.0,20.9,Keju Kacang Tanah,Tinggi Protein & Lemak,0.0457,0.0829,74.62,18.27,14.15,2,0
+699,623.0,2.0,52.1,36.5,Kelapa Hutan Kering,Tinggi Lemak,0.0032,0.0835,75.14,1.28,23.4,2,0
+700,17.0,0.2,0.1,3.8,Kelapa Muda Air,Rendah Lemak & Karbo,0.0111,0.0056,5.0,4.44,84.44,0,0
+701,68.0,1.0,0.9,14.0,Kelapa Muda Daging,Rendah Lemak & Karbo,0.0145,0.013,11.74,5.8,81.16,0,0
+702,180.0,4.0,15.0,10.0,Kelapa Setengah Tua Daging,Sedang,0.0221,0.0829,74.59,8.84,22.1,1,0
+703,359.0,3.4,34.7,14.0,Kelapa Tua Daging,Tinggi Lemak,0.0094,0.0964,86.75,3.78,15.56,2,0
+704,214.0,5.4,5.4,40.2,Kelepon,Sedang,0.0251,0.0251,22.6,10.05,74.79,0,1
+705,111.0,1.5,0.3,27.2,Kelewih,Rendah Lemak,0.0134,0.0027,2.41,5.36,97.14,0,0
+706,142.0,16.9,7.8,0.0,Kelinci Daging Segar,Sedang,0.1182,0.0545,49.09,47.27,0.0,0,1
+707,48.0,1.0,0.2,11.9,Kemang,Rendah Lemak & Karbo,0.0204,0.0041,3.67,8.16,97.14,0,0
+708,380.0,48.9,13.8,23.3,Kembang Tahu,Sedang,0.1283,0.0362,32.6,51.34,24.46,1,0
+709,44.0,1.8,0.6,9.6,Kembang Turi,Rendah Lemak & Karbo,0.04,0.0133,12.0,16.0,85.33,0,0
+710,636.0,19.0,63.0,8.0,Kemiri,Tinggi Protein & Lemak,0.0298,0.0989,89.01,11.93,5.02,2,0
+711,657.0,15.0,66.0,13.0,Kenari,Tinggi Protein & Lemak,0.0228,0.1003,90.27,9.12,7.9,2,0
+712,616.0,13.9,56.2,13.7,Kenari Banda Kering,Tinggi Lemak,0.0225,0.0911,81.98,9.01,8.88,2,0
+713,83.0,2.0,0.1,19.1,Kentang,Rendah Lemak,0.0238,0.0012,1.07,9.52,90.95,0,0
+714,142.0,0.9,0.4,33.7,Kentang Hitam,Rendah Lemak,0.0063,0.0028,2.52,2.52,94.27,0,0
+715,64.0,12.0,1.0,2.0,Keong,"Tinggi Protein, Rendah Lemak",0.1846,0.0154,13.85,73.85,12.31,0,1
+716,204.0,2.6,20.0,4.0,Kepala Susu (Krim),Tinggi Lemak,0.0127,0.0976,87.8,5.07,7.8,2,0
+717,151.0,13.8,3.8,14.1,Kepiting,Sedang,0.0908,0.025,22.5,36.32,37.11,0,1
+718,59.0,18.0,1.1,3.6,Kerang,"Tinggi Protein, Rendah Lemak",0.3,0.0183,16.5,120.0,24.0,0,1
+719,393.0,38.9,13.3,29.4,Kerang Asap Mentah,Sedang,0.0987,0.0338,30.38,39.49,29.85,1,0
+720,357.0,41.1,10.0,25.6,Kerang Dendeng Mentah,Sedang,0.1148,0.0279,25.14,45.92,28.6,1,0
+721,79.0,18.7,0.5,0.0,Kerbau Daging Segar,"Tinggi Protein, Rendah Lemak",0.2338,0.0062,5.62,93.5,0.0,0,1
+722,475.0,1.6,25.5,64.4,Keremes,Tinggi Lemak,0.0034,0.0536,48.21,1.34,54.12,2,0
+723,137.0,1.3,1.1,29.8,Keribang Ubi Segar,Rendah Lemak,0.0094,0.008,7.17,3.77,86.38,0,0
+724,586.0,4.9,40.6,50.2,Keripik Bayam,Tinggi Lemak,0.0083,0.0692,62.25,3.34,34.21,2,0
+725,446.0,2.8,14.5,76.0,Keripik Gadung,Sedang,0.0063,0.0324,29.19,2.51,68.01,1,0
+726,448.0,2.7,18.8,67.1,Keripik Kentang,Tinggi Lemak,0.006,0.0419,37.68,2.41,59.78,2,0
+727,485.0,1.7,22.2,69.7,Keripik Lampung,Tinggi Lemak,0.0035,0.0457,41.11,1.4,57.37,2,0
+728,598.0,8.3,43.8,42.6,Keripik Oncom,Tinggi Lemak,0.0139,0.0731,65.81,5.54,28.45,2,0
+729,478.0,0.9,20.7,72.0,Keripik Singkong,Tinggi Lemak,0.0019,0.0432,38.89,0.75,60.13,2,0
+730,481.0,2.2,19.7,73.6,Keripik Singkong Berbumbu,Tinggi Lemak,0.0046,0.0409,36.78,1.83,61.08,2,0
+731,581.0,12.1,40.6,41.7,Keripik Tempe,Tinggi Lemak,0.0208,0.0698,62.78,8.32,28.66,2,0
+732,542.0,40.3,42.4,11.6,Keripik Tempe Abadi Murni,Tinggi Protein & Lemak,0.0742,0.0781,70.28,29.69,8.55,2,0
+733,510.0,12.3,27.9,52.4,Keripik Tempe Abadi Sedang,Tinggi Lemak,0.0241,0.0546,49.14,9.63,41.02,2,0
+734,529.0,20.8,31.7,40.2,Keripik Tempe Abadi Telur,Tinggi Protein & Lemak,0.0392,0.0598,53.83,15.7,30.34,2,0
+735,486.0,0.2,23.9,67.6,Keripik Ubi,Tinggi Lemak,0.0004,0.0491,44.17,0.16,55.52,2,0
+736,26.0,1.7,0.4,3.8,Kerokot Segar,Rendah Lemak & Karbo,0.063,0.0148,13.33,25.19,56.3,0,0
+737,350.0,0.5,0.2,85.9,Kerupuk Aci,Rendah Lemak,0.0014,0.0006,0.51,0.57,97.89,0,0
+738,444.0,6.9,14.6,71.3,Kerupuk Cumi Goreng,Sedang,0.0155,0.0328,29.53,6.2,64.09,1,0
+739,342.0,16.0,0.4,65.6,Kerupuk Ikan Berpati,"Tinggi Protein, Rendah Lemak",0.0466,0.0012,1.05,18.66,76.5,0,0
+740,325.0,1.8,0.4,78.5,Kerupuk Kemplang  (Ikan) Mentah,Rendah Lemak,0.0055,0.0012,1.1,2.21,96.32,0,0
+741,504.0,5.6,28.1,57.1,Kerupuk Kemplang Goreng,Tinggi Lemak,0.0111,0.0556,50.08,4.44,45.23,2,0
+742,356.0,9.7,1.1,76.9,Kerupuk Kemplang Panggang,Rendah Lemak,0.0272,0.0031,2.77,10.87,86.16,0,0
+743,422.0,83.0,4.0,0.0,Kerupuk Kulit Kerbau,Sedang,0.1962,0.0095,8.51,78.49,0.0,0,0
+744,345.0,12.0,1.5,71.5,Kerupuk Melinjo Mentah,"Tinggi Protein, Rendah Lemak",0.0347,0.0043,3.9,13.87,82.66,0,0
+745,431.0,11.1,16.2,63.0,Kerupuk Melinjo Tebal Goreng Asin,Tinggi Lemak,0.0257,0.0375,33.75,10.28,58.33,1,0
+746,439.0,10.0,16.4,65.7,Kerupuk Melinjo Tebal Goreng Manis,Tinggi Lemak,0.0227,0.0373,33.55,9.09,59.73,1,0
+747,485.0,11.5,24.5,59.1,Kerupuk Melinjo Tipis Goreng,Tinggi Lemak,0.0237,0.0504,45.37,9.47,48.64,2,0
+748,476.0,0.1,21.1,71.3,Kerupuk Mie Kuning Goreng,Tinggi Lemak,0.0002,0.0442,39.81,0.08,59.79,2,0
+749,46.7,17.3,17.3,81.3,Kerupuk Sayong,Tinggi Protein & Lemak,0.3627,0.3627,326.42,145.07,681.76,2,0
+750,340.0,30.0,30.0,52.0,Kerupuk Udang,Tinggi Protein & Lemak,0.088,0.088,79.18,35.19,61.0,2,0
+751,359.0,17.2,68.2,332.0,Kerupuk Udang Berpati,Tinggi Protein & Lemak,0.0478,0.1894,170.5,19.11,368.89,2,0
+752,477.0,4.7,20.5,68.5,Kerupuk Udang Goreng,Tinggi Lemak,0.0098,0.0429,38.6,3.93,57.32,2,0
+753,588.0,53.7,40.9,1.2,Kerupuk Urat,Tinggi Protein & Lemak,0.0912,0.0694,62.5,36.47,0.81,2,0
+754,78.0,0.8,0.4,20.0,Kesemek,Rendah Lemak,0.0101,0.0051,4.56,4.05,101.27,0,0
+755,181.0,4.0,1.2,37.3,Ketan Hitam Matang,Rendah Lemak,0.022,0.0066,5.93,8.79,81.98,0,0
+756,163.0,3.0,0.4,35.7,Ketan Putih Matang,Rendah Lemak,0.0183,0.0024,2.2,7.32,87.07,0,0
+757,340.0,11.0,11.0,54.0,Ketapang,Sedang,0.0323,0.0323,29.03,12.9,63.34,1,0
+758,157.0,0.8,0.3,37.9,Ketela Pohon Kuning,Rendah Lemak,0.0051,0.0019,1.71,2.03,95.95,0,0
+759,154.0,1.0,0.3,36.8,Ketela Singkong Segar,Rendah Lemak,0.0065,0.0019,1.74,2.58,94.97,0,0
+760,153.0,1.2,0.3,36.4,Ketela Pohon/Singkong Kukus,Rendah Lemak,0.0078,0.0019,1.75,3.12,94.55,0,0
+761,12.0,0.7,0.1,2.7,Ketimun,Rendah Lemak & Karbo,0.0538,0.0077,6.92,21.54,83.08,0,0
+762,9.0,0.5,0.1,1.9,Ketimun Madura Segar,Rendah Lemak & Karbo,0.05,0.01,9.0,20.0,76.0,0,0
+763,153.0,7.9,7.7,13.0,Ketoprak,Sedang,0.0513,0.05,45.0,20.52,33.77,0,1
+764,404.0,14.1,16.1,54.2,Ketumbar,Tinggi Lemak,0.0348,0.0398,35.78,13.93,53.53,2,0
+765,212.0,4.0,4.6,38.6,Ketupat Ketan,Sedang,0.0188,0.0216,19.44,7.51,72.49,0,0
+766,109.6,2.6,2.6,18.6,Ketupat Tahu,Rendah Lemak,0.0235,0.0235,21.16,9.4,67.27,0,0
+767,310.0,10.0,24.0,13.5,Kluwek,Tinggi Lemak,0.0322,0.0772,69.45,12.86,17.36,2,0
+768,73.0,16.4,0.3,0.0,Kodok Segar,"Tinggi Protein, Rendah Lemak",0.2216,0.0041,3.65,88.65,0.0,0,1
+769,86.0,1.6,0.2,13.0,Kokosan,Rendah Lemak & Karbo,0.0184,0.0023,2.07,7.36,59.77,0,0
+770,99.0,3.3,0.1,21.2,Komak Polong Segar,Rendah Lemak,0.033,0.001,0.9,13.2,84.8,0,0
+771,25.0,2.4,0.2,4.9,Kool Kembang,Rendah Lemak & Karbo,0.0923,0.0077,6.92,36.92,75.38,0,0
+772,24.0,1.4,0.2,5.3,Kool Merah Kool Putih,Rendah Lemak & Karbo,0.056,0.008,7.2,22.4,84.8,0,0
+773,352.0,17.4,1.3,69.0,Kopi Bagian Yang Larut,"Tinggi Protein, Rendah Lemak",0.0493,0.0037,3.31,19.72,78.19,0,0
+774,129.0,12.3,0.5,35.0,Kopi Bubuk Instant,"Tinggi Protein, Rendah Lemak",0.0946,0.0038,3.46,37.85,107.69,0,1
+775,356.0,20.5,4.1,61.6,Koro Andong Kering,Sedang,0.0574,0.0115,10.34,22.97,69.02,0,0
+776,332.0,24.0,3.0,55.0,Koro Benguk Biji,"Tinggi Protein, Rendah Lemak",0.0721,0.009,8.11,28.83,66.07,0,0
+777,141.0,10.2,1.3,23.2,Koro Benguk Tempe,"Tinggi Protein, Rendah Lemak",0.0718,0.0092,8.24,28.73,65.35,0,1
+778,125.0,8.3,0.7,22.1,Koro Kerupuk Biji,Rendah Lemak,0.0659,0.0056,5.0,26.35,70.16,0,1
+779,33.0,2.7,0.2,7.9,Koro Loke Biji,Rendah Lemak & Karbo,0.0794,0.0059,5.29,31.76,92.94,0,0
+780,344.0,12.5,2.1,69.4,Koro Roway Biji,"Tinggi Protein, Rendah Lemak",0.0362,0.0061,5.48,14.49,80.46,0,0
+781,338.0,22.2,1.5,61.0,Koro Wedus Biji,"Tinggi Protein, Rendah Lemak",0.0655,0.0044,3.98,26.19,71.98,0,0
+782,38.0,3.0,0.3,7.9,Koro Wedus Buah Muda,Rendah Lemak & Karbo,0.0769,0.0077,6.92,30.77,81.03,0,0
+783,46.0,3.0,0.3,7.9,Koro Wedus Polong,Rendah Lemak & Karbo,0.0638,0.0064,5.74,25.53,67.23,0,0
+784,46.0,2.2,1.5,6.0,Kotiu Hinela Tawang Nggole,Rendah Lemak & Karbo,0.0468,0.0319,28.72,18.72,51.06,0,0
+785,366.0,4.2,4.3,77.5,Koya,Sedang,0.0114,0.0117,10.54,4.58,84.47,0,0
+786,370.0,8.0,1.0,82.2,Koya Mirasa,Rendah Lemak,0.0216,0.0027,2.43,8.63,88.63,0,0
+787,315.0,2.1,1.4,73.5,Kranji Segar,Rendah Lemak,0.0066,0.0044,3.99,2.66,93.04,0,0
+788,542.0,40.3,42.4,11.5,Kripik Tempe Goreng,Tinggi Protein & Lemak,0.0742,0.0781,70.28,29.69,8.47,2,0
+789,21.0,1.7,0.4,3.8,Krokot,Rendah Lemak & Karbo,0.0773,0.0182,16.36,30.91,69.09,0,0
+790,45.0,2.2,0.3,10.3,Kucai,Rendah Lemak & Karbo,0.0478,0.0065,5.87,19.13,89.57,0,0
+791,42.0,3.8,0.6,7.8,Kucai Muda (Lokio),Rendah Lemak & Karbo,0.0884,0.014,12.56,35.35,72.56,0,0
+792,113.0,18.1,4.1,0.9,Kuda Daging Segar,Sedang,0.1588,0.036,32.37,63.51,3.16,0,1
+793,440.0,3.8,18.5,64.5,Kue Ali,Tinggi Lemak,0.0086,0.042,37.76,3.45,58.5,2,0
+794,186.7,1.6,1.6,39.6,Kue Apem,Rendah Lemak,0.0085,0.0085,7.67,3.41,84.39,0,0
+795,338.0,1.5,1.2,80.3,Kue Bangket,Rendah Lemak,0.0044,0.0035,3.19,1.77,94.75,0,0
+796,240.0,1.0,4.0,54.0,Kue Bugis,Sedang,0.0041,0.0166,14.94,1.66,89.63,0,0
+797,425.0,1.6,8.8,84.6,Kue Jahe,Sedang,0.0038,0.0207,18.59,1.5,79.44,1,0
+798,591.0,5.6,42.1,47.5,Kue Kelapa,Tinggi Lemak,0.0095,0.0711,64.0,3.78,32.09,2,0
+799,366.0,4.2,4.3,7.9,Kue Koya,Sedang,0.0114,0.0117,10.54,4.58,8.61,0,0
+800,291.0,3.6,11.1,44.1,Kue Lumpur,Sedang,0.0123,0.038,34.21,4.93,60.41,1,0
+801,182.0,1.0,1.0,40.4,Kue Mangkok,Rendah Lemak,0.0055,0.0055,4.92,2.19,88.31,0,0
+802,126.7,0.7,0.7,57.3,Kue Pacar Cina,Rendah Lemak,0.0055,0.0055,4.93,2.19,179.48,0,0
+803,296.0,1.4,1.4,66.4,Kue Pia,Rendah Lemak,0.0047,0.0047,4.24,1.89,89.43,0,0
+804,304.0,5.3,7.0,54.9,Kue Putu Cangkir,Sedang,0.0174,0.023,20.66,6.95,72.0,0,0
+805,217.0,1.2,0.5,53.2,Kue Putu Singkong,Rendah Lemak,0.0055,0.0023,2.06,2.2,97.61,0,0
+806,393.3,2.7,2.7,79.3,Kue Satu,Rendah Lemak,0.0068,0.0068,6.16,2.74,80.45,0,0
+807,380.0,1.0,1.0,92.0,Kue Semprong,Rendah Lemak,0.0026,0.0026,2.36,1.05,96.59,0,0
+808,221.0,7.5,10.2,24.8,Kue Sus,Sedang,0.0338,0.0459,41.35,13.51,44.68,1,0
+809,180.0,5.0,5.0,32.0,Kue Talam,Sedang,0.0276,0.0276,24.86,11.05,70.72,0,1
+810,512.0,26.0,26.0,60.4,Kue Tambang,Tinggi Protein & Lemak,0.0507,0.0507,45.61,20.27,47.1,2,0
+811,247.0,2.9,4.2,49.5,Kue Thipan,Sedang,0.0117,0.0169,15.24,4.68,79.84,0,0
+812,111.0,4.5,1.1,20.7,Kulit Melinjo,Rendah Lemak,0.0402,0.0098,8.84,16.07,73.93,0,0
+813,22.0,0.4,0.2,4.7,Kundur Segar,Rendah Lemak & Karbo,0.0174,0.0087,7.83,6.96,81.74,0,0
+814,63.0,2.0,2.7,9.1,Kunyit,Rendah Lemak & Karbo,0.0312,0.0422,37.97,12.5,56.88,0,0
+815,83.0,19.1,0.2,0.0,Kura-Kura,"Tinggi Protein, Rendah Lemak",0.2274,0.0024,2.14,90.95,0.0,0,1
+816,515.0,30.6,42.1,13.8,Kwaci,Tinggi Protein & Lemak,0.0593,0.0816,73.43,23.72,10.7,2,0
+817,242.0,19.0,17.0,3.0,Kwark (Quark),Tinggi Protein & Lemak,0.0782,0.07,62.96,31.28,4.94,2,0
+818,17.0,0.6,0.2,3.8,Labu Air,Rendah Lemak & Karbo,0.0333,0.0111,10.0,13.33,84.44,0,0
+819,51.0,1.7,0.5,10.0,Labu Kuning Segar,Rendah Lemak & Karbo,0.0327,0.0096,8.65,13.08,76.92,0,0
+820,26.0,0.6,0.1,6.7,Labu Siam,Rendah Lemak & Karbo,0.0222,0.0037,3.33,8.89,99.26,0,0
+821,32.0,1.1,0.1,6.6,Labu Waluh Segar,Rendah Lemak & Karbo,0.0333,0.003,2.73,13.33,80.0,0,0
+822,166.3,2.7,3.9,29.5,Laksa,Sedang,0.0161,0.0233,20.98,6.46,70.53,0,0
+823,85.0,5.7,0.3,15.4,Lamtoro (Pete Cina) Biji Muda,Rendah Lemak,0.0663,0.0035,3.14,26.51,71.63,0,1
+824,148.0,10.6,0.5,26.2,Lamtoro Biji Tua,"Tinggi Protein, Rendah Lemak",0.0711,0.0034,3.02,28.46,70.34,0,1
+825,142.0,11.0,2.5,20.4,Lamtoro Tempe,"Tinggi Protein, Rendah Lemak",0.0769,0.0175,15.73,30.77,57.06,0,1
+826,367.0,46.4,5.4,32.5,Lamtoro Var. Gung Tanpa Kulit,Sedang,0.1261,0.0147,13.21,50.43,35.33,0,0
+827,336.0,23.8,1.2,59.7,Lamtoro Var. Lokal Dengan Kulit,"Tinggi Protein, Rendah Lemak",0.0706,0.0036,3.2,28.25,70.86,0,0
+828,56.0,0.9,0.2,14.3,Langsat,Rendah Lemak & Karbo,0.0158,0.0035,3.16,6.32,100.35,0,0
+829,34.0,2.2,0.3,5.5,Lantar Segar,Rendah Lemak & Karbo,0.0629,0.0086,7.71,25.14,62.86,0,0
+830,422.0,0.9,10.8,80.4,Lanting Getuk,Sedang,0.0021,0.0255,22.98,0.85,76.03,1,0
+831,389.0,6.6,15.7,55.5,Lapis Legit,Tinggi Lemak,0.0169,0.0403,36.23,6.77,56.92,2,0
+832,174.0,17.0,10.0,3.0,Lawar Babi Masakan,Sedang,0.0971,0.0571,51.43,38.86,6.86,1,1
+833,141.0,23.0,1.5,7.6,Lawar Penyu Masakan,"Tinggi Protein, Rendah Lemak",0.162,0.0106,9.51,64.79,21.41,0,1
+834,159.0,5.0,10.9,10.1,Lawara Jangang Masakan,Sedang,0.0312,0.0681,61.31,12.5,25.25,1,0
+835,207.0,7.4,15.4,9.6,Lawara Penjah Masakan,Tinggi Lemak,0.0356,0.074,66.63,14.23,18.46,2,0
+836,405.0,4.8,5.1,84.9,Ledre Pisang,Sedang,0.0118,0.0126,11.31,4.73,83.65,0,0
+837,15.0,1.0,0.4,1.9,Lema/ Rebung Asam,Rendah Lemak & Karbo,0.0625,0.025,22.5,25.0,47.5,0,0
+838,902.0,0.0,100.0,0.0,Lemak Babi,Tinggi Lemak,0.0,0.1107,99.67,0.0,0.0,2,0
+839,630.0,9.1,65.0,1.1,Lemak Babi (Bacon),Tinggi Lemak,0.0144,0.103,92.71,5.77,0.7,2,0
+840,372.0,12.0,29.4,14.4,Lemak Ikan,Tinggi Lemak,0.0322,0.0788,70.94,12.87,15.44,2,0
+841,818.0,1.5,90.0,0.0,Lemak Kerbau,Tinggi Lemak,0.0018,0.1099,98.9,0.73,0.0,2,0
+842,34.0,0.5,0.8,6.2,Lemon Segar,Rendah Lemak & Karbo,0.0143,0.0229,20.57,5.71,70.86,0,0
+843,36.0,0.0,0.0,10.0,Lemon Squasih,Rendah Lemak & Karbo,0.0,0.0,0.0,0.0,108.11,0,0
+844,30.0,0.0,0.0,8.0,Lemonade,Rendah Lemak & Karbo,0.0,0.0,0.0,0.0,103.23,0,0
+845,221.3,3.8,3.6,43.4,Lemper,Sedang,0.0171,0.0162,14.57,6.84,78.09,0,0
+846,320.0,3.5,5.7,63.7,Lempog Durian,Sedang,0.0109,0.0178,15.98,4.36,79.38,0,0
+847,181.0,2.8,1.2,39.8,Lepok/Ubi Rumput,Rendah Lemak,0.0154,0.0066,5.93,6.15,87.47,0,0
+848,33.0,1.9,0.1,7.4,Leunca Buah,Rendah Lemak & Karbo,0.0559,0.0029,2.65,22.35,87.06,0,0
+849,240.0,7.8,0.5,51.3,Leupeut Ketan,Rendah Lemak,0.0324,0.0021,1.87,12.95,85.15,0,1
+850,387.0,16.0,22.0,3.0,Leverwost (Sosis Hati),Tinggi Protein & Lemak,0.0412,0.0567,51.03,16.49,3.09,2,0
+851,79.0,2.3,5.2,5.8,Lilin Bungkus Gedi,Sedang,0.0288,0.065,58.5,11.5,29.0,0,0
+852,19.0,0.9,0.1,4.2,Lobak,Rendah Lemak & Karbo,0.045,0.005,4.5,18.0,84.0,0,0
+853,217.0,11.0,1.7,5.1,Lokan Segar,"Tinggi Protein, Rendah Lemak",0.0505,0.0078,7.02,20.18,9.36,0,1
+854,27.0,0.4,0.2,6.0,Lontar Segar,Rendah Lemak & Karbo,0.0143,0.0071,6.43,5.71,85.71,0,0
+855,163.3,2.8,2.2,33.0,Lopis,Rendah Lemak,0.017,0.0134,12.05,6.82,80.34,0,0
+856,38.0,1.1,0.3,7.6,Lumai/Leunca Segar,Rendah Lemak & Karbo,0.0282,0.0077,6.92,11.28,77.95,0,0
+857,164.0,1.8,2.1,34.5,Lupis Ketan,Rendah Lemak,0.0109,0.0127,11.45,4.36,83.64,0,0
+858,294.0,0.3,0.0,79.5,Madu,Rendah Lemak,0.001,0.0,0.0,0.41,107.8,0,0
+859,341.0,0.3,0.0,85.0,Maizena Tepung,Rendah Lemak,0.0009,0.0,0.0,0.35,99.42,0,0
+860,363.0,8.7,0.4,78.7,Makaroni,Rendah Lemak,0.0239,0.0011,0.99,9.56,86.48,0,0
+861,63.0,2.4,0.4,12.4,Mangga Benggala Segar,Rendah Lemak & Karbo,0.0375,0.0062,5.62,15.0,77.5,0,0
+862,44.0,0.7,0.2,11.2,Mangga Gedong,Rendah Lemak & Karbo,0.0156,0.0044,4.0,6.22,99.56,0,0
+863,63.0,0.5,0.2,16.7,Mangga Golek,Rendah Lemak,0.0078,0.0031,2.81,3.12,104.38,0,0
+864,46.0,0.4,0.2,11.9,Mangga Harum Manis,Rendah Lemak & Karbo,0.0085,0.0043,3.83,3.4,101.28,0,0
+865,72.0,0.8,0.2,18.7,Mangga Indramayu,Rendah Lemak,0.011,0.0027,2.47,4.38,102.47,0,0
+866,56.0,0.4,0.2,14.6,Mangga Kopek,Rendah Lemak & Karbo,0.007,0.0035,3.16,2.81,102.46,0,0
+867,86.0,0.7,0.5,19.8,Mangga Kwini Segar,Rendah Lemak,0.008,0.0057,5.17,3.22,91.03,0,0
+868,133.0,1.0,0.1,32.1,Mangga Manalagi Segar,Rendah Lemak,0.0075,0.0007,0.67,2.99,95.82,0,0
+869,59.0,0.5,0.4,15.1,Mangga Muda,Rendah Lemak,0.0083,0.0067,6.0,3.33,100.67,0,0
+870,52.0,0.7,0.0,12.3,Mangga Segar,Rendah Lemak & Karbo,0.0132,0.0,0.0,5.28,92.83,0,0
+871,63.0,0.6,0.6,15.6,Manggis,Rendah Lemak,0.0094,0.0094,8.44,3.75,97.5,0,0
+872,720.0,0.6,81.0,0.4,Margarin,Tinggi Lemak,0.0008,0.1123,101.11,0.33,0.22,2,0
+873,144.0,3.5,1.2,29.8,Markisa Segar,Rendah Lemak,0.0241,0.0083,7.45,9.66,82.21,0,0
+874,217.0,2.5,1.0,49.6,Markisa Squash,Rendah Lemak,0.0115,0.0046,4.13,4.59,91.01,0,0
+875,104.0,1.2,0.5,23.7,Markisa Squash Bd,Rendah Lemak,0.0114,0.0048,4.29,4.57,90.29,0,0
+876,265.3,4.7,5.5,49.3,Martabak  Manis,Sedang,0.0176,0.0207,18.59,7.06,74.05,0,0
+877,153.0,4.5,4.2,24.3,Martabak India,Sedang,0.0292,0.0273,24.55,11.69,63.12,0,0
+878,278.0,5.1,8.6,45.0,Martabak Mesir,Sedang,0.0183,0.0308,27.74,7.31,64.52,1,1
+879,200.0,8.9,5.1,29.5,Martabak Telur,Sedang,0.0443,0.0254,22.84,17.71,58.71,0,1
+880,369.0,2.1,7.0,74.1,Masekat,Sedang,0.0057,0.0189,17.03,2.27,80.11,0,0
+881,90.0,1.2,0.1,21.1,Matoa Segar,Rendah Lemak,0.0132,0.0011,0.99,5.27,92.75,0,0
+882,276.0,0.0,0.1,71.0,Melase,Rendah Lemak,0.0,0.0004,0.32,0.0,102.53,0,0
+883,66.0,5.0,0.7,13.3,Melinjo,Rendah Lemak & Karbo,0.0746,0.0104,9.4,29.85,79.4,0,1
+884,37.0,0.6,0.4,7.8,Melon Segar,Rendah Lemak & Karbo,0.0158,0.0105,9.47,6.32,82.11,0,0
+885,322.0,55.8,2.0,22.7,Menjangan Daging Dendeng Mentah,"Tinggi Protein, Rendah Lemak",0.1728,0.0062,5.57,69.1,28.11,0,0
+886,725.0,0.5,81.6,1.4,Mentega,Tinggi Lemak,0.0007,0.1124,101.16,0.28,0.77,2,0
+887,65.0,1.7,0.2,16.1,Menteng,Rendah Lemak,0.0258,0.003,2.73,10.3,97.58,0,0
+888,359.0,11.5,6.8,64.4,Merica,Sedang,0.0319,0.0189,17.0,12.78,71.56,0,0
+889,88.0,0.6,3.3,14.0,Mi Basah,Sedang,0.0067,0.0371,33.37,2.7,62.92,0,0
+890,71.0,0.2,0.8,15.9,Mi Golosor,Rendah Lemak,0.0028,0.0111,10.0,1.11,88.33,0,0
+891,339.0,10.0,1.7,6.3,Mi Kering,"Tinggi Protein, Rendah Lemak",0.0294,0.005,4.5,11.76,7.41,0,0
+892,113.0,3.0,3.2,18.1,Mie Aceh Rebus,Sedang,0.0263,0.0281,25.26,10.53,63.51,0,0
+893,102.0,6.2,3.9,10.5,Mie Ayam,Sedang,0.0602,0.0379,34.08,24.08,40.78,0,1
+894,114.0,5.3,3.0,16.4,Mie Bakso,Rendah Lemak,0.0461,0.0261,23.48,18.43,57.04,0,1
+895,86.0,0.6,3.3,14.0,Mie Basah,Sedang,0.0069,0.0379,34.14,2.76,64.37,0,0
+896,353.0,0.3,0.0,88.0,Mie Bendo,Rendah Lemak,0.0008,0.0,0.0,0.34,99.44,0,0
+897,102.0,3.0,2.1,17.8,Mie Celon,Rendah Lemak,0.0291,0.0204,18.35,11.65,69.13,0,0
+898,468.0,7.6,20.4,62.4,Mie Goreng,Tinggi Lemak,0.0162,0.0435,39.15,6.48,53.22,2,0
+899,337.0,7.9,11.8,50.0,Mie Kering,Sedang,0.0234,0.0349,31.42,9.35,59.17,1,0
+900,105.0,5.9,4.9,9.4,Mie Pangsit Basah,Sedang,0.0557,0.0462,41.6,22.26,35.47,0,1
+901,190.0,0.2,0.4,46.5,Mie Sagu,Rendah Lemak,0.001,0.0021,1.88,0.42,97.38,0,0
+902,902.0,0.0,100.0,0.0,Minyak Hati Hiu (Eulamia),Tinggi Lemak,0.0,0.1107,99.67,0.0,0.0,2,0
+903,902.0,0.0,100.0,0.0,Minyak Ikan,Tinggi Lemak,0.0,0.1107,99.67,0.0,0.0,2,0
+904,902.0,0.0,100.0,0.0,Minyak Kacang Tanah,Tinggi Lemak,0.0,0.1107,99.67,0.0,0.0,2,0
+905,883.0,0.0,99.9,0.0,Minyak Kedelai,Tinggi Lemak,0.0,0.113,101.71,0.0,0.0,2,0
+906,870.0,1.0,98.0,0.0,Minyak Kelapa,Tinggi Lemak,0.0011,0.1125,101.26,0.46,0.0,2,0
+907,902.0,0.0,100.0,0.0,Minyak Kelapa Sawit,Tinggi Lemak,0.0,0.1107,99.67,0.0,0.0,2,0
+908,902.0,0.0,100.0,0.0,Minyak Wijen,Tinggi Lemak,0.0,0.1107,99.67,0.0,0.0,2,0
+909,884.0,0.0,100.0,0.0,Minyak Zaitun,Tinggi Lemak,0.0,0.113,101.69,0.0,0.0,2,0
+910,345.0,8.5,2.2,78.0,Misoa,Rendah Lemak,0.0246,0.0064,5.72,9.83,90.17,0,0
+911,218.0,0.8,16.0,50.2,Misro,Tinggi Lemak,0.0037,0.0731,65.75,1.46,91.69,2,0
+912,128.0,8.0,10.0,1.3,Moon Tahu,Sedang,0.062,0.0775,69.77,24.81,4.03,1,1
+913,33.0,2.3,0.5,4.7,Mostarda Metan -Sawi,Rendah Lemak & Karbo,0.0676,0.0147,13.24,27.06,55.29,0,0
+914,330.0,17.8,23.4,12.1,Mujahir Acar Kuning Masakan,Tinggi Protein & Lemak,0.0538,0.0707,63.63,21.51,14.62,2,0
+915,478.0,38.3,33.9,5.1,Naan Maran Sapi Masakan,Tinggi Protein & Lemak,0.08,0.0708,63.7,31.98,4.26,2,0
+916,52.0,0.4,0.2,13.7,Nanas,Rendah Lemak & Karbo,0.0075,0.0038,3.4,3.02,103.4,0,0
+917,58.0,0.7,0.2,13.3,Nanas Palembang Segar,Rendah Lemak & Karbo,0.0119,0.0034,3.05,4.75,90.17,0,0
+918,165.0,4.2,0.1,36.7,Nangka Biji,Rendah Lemak,0.0253,0.0006,0.54,10.12,88.43,0,0
+919,106.0,1.2,0.3,27.6,Nangka Masak Di Pohon,Rendah Lemak,0.0112,0.0028,2.52,4.49,103.18,0,0
+920,51.0,2.0,0.4,11.3,Nangka Muda,Rendah Lemak & Karbo,0.0385,0.0077,6.92,15.38,86.92,0,0
+921,180.0,3.0,0.3,39.8,Nasi,Rendah Lemak,0.0166,0.0017,1.49,6.63,87.96,0,0
+922,149.0,2.8,0.4,32.5,Nasi Beras Merah,Rendah Lemak,0.0187,0.0027,2.4,7.47,86.67,0,0
+923,192.0,3.8,8.8,24.4,Nasi Gemuk,Sedang,0.0197,0.0456,41.04,7.88,50.57,1,0
+924,276.0,3.2,3.2,30.2,Nasi Goreng,Sedang,0.0116,0.0116,10.4,4.62,43.61,0,0
+925,190.0,4.7,7.5,26.0,Nasi Gurih,Sedang,0.0246,0.0393,35.34,9.84,54.45,0,0
+926,357.0,8.8,0.5,79.5,Nasi Jagung,Rendah Lemak,0.0246,0.0014,1.26,9.83,88.83,0,0
+927,207.0,3.5,5.0,37.1,Nasi Minyak,Sedang,0.0168,0.024,21.63,6.73,71.35,0,0
+928,155.0,10.3,4.2,19.1,Nasi Rames,Sedang,0.066,0.0269,24.23,26.41,48.97,0,1
+929,120.0,2.4,0.4,26.0,Nasi Tim,Rendah Lemak,0.0198,0.0033,2.98,7.93,85.95,0,0
+930,253.3,4.3,21.0,11.7,Nasi Uduk,Tinggi Lemak,0.0169,0.0826,74.32,6.76,18.4,2,0
+931,196.0,14.5,8.3,15.9,Nasu Likku Masakan,Sedang,0.0736,0.0421,37.92,29.44,32.28,1,1
+932,600.0,14.0,41.7,42.0,Noga Kacang Tanah,Tinggi Lemak,0.0233,0.0694,62.45,9.32,27.95,2,0
+933,387.0,5.3,7.6,74.3,Nopia Spesial,Sedang,0.0137,0.0196,17.63,5.46,76.6,0,0
+934,9.0,2.1,6.0,7.1,Olah-Olah,Sedang,0.21,0.6,540.0,84.0,284.0,0,0
+935,187.0,13.0,6.0,22.6,Oncom,Sedang,0.0691,0.0319,28.72,27.66,48.09,0,1
+936,376.0,14.9,6.0,65.7,Oncom Ampas Kacang Hijau,Sedang,0.0395,0.0159,14.32,15.81,69.71,0,0
+937,363.3,19.3,19.3,40.3,Oncom Goreng,Tinggi Protein & Lemak,0.053,0.053,47.68,21.19,44.25,2,0
+938,284.0,12.0,14.4,13.6,Oncom Hitam Goreng,Sedang,0.0421,0.0505,45.47,16.84,19.09,1,0
+939,306.7,9.0,18.0,27.0,Oncom Hitam Goreng Bertepung,Tinggi Lemak,0.0292,0.0585,52.65,11.7,35.1,2,0
+940,351.0,11.0,5.3,65.9,Oncom Kacang Hijau + Singkong,Sedang,0.0312,0.0151,13.55,12.5,74.89,0,0
+941,132.0,12.7,3.8,13.7,Oncom Kacang Tanah Pepes,Sedang,0.0955,0.0286,25.71,38.2,41.2,0,1
+942,187.0,13.0,6.0,22.6,Oncom Kedele,Sedang,0.0691,0.0319,28.72,27.66,48.09,0,1
+943,368.0,6.8,32.0,13.2,Oncom Merah Goreng,Tinggi Lemak,0.0184,0.0867,78.05,7.37,14.31,2,0
+944,320.0,7.3,18.7,31.0,Oncom Merah Goreng Bertepung,Tinggi Lemak,0.0227,0.0583,52.43,9.1,38.63,2,0
+945,40.0,2.0,2.0,3.0,Oncom Merah Sayur (Tumis),Rendah Lemak & Karbo,0.0488,0.0488,43.9,19.51,29.27,0,0
+946,76.0,5.2,1.8,10.6,Oncom Pepes,Rendah Lemak & Karbo,0.0675,0.0234,21.04,27.01,55.06,0,1
+947,288.6,8.3,8.9,44.3,Onde-Onde,Sedang,0.0287,0.0307,27.66,11.46,61.19,1,1
+948,115.0,1.5,6.0,14.0,Ongol-Ongol,Sedang,0.0129,0.0517,46.55,5.17,48.28,0,0
+949,111.0,0.3,2.7,21.2,Ongol-Ongol Sagu,Rendah Lemak,0.0027,0.0241,21.7,1.07,75.71,0,0
+950,940.0,36.0,42.0,104.0,Opak Singkong,Tinggi Protein & Lemak,0.0383,0.0446,40.17,15.3,44.21,2,0
+951,117.0,13.7,5.0,4.3,Oramu Ninahu Ndawa Olaho Masakan,Sedang,0.1161,0.0424,38.14,46.44,14.58,0,1
+952,125.0,10.4,8.6,0.8,Otak,Sedang,0.0825,0.0683,61.43,33.02,2.54,1,1
+953,351.0,0.9,0.9,84.9,Oyek,Rendah Lemak,0.0026,0.0026,2.3,1.02,96.48,0,0
+954,342.0,2.3,0.1,83.1,Oyek (Dari Singkong),Rendah Lemak,0.0067,0.0003,0.26,2.68,96.91,0,0
+955,77.0,3.5,4.6,5.4,Paku Hinela Wulelenggapaya,Sedang,0.0449,0.059,53.08,17.95,27.69,0,0
+956,494.0,7.5,36.4,40.1,Pala Biji,Tinggi Lemak,0.0152,0.0735,66.18,6.06,32.4,2,0
+957,42.0,0.3,0.2,10.9,Pala Daging,Rendah Lemak & Karbo,0.007,0.0047,4.19,2.79,101.4,0,0
+958,460.0,28.5,35.2,7.2,Paniki Masak Santan Masakan,Tinggi Protein & Lemak,0.0618,0.0764,68.72,24.73,6.25,2,0
+959,133.8,3.0,1.6,27.0,Papais,Rendah Lemak,0.0223,0.0119,10.68,8.9,80.12,0,0
+960,61.0,0.2,0.1,14.9,Papeda,Rendah Lemak & Karbo,0.0032,0.0016,1.45,1.29,96.13,0,0
+961,87.0,10.5,2.5,5.5,Parede Baleh Masakan,"Tinggi Protein, Rendah Lemak",0.1193,0.0284,25.57,47.73,25.0,0,1
+962,29.0,1.1,0.3,6.6,Paria (Pare),Rendah Lemak & Karbo,0.0367,0.01,9.0,14.67,88.0,0,0
+963,16.0,0.8,0.2,3.4,Paria Putih Kukus,Rendah Lemak & Karbo,0.0471,0.0118,10.59,18.82,80.0,0,0
+964,19.0,1.0,0.4,3.6,Paria Putih Segar,Rendah Lemak & Karbo,0.05,0.02,18.0,20.0,72.0,0,0
+965,307.0,4.5,13.3,42.4,Pastel,Sedang,0.0146,0.0432,38.86,5.84,55.06,1,0
+966,362.0,0.5,0.3,86.9,Pati Singkong (Tapioka),Rendah Lemak,0.0014,0.0008,0.74,0.55,95.76,0,0
+967,23.0,1.8,0.3,4.5,Pe-Cay,Rendah Lemak & Karbo,0.075,0.0125,11.25,30.0,75.0,0,0
+968,156.0,28.0,4.0,0.0,Peda Ikan Banjar,Sedang,0.1783,0.0255,22.93,71.34,0.0,0,1
+969,75.0,2.5,2.8,10.0,Pelecing Kangkung,Rendah Lemak & Karbo,0.0329,0.0368,33.16,13.16,52.63,0,0
+970,219.0,19.7,13.6,4.4,Pelepah Manuk Masakan,Sedang,0.0895,0.0618,55.64,35.82,8.0,1,0
+971,162.0,4.9,3.0,27.8,Pempek Adaan,Rendah Lemak,0.0301,0.0184,16.56,12.02,68.22,0,0
+972,156.0,4.2,1.4,31.6,Pempek Belida,Rendah Lemak,0.0268,0.0089,8.03,10.7,80.51,0,0
+973,152.0,4.5,2.3,28.2,Pempek Kapal Selam,Rendah Lemak,0.0294,0.015,13.53,11.76,73.73,0,0
+974,211.0,12.3,6.1,26.6,Pempek Kelesan,Sedang,0.058,0.0288,25.9,23.21,50.19,0,1
+975,243.0,5.2,7.3,39.1,Pempek Kulit,Sedang,0.0213,0.0299,26.93,8.52,64.1,0,1
+976,173.0,7.2,1.2,33.4,Pempek Tenggiri,Rendah Lemak,0.0414,0.0069,6.21,16.55,76.78,0,1
+977,372.0,7.8,36.3,3.5,Pencok Lele Masakan,Tinggi Lemak,0.0209,0.0973,87.59,8.36,3.75,2,0
+978,174.0,13.1,12.2,2.2,Penyu Serapah Masakan,Sedang,0.0749,0.0697,62.74,29.94,5.03,1,0
+979,19.0,0.6,0.1,3.9,Pepare Ular Segar,Rendah Lemak & Karbo,0.03,0.005,4.5,12.0,78.0,0,0
+980,275.0,11.6,11.6,30.2,Pepaya Lodeh,Sedang,0.042,0.042,37.83,16.81,43.77,1,0
+981,26.0,2.1,0.1,4.9,Pepaya Muda,Rendah Lemak & Karbo,0.0778,0.0037,3.33,31.11,72.59,0,0
+982,46.0,0.5,12.0,12.2,Pepaya Segar,Sedang,0.0106,0.2553,229.79,4.26,103.83,1,0
+983,76.0,5.2,1.8,10.6,Pepea Oncom Ampas Tahu,Rendah Lemak & Karbo,0.0675,0.0234,21.04,27.01,55.06,0,1
+984,400.0,0.0,0.0,95.0,Permen,Rendah Lemak,0.0,0.0,0.0,0.0,94.76,0,0
+985,142.0,10.4,2.0,22.0,Pete Segar,"Tinggi Protein, Rendah Lemak",0.0727,0.014,12.59,29.09,61.54,0,1
+986,50.0,3.7,1.0,9.0,Peterseli,Rendah Lemak & Karbo,0.0725,0.0196,17.65,29.02,70.59,0,0
+987,161.0,20.0,0.2,24.0,Petis Ikan,"Tinggi Protein, Rendah Lemak",0.1235,0.0012,1.11,49.38,59.26,0,1
+988,220.0,15.0,0.1,40.0,Petis Udang,"Tinggi Protein, Rendah Lemak",0.0679,0.0005,0.41,27.15,72.4,0,1
+989,345.0,23.8,1.4,59.3,Petis Udang Kering,"Tinggi Protein, Rendah Lemak",0.0688,0.004,3.64,27.51,68.55,0,0
+990,220.0,15.0,0.9,38.0,Petis Udang Pasta,"Tinggi Protein, Rendah Lemak",0.0679,0.0041,3.67,27.15,68.78,0,1
+991,514.0,1.0,27.8,400.0,Pilus,Tinggi Lemak,0.0019,0.054,48.58,0.78,310.68,2,0
+992,107.0,15.9,0.6,0.4,Pinda Masakan,"Tinggi Protein, Rendah Lemak",0.1472,0.0056,5.0,58.89,1.48,0,1
+993,157.0,28.0,4.2,0.0,Pindang Ikan Banjar,Sedang,0.1772,0.0266,23.92,70.89,0.0,0,1
+994,170.0,31.0,4.2,0.0,Pindang Ikan Benggol,Sedang,0.1813,0.0246,22.11,72.51,0.0,0,1
+995,153.0,30.0,2.8,0.0,Pindang Ikan Layang,"Tinggi Protein, Rendah Lemak",0.1948,0.0182,16.36,77.92,0.0,0,1
+996,142.0,27.0,3.0,0.0,Pindang Ikan Selar Kecil,"Tinggi Protein, Rendah Lemak",0.1888,0.021,18.88,75.52,0.0,0,1
+997,124.0,9.5,9.6,0.0,Pindang Kenari Masakan,Sedang,0.076,0.0768,69.12,30.4,0.0,1,1
+998,99.0,1.2,0.2,25.8,Pisang Ambon,Rendah Lemak,0.012,0.002,1.8,4.8,103.2,0,0
+999,68.0,1.3,0.2,17.2,Pisang Angleng (Pisang Ampyang) Segar,Rendah Lemak,0.0188,0.0029,2.61,7.54,99.71,0,0
+1000,120.0,1.1,0.2,26.8,Pisang Ayam Segar,Rendah Lemak,0.0091,0.0017,1.49,3.64,88.6,0,0
+1001,127.0,2.1,0.3,31.1,Pisang Gapi Segar,Rendah Lemak,0.0164,0.0023,2.11,6.56,97.19,0,0
+1002,220.0,2.3,2.3,6.3,Pisang Goreng,Rendah Lemak & Karbo,0.0104,0.0104,9.37,4.16,11.4,0,0
+1003,115.0,1.9,0.2,27.9,Pisang Goroho Segar,Rendah Lemak,0.0164,0.0017,1.55,6.55,96.21,0,0
+1004,117.0,2.0,0.3,28.9,Pisang Hijau Segar,Rendah Lemak,0.0169,0.0025,2.29,6.78,97.97,0,0
+1005,100.0,1.4,0.5,23.6,Pisang Kayu Segar,Rendah Lemak,0.0139,0.005,4.46,5.54,93.47,0,0
+1006,109.0,0.8,0.5,26.3,Pisang Kepok Segar,Rendah Lemak,0.0073,0.0045,4.09,2.91,95.64,0,0
+1007,145.0,1.1,0.3,34.5,Pisang Ketip Segar,Rendah Lemak,0.0075,0.0021,1.85,3.01,94.52,0,0
+1008,96.0,1.0,0.2,22.5,Pisang Kidang Segar,Rendah Lemak,0.0103,0.0021,1.86,4.12,92.78,0,0
+1009,99.0,1.3,0.2,25.6,Pisang Lampung,Rendah Lemak,0.013,0.002,1.8,5.2,102.4,0,0
+1010,127.0,1.4,0.2,33.6,Pisang Mas,Rendah Lemak,0.0109,0.0016,1.41,4.38,105.0,0,0
+1011,127.0,1.4,0.2,31.8,Pisang Mas Bali,Rendah Lemak,0.0109,0.0016,1.41,4.38,99.38,0,0
+1012,134.0,1.1,0.5,35.5,Pisang Oli,Rendah Lemak,0.0081,0.0037,3.33,3.26,105.19,0,0
+1013,120.0,1.2,0.2,31.8,Pisang Raja,Rendah Lemak,0.0099,0.0017,1.49,3.97,105.12,0,0
+1014,118.0,1.2,0.2,31.1,Pisang Raja Sere (Susu),Rendah Lemak,0.0101,0.0017,1.51,4.03,104.54,0,0
+1015,98.0,1.3,1.2,20.5,Pisang Rotan Segar,Rendah Lemak,0.0131,0.0121,10.91,5.25,82.83,0,0
+1016,625.0,1.0,0.0,8.1,Pisang Siam Goreng,Rendah Lemak & Karbo,0.0016,0.0,0.0,0.64,5.18,0,0
+1017,113.0,1.2,0.2,26.7,Pisang Talas Segar,Rendah Lemak,0.0105,0.0018,1.58,4.21,93.68,0,0
+1018,45.0,2.2,0.3,10.3,Prey (Bawang Daun),Rendah Lemak & Karbo,0.0478,0.0065,5.87,19.13,89.57,0,0
+1019,33.0,4.5,0.4,2.8,Pucuk Lumai/Daun Leunca Segar,Rendah Lemak & Karbo,0.1324,0.0118,10.59,52.94,32.94,0,0
+1020,216.0,2.6,3.1,44.4,Pulut,Sedang,0.012,0.0143,12.86,4.79,81.84,0,0
+1021,224.0,26.2,11.3,4.4,Punai Daging Goreng,Sedang,0.1164,0.0502,45.2,46.58,7.82,1,0
+1022,104.0,1.9,4.1,15.1,Pundut Nasi,Sedang,0.0181,0.039,35.14,7.24,57.52,0,0
+1023,25.0,1.5,0.5,3.6,Purundawa,Rendah Lemak & Karbo,0.0577,0.0192,17.31,23.08,55.38,0,0
+1024,76.0,4.1,1.1,15.2,Purut Segar,Rendah Lemak,0.0532,0.0143,12.86,21.3,78.96,0,0
+1025,76.0,3.6,0.3,14.6,Putri Malu Segar,Rendah Lemak & Karbo,0.0468,0.0039,3.51,18.7,75.84,0,0
+1026,163.0,2.2,6.5,23.8,Putri Selat,Sedang,0.0134,0.0396,35.67,5.37,58.05,0,0
+1027,200.0,1.0,2.4,43.8,Putu Mayang,Rendah Lemak,0.005,0.0119,10.75,1.99,87.16,0,0
+1028,136.0,43.0,2.4,3.0,Ragi,"Tinggi Protein, Rendah Lemak",0.3139,0.0175,15.77,125.55,8.76,0,1
+1029,76.0,12.1,2.0,2.4,Rajungan Segar,"Tinggi Protein, Rendah Lemak",0.1571,0.026,23.38,62.86,12.47,0,1
+1030,69.0,0.9,0.1,18.1,Rambutan,Rendah Lemak,0.0129,0.0014,1.29,5.14,103.43,0,0
+1031,11.0,0.0,0.0,2.7,Rambutan Aceh,Rendah Lemak & Karbo,0.0,0.0,0.0,0.0,90.0,0,0
+1032,76.0,0.5,0.2,18.0,Rambutan Binjai Segar,Rendah Lemak,0.0065,0.0026,2.34,2.6,93.51,0,0
+1033,4.0,0.0,0.0,0.9,Rambutan Sinyonya,Rendah Lemak & Karbo,0.0,0.0,0.0,0.0,72.0,0,0
+1034,295.0,7.3,8.5,47.5,Rarawuan,Sedang,0.0247,0.0287,25.84,9.86,64.19,1,1
+1035,394.0,2.2,8.8,76.6,Rasbi (Beras Ubi),Sedang,0.0056,0.0223,20.05,2.23,77.57,1,0
+1036,350.0,0.9,0.4,85.7,Rasi (Beras Singkong),Rendah Lemak,0.0026,0.0011,1.03,1.03,97.66,0,0
+1037,60.0,5.4,2.5,4.0,Rawon Masakan,Rendah Lemak & Karbo,0.0885,0.041,36.89,35.41,26.23,0,1
+1038,81.0,16.2,1.2,0.7,Rebon (Udang Kecil Segar),"Tinggi Protein, Rendah Lemak",0.1976,0.0146,13.17,79.02,3.41,0,1
+1039,299.0,29.4,3.6,3.2,Rebon Kering,Sedang,0.098,0.012,10.8,39.2,4.27,0,1
+1040,81.0,16.2,1.2,0.7,Rebon Udang Kecil Segar,"Tinggi Protein, Rendah Lemak",0.1976,0.0146,13.17,79.02,3.41,0,1
+1041,27.0,0.6,0.3,5.2,Rebung,Rendah Lemak & Karbo,0.0214,0.0107,9.64,8.57,74.29,0,0
+1042,320.0,7.2,4.2,63.3,Rebung Laut Mentah,Sedang,0.0224,0.0131,11.78,8.97,78.88,0,0
+1043,451.0,11.2,20.2,59.7,Rempeyek Kacang Tolo,Tinggi Lemak,0.0248,0.0447,40.22,9.91,52.83,2,0
+1044,497.0,17.0,27.6,50.8,Rempeyek Kacang Uci,Tinggi Protein & Lemak,0.0341,0.0554,49.88,13.65,40.8,2,0
+1045,193.0,22.6,7.9,7.8,Rendang Sapi Masakan,Sedang,0.1165,0.0407,36.65,46.6,16.08,0,1
+1046,471.0,4.7,21.8,64.1,Renggi Goreng,Tinggi Lemak,0.01,0.0462,41.57,3.98,54.32,2,0
+1047,75.0,1.6,0.6,15.8,Rimbang Segar,Rendah Lemak,0.0211,0.0079,7.11,8.42,83.16,0,0
+1048,335.0,5.3,3.5,70.5,Risoles,Sedang,0.0158,0.0104,9.38,6.31,83.93,0,0
+1049,341.0,5.5,16.2,43.3,Roti Boong,Tinggi Lemak,0.0161,0.0474,42.63,6.43,50.64,2,0
+1050,350.0,7.5,2.0,75.5,Roti Gambang,Rendah Lemak,0.0214,0.0057,5.13,8.55,86.04,0,0
+1051,248.0,8.0,1.2,50.0,Roti Putih,Rendah Lemak,0.0321,0.0048,4.34,12.85,80.32,0,1
+1052,249.0,7.9,1.5,49.7,Roti Warna Sawo Matang,Rendah Lemak,0.0316,0.006,5.4,12.64,79.52,0,1
+1053,153.0,11.3,8.4,8.0,Rujak Cingur,Sedang,0.0734,0.0545,49.09,29.35,20.78,1,1
+1054,41.0,1.4,0.3,8.1,Rumput Laut,Rendah Lemak & Karbo,0.0333,0.0071,6.43,13.33,77.14,0,0
+1055,536.0,40.5,41.5,0.0,Rusa Daging Dendeng Mentah,Tinggi Protein & Lemak,0.0754,0.0773,69.55,30.17,0.0,2,0
+1056,110.0,11.5,2.0,11.7,Rusip,"Tinggi Protein, Rendah Lemak",0.1036,0.018,16.22,41.44,42.16,0,1
+1057,198.0,24.6,10.7,0.9,Rw Anjing Masakan,Sedang,0.1236,0.0538,48.39,49.45,1.81,1,0
+1058,449.0,30.6,25.5,31.9,Saga Biji Tanpa Kulit,Tinggi Protein & Lemak,0.068,0.0567,51.0,27.2,28.36,2,0
+1059,338.0,0.6,0.3,83.1,Sagu Ambon,Rendah Lemak,0.0018,0.0009,0.8,0.71,98.05,0,0
+1060,355.0,0.6,1.1,85.6,Sagu Aren Kering,Rendah Lemak,0.0017,0.0031,2.78,0.67,96.18,0,0
+1061,231.0,0.6,0.2,56.6,Sagu Aren Segar,Rendah Lemak,0.0026,0.0009,0.78,1.03,97.59,0,0
+1062,291.0,0.5,4.0,63.4,Sagu Forno,Sedang,0.0017,0.0137,12.33,0.68,86.85,0,0
+1063,230.0,0.6,0.2,56.5,Sagu Kasbi Segar,Rendah Lemak,0.0026,0.0009,0.78,1.04,97.84,0,0
+1064,452.0,2.8,14.8,76.8,Sagu Lemak (Kue Sagon),Sedang,0.0062,0.0327,29.4,2.47,67.81,1,0
+1065,347.0,0.9,0.3,85.2,Sagu Lempeng,Rendah Lemak,0.0026,0.0009,0.78,1.03,97.93,0,0
+1066,364.0,0.1,0.2,90.5,Sagu Rendang,Rendah Lemak,0.0003,0.0005,0.49,0.11,99.18,0,0
+1067,362.0,0.5,0.3,86.9,Sagu Singkong Kering,Rendah Lemak,0.0014,0.0008,0.74,0.55,95.76,0,0
+1068,354.0,0.8,8.3,68.9,Sagu Sinole,Sedang,0.0023,0.0234,21.04,0.9,77.63,1,0
+1069,57.0,0.5,0.1,13.6,Salak Bali Segar,Rendah Lemak & Karbo,0.0086,0.0017,1.55,3.45,93.79,0,0
+1070,55.0,0.4,0.2,12.8,Salak Medan Segar,Rendah Lemak & Karbo,0.0071,0.0036,3.21,2.86,91.43,0,0
+1071,87.0,0.8,0.4,20.1,Salak Pondoh Segar,Rendah Lemak,0.0091,0.0045,4.09,3.64,91.36,0,0
+1072,281.0,2.4,0.7,66.1,Sale Pisang Siam,Rendah Lemak,0.0085,0.0025,2.23,3.4,93.76,0,0
+1073,122.0,2.0,10.0,7.6,Santan (Dengan Air),Sedang,0.0163,0.0813,73.17,6.5,24.72,1,0
+1074,324.0,4.2,34.3,55.6,Santan (Kelapa Saja),Tinggi Lemak,0.0129,0.1055,94.98,5.17,68.43,2,0
+1075,324.0,4.2,34.3,5.6,Santan Murni,Tinggi Lemak,0.0129,0.1055,94.98,5.17,6.89,2,0
+1076,98.0,2.0,0.4,24.5,Saos Tomat,Rendah Lemak,0.0202,0.004,3.64,8.08,98.99,0,0
+1077,212.0,18.0,10.6,59.3,Sapi Abon,Sedang,0.0845,0.0498,44.79,33.8,111.36,1,0
+1078,108.0,17.6,4.2,0.0,Sapi Babat Segar,Sedang,0.1615,0.0385,34.68,64.59,0.0,0,1
+1079,182.0,32.0,6.0,0.0,Sapi Daging Asap,Sedang,0.1749,0.0328,29.51,69.95,0.0,0,1
+1080,301.0,55.0,9.0,0.0,Sapi Daging Dendeng Mentah,Sedang,0.1821,0.0298,26.82,72.85,0.0,1,0
+1081,273.0,17.5,22.0,0.0,Sapi Daging Gemuk Segar,Tinggi Protein & Lemak,0.0639,0.0803,72.26,25.55,0.0,2,0
+1082,289.0,16.0,25.0,0.0,Sapi Daging Kornet,Tinggi Protein & Lemak,0.0552,0.0862,77.59,22.07,0.0,2,0
+1083,174.0,19.6,10.0,0.0,Sapi Daging Kurus Segar,Sedang,0.112,0.0571,51.43,44.8,0.0,1,1
+1084,201.0,18.8,14.0,0.0,Sapi Daging Lemak Sedang Segar,Sedang,0.0931,0.0693,62.38,37.23,0.0,1,0
+1085,448.0,14.5,42.3,2.3,Sapi Daging Sosis (Worst),Tinggi Lemak,0.0323,0.0942,84.79,12.92,2.05,2,0
+1086,183.0,12.0,14.4,1.4,Sapi Daleman Segar,Sedang,0.0652,0.0783,70.43,26.09,3.04,1,0
+1087,98.0,21.9,1.1,0.0,Sapi Dideh/Darah,"Tinggi Protein, Rendah Lemak",0.2212,0.0111,10.0,88.48,0.0,0,1
+1088,137.0,15.0,8.1,0.9,Sapi Ginjal Segar,Sedang,0.1087,0.0587,52.83,43.48,2.61,1,1
+1089,274.0,16.0,22.0,3.0,Sapi Hati Sosis (Liverworst),Tinggi Protein & Lemak,0.0582,0.08,72.0,23.27,4.36,2,0
+1090,84.0,10.5,4.6,0.2,Sapi Keleponan Segar,Sedang,0.1235,0.0541,48.71,49.41,0.94,0,1
+1091,132.0,19.7,3.2,6.0,Sapi Liver Segar,Sedang,0.1481,0.0241,21.65,59.25,18.05,0,1
+1092,123.0,10.4,8.6,0.8,Sapi Otak Segar,Sedang,0.0839,0.0694,62.42,33.55,2.58,1,1
+1093,360.0,57.3,6.0,19.2,Sapi Paru Dendeng Mentah,Sedang,0.1587,0.0166,14.96,63.49,21.27,0,0
+1094,268.0,23.9,12.7,14.5,Sapi Paru Goreng,Sedang,0.0888,0.0472,42.49,35.54,21.56,1,0
+1095,126.0,14.0,7.2,1.5,Sapi Usus Segar,Sedang,0.1102,0.0567,51.02,44.09,4.72,0,1
+1096,281.0,37.5,0.3,32.1,Sarang Burung,"Tinggi Protein, Rendah Lemak",0.133,0.0011,0.96,53.19,45.53,0,1
+1097,338.0,21.1,27.0,1.0,Sardines Dalam Kaleng,Tinggi Protein & Lemak,0.0622,0.0796,71.68,24.9,1.18,2,0
+1098,344.0,30.0,20.0,43.0,Sari Kedelai Bubuk,Tinggi Protein & Lemak,0.087,0.058,52.17,34.78,49.86,2,0
+1099,166.0,2.3,2.8,32.9,Sarimuka,Rendah Lemak,0.0138,0.0168,15.09,5.51,78.8,0,0
+1100,283.0,12.1,16.8,20.9,Sate Bandeng,Tinggi Lemak,0.0426,0.0592,53.24,17.04,29.44,2,0
+1101,110.0,15.5,0.5,11.5,Sate Kulit,"Tinggi Protein, Rendah Lemak",0.1396,0.0045,4.05,55.86,41.44,0,1
+1102,179.0,22.5,3.5,13.3,Sate Penyu Masakan,Sedang,0.125,0.0194,17.5,50.0,29.56,0,1
+1103,274.0,12.9,18.6,13.6,Sate Pusut Masakan,Tinggi Lemak,0.0469,0.0676,60.87,18.76,19.78,2,0
+1104,126.7,14.0,7.3,1.3,Sate Usus,Sedang,0.1096,0.0572,51.45,43.85,4.07,0,1
+1105,22.0,2.3,0.3,4.0,Sawi,Rendah Lemak & Karbo,0.1,0.013,11.74,40.0,69.57,0,0
+1106,9.0,1.0,0.1,1.7,Sawi Putih / Pecai Segar,Rendah Lemak & Karbo,0.1,0.01,9.0,40.0,68.0,0,0
+1107,30.0,1.9,0.5,4.4,Sawi Taiwan Segar,Rendah Lemak & Karbo,0.0613,0.0161,14.52,24.52,56.77,0,0
+1108,19.0,1.3,0.2,2.9,Sawi Tanah Segar,Rendah Lemak & Karbo,0.065,0.01,9.0,26.0,58.0,0,0
+1109,92.0,0.5,1.1,22.4,Sawo,Rendah Lemak,0.0054,0.0118,10.65,2.15,96.34,0,0
+1110,64.0,1.0,3.1,8.0,Sawo Duren Segar,Sedang,0.0154,0.0477,42.92,6.15,49.23,0,0
+1111,111.0,0.9,2.3,21.6,Sawo Kecik Segar,Rendah Lemak,0.008,0.0205,18.48,3.21,77.14,0,0
+1112,92.0,0.5,1.1,22.4,Sawo Manila Segar,Rendah Lemak,0.0054,0.0118,10.65,2.15,96.34,0,0
+1113,29.0,0.7,0.6,5.0,Sayur Asem,Rendah Lemak & Karbo,0.0233,0.02,18.0,9.33,66.67,0,0
+1114,49.0,1.7,0.3,9.8,Sayur Bunga Pepaya,Rendah Lemak & Karbo,0.034,0.006,5.4,13.6,78.4,0,0
+1115,178.0,2.6,13.9,10.6,Sayur Garu,Sedang,0.0145,0.0777,69.89,5.81,23.69,1,0
+1116,133.0,7.3,6.6,11.2,Sayur Kohu-Kohu,Sedang,0.0545,0.0493,44.33,21.79,33.43,0,1
+1117,64.0,2.1,0.6,12.5,Sayur Lebui,Rendah Lemak & Karbo,0.0323,0.0092,8.31,12.92,76.92,0,0
+1118,36.0,2.7,0.7,4.8,Sayur Lilin-Terubuk,Rendah Lemak & Karbo,0.073,0.0189,17.03,29.19,51.89,0,0
+1119,49.0,3.1,2.5,3.6,Sayur Ndusuk,Rendah Lemak & Karbo,0.062,0.05,45.0,24.8,28.8,0,0
+1120,27.0,1.3,2.0,1.0,Sayur Sop,Rendah Lemak & Karbo,0.0464,0.0714,64.29,18.57,14.29,0,0
+1121,67.0,5.2,2.9,5.1,Sayur Umbut Kelapa,Rendah Lemak & Karbo,0.0765,0.0426,38.38,30.59,30.0,0,1
+1122,57.0,5.4,2.6,3.1,Sayur Umbut Rotan,Rendah Lemak & Karbo,0.0931,0.0448,40.34,37.24,21.38,0,1
+1123,15.0,1.2,0.2,2.9,Selada,Rendah Lemak & Karbo,0.075,0.0125,11.25,30.0,72.5,0,0
+1124,17.0,1.7,0.3,3.0,Selada Air,Rendah Lemak & Karbo,0.0944,0.0167,15.0,37.78,66.67,0,0
+1125,19.0,2.7,0.2,2.9,Selada Air Rebus,Rendah Lemak & Karbo,0.135,0.01,9.0,54.0,58.0,0,0
+1126,20.0,1.0,0.1,4.6,Seledri,Rendah Lemak & Karbo,0.0476,0.0048,4.29,19.05,87.62,0,0
+1127,28.0,0.5,0.2,6.9,Semangka,Rendah Lemak & Karbo,0.0172,0.0069,6.21,6.9,95.17,0,0
+1128,192.5,4.5,6.0,30.3,Semur Jengkol,Sedang,0.0233,0.031,27.91,9.3,62.64,0,0
+1129,64.0,0.6,0.3,14.8,Sente,Rendah Lemak & Karbo,0.0092,0.0046,4.15,3.69,91.08,0,0
+1130,353.0,0.7,0.2,84.7,Sente Talas Segar,Rendah Lemak,0.002,0.0006,0.51,0.79,95.71,0,0
+1131,88.0,7.9,1.6,10.6,Sepi Masakan,Rendah Lemak & Karbo,0.0888,0.018,16.18,35.51,47.64,0,1
+1132,298.0,8.0,23.8,48.9,Serbuk Coklat,Tinggi Lemak,0.0268,0.0796,71.64,10.7,65.42,2,0
+1133,478.0,2.5,21.2,69.2,Serimping Talas Kebumen,Tinggi Lemak,0.0052,0.0443,39.83,2.09,57.79,2,0
+1134,213.0,0.0,0.0,55.0,Setrup Sirup,Rendah Lemak,0.0,0.0,0.0,0.0,102.8,0,0
+1135,88.0,3.2,8.0,0.8,Shabu-Shabu,Sedang,0.036,0.0899,80.9,14.38,3.6,0,0
+1136,474.0,11.2,42.5,11.7,Sie Reuboh Masakan,Tinggi Lemak,0.0236,0.0895,80.53,9.43,9.85,2,0
+1137,81.0,5.1,4.5,5.1,Singkah (Rotan Muda),Sedang,0.0622,0.0549,49.39,24.88,24.88,0,1
+1138,285.0,1.0,18.0,28.0,Singkong Goreng,Tinggi Lemak,0.0035,0.0629,56.64,1.4,39.16,2,0
+1139,146.0,1.2,0.3,34.7,Singkong Kukus,Rendah Lemak,0.0082,0.002,1.84,3.27,94.42,0,0
+1140,173.0,0.5,0.1,42.5,Singkong Tape,Rendah Lemak,0.0029,0.0006,0.52,1.15,97.7,0,0
+1141,95.3,4.4,2.2,14.4,Siomay,Rendah Lemak & Karbo,0.0457,0.0228,20.56,18.28,59.81,0,0
+1142,65.0,1.0,0.3,16.3,Sirsak,Rendah Lemak,0.0152,0.0045,4.09,6.06,98.79,0,0
+1143,213.0,0.0,0.0,55.0,Sirup,Rendah Lemak,0.0,0.0,0.0,0.0,102.8,0,0
+1144,71.0,7.5,3.6,2.2,Sop Buntut Masakan,Sedang,0.1042,0.05,45.0,41.67,12.22,0,1
+1145,49.0,5.8,0.5,5.3,Sop Daging Sapi Masakan,Rendah Lemak & Karbo,0.116,0.01,9.0,46.4,42.4,0,1
+1146,68.0,9.0,1.9,3.7,Sop Kaki Sapi Masakan,Rendah Lemak & Karbo,0.1304,0.0275,24.78,52.17,21.45,0,1
+1147,34.0,5.5,0.8,1.1,Sop Kambing Masakan,Rendah Lemak & Karbo,0.1571,0.0229,20.57,62.86,12.57,0,1
+1148,71.0,7.4,2.6,4.5,Sop Konro Masakan,Rendah Lemak & Karbo,0.1028,0.0361,32.5,41.11,25.0,0,1
+1149,12.0,0.5,0.1,2.0,Sop Kool,Rendah Lemak & Karbo,0.0385,0.0077,6.92,15.38,61.54,0,0
+1150,15.0,0.6,0.1,3.1,Sop Kool Dan Wortel,Rendah Lemak & Karbo,0.0375,0.0062,5.62,15.0,77.5,0,0
+1151,89.0,7.2,5.0,3.9,Sop Saudara Masakan,Sedang,0.08,0.0556,50.0,32.0,17.33,0,1
+1152,42.0,3.9,1.7,2.8,Soto Bandung Masakan,Rendah Lemak & Karbo,0.0907,0.0395,35.58,36.28,26.05,0,0
+1153,110.0,2.9,9.5,3.2,Soto Banjar Masakan,Sedang,0.0261,0.0856,77.03,10.45,11.53,1,0
+1154,135.0,2.5,8.8,11.5,Soto Betawi Masakan,Sedang,0.0184,0.0647,58.24,7.35,33.82,1,0
+1155,127.5,2.6,9.4,8.3,Soto Dengan Daging,Sedang,0.0202,0.0732,65.84,8.09,25.84,1,0
+1156,92.0,11.8,4.3,1.4,Soto Jeroan Masakan,Sedang,0.1269,0.0462,41.61,50.75,6.02,0,1
+1157,38.0,2.6,2.3,1.8,Soto Kudus Masakan,Rendah Lemak & Karbo,0.0667,0.059,53.08,26.67,18.46,0,0
+1158,60.0,3.5,4.5,1.3,Soto Madura Masakan,Sedang,0.0574,0.0738,66.39,22.95,8.52,0,0
+1159,127.0,5.9,6.6,11.0,Soto Padang Masakan,Sedang,0.0461,0.0516,46.41,18.44,34.38,0,1
+1160,94.0,3.0,6.8,5.1,Soto Pekalongan Masakan,Sedang,0.0316,0.0716,64.42,12.63,21.47,0,0
+1161,75.0,3.6,5.2,3.5,Soto Pemalang Masakan,Sedang,0.0474,0.0684,61.58,18.95,18.42,0,0
+1162,80.0,3.2,3.5,9.0,Soto Sukaraja Masakan,Sedang,0.0395,0.0432,38.89,15.8,44.44,0,0
+1163,86.0,2.3,8.5,0.0,Soto Sulung Masakan,Sedang,0.0264,0.0977,87.93,10.57,0.0,1,0
+1164,117.1,0.4,8.6,9.6,Soto Tanpa Daging,Sedang,0.0034,0.0728,65.54,1.35,32.51,1,0
+1165,139.0,7.4,2.1,22.6,Spaghetti,Rendah Lemak,0.0529,0.015,13.5,21.14,64.57,0,1
+1166,101.0,1.7,0.6,35.2,Srikaya,Rendah Lemak,0.0167,0.0059,5.29,6.67,138.04,0,0
+1167,75.0,5.6,0.4,12.2,Sukiyaki Masakan,Rendah Lemak & Karbo,0.0737,0.0053,4.74,29.47,64.21,0,1
+1168,119.0,1.4,0.2,28.1,Sukun Muda Segar,Rendah Lemak,0.0117,0.0017,1.5,4.67,93.67,0,0
+1169,126.0,1.6,0.2,24.5,Sukun Tua Segar,Rendah Lemak,0.0126,0.0016,1.42,5.04,77.17,0,0
+1170,418.0,19.0,9.0,65.5,Susu Asam Untuk Bayi Bubuk,Sedang,0.0453,0.0215,19.33,18.14,62.53,1,0
+1171,513.0,24.6,30.0,36.2,Susu Bubuk,Tinggi Protein & Lemak,0.0479,0.0584,52.53,19.14,28.17,2,0
+1172,64.0,4.3,2.3,6.6,Susu Kambing,Rendah Lemak & Karbo,0.0662,0.0354,31.85,26.46,40.62,0,0
+1173,41.0,3.5,2.5,5.0,Susu Kedelai,Rendah Lemak & Karbo,0.0833,0.0595,53.57,33.33,47.62,0,0
+1174,336.0,8.2,10.0,55.0,Susu Kental Manis,Sedang,0.0243,0.0297,26.71,9.73,65.28,1,0
+1175,138.0,7.0,7.9,9.9,Susu Kental Tak Manis,Sedang,0.0504,0.0568,51.15,20.14,28.49,0,1
+1176,160.0,6.3,12.0,7.1,Susu Kerbau,Sedang,0.0391,0.0745,67.08,15.65,17.64,1,0
+1177,61.0,3.2,3.5,4.3,Susu Sapi,Sedang,0.0516,0.0565,50.81,20.65,27.74,0,0
+1178,36.0,3.5,0.1,5.1,Susu Skim (Tak Berlemak),Rendah Lemak & Karbo,0.0946,0.0027,2.43,37.84,55.14,0,0
+1179,359.0,35.6,1.0,52.0,Susu Skim Bubuk,"Tinggi Protein, Rendah Lemak",0.0989,0.0028,2.5,39.56,57.78,0,0
+1180,36.0,3.5,0.1,5.1,Susu Skim Segar,Rendah Lemak & Karbo,0.0946,0.0027,2.43,37.84,55.14,0,0
+1181,87.0,5.3,5.2,6.3,Susupan,Sedang,0.0602,0.0591,53.18,24.09,28.64,0,1
+1182,90.0,1.5,0.1,21.9,Suweg Kukus,Rendah Lemak,0.0165,0.0011,0.99,6.59,96.26,0,0
+1183,69.0,1.0,0.1,15.7,Suweg Mentah,Rendah Lemak,0.0143,0.0014,1.29,5.71,89.71,0,0
+1184,74.0,1.4,0.1,17.2,Suweg Talas Segar,Rendah Lemak,0.0187,0.0013,1.2,7.47,91.73,0,0
+1185,347.0,0.5,0.9,84.2,Suwir-Suwir,Rendah Lemak,0.0014,0.0026,2.33,0.57,96.78,0,0
+1186,68.0,7.8,4.6,1.6,Tahu,Sedang,0.113,0.0667,60.0,45.22,9.28,0,1
+1187,115.0,9.7,8.5,2.5,Tahu Goreng,Sedang,0.0836,0.0733,65.95,33.45,8.62,1,1
+1188,328.0,12.6,19.9,24.6,Tahu Telur,Tinggi Lemak,0.0383,0.0605,54.44,15.32,29.91,2,0
+1189,148.0,13.8,8.5,4.0,Takwa,Sedang,0.0926,0.057,51.34,37.05,10.74,1,1
+1190,120.0,1.5,0.3,28.2,Talas Bogor Kukus,Rendah Lemak,0.0124,0.0025,2.23,4.96,93.22,0,0
+1191,163.0,2.3,0.5,36.4,Talas Pontianak Segar,Rendah Lemak,0.014,0.003,2.74,5.61,88.78,0,0
+1192,115.0,1.8,0.5,25.9,Talas Viqueque Segar,Rendah Lemak,0.0155,0.0043,3.88,6.21,89.31,0,0
+1193,120.0,1.5,0.3,28.2,Tales Kukus,Rendah Lemak,0.0124,0.0025,2.23,4.96,93.22,0,0
+1194,98.0,1.9,0.2,23.7,Tales Mentah,Rendah Lemak,0.0192,0.002,1.82,7.68,95.76,0,0
+1195,166.0,10.4,4.9,24.1,Taoco,Sedang,0.0623,0.0293,26.41,24.91,57.72,0,1
+1196,88.0,3.2,2.1,14.0,Taoge Goreng,Rendah Lemak & Karbo,0.036,0.0236,21.24,14.38,62.92,0,0
+1197,76.0,9.0,2.6,6.4,Taoge Kacang Kedelai Segar,Rendah Lemak & Karbo,0.1169,0.0338,30.39,46.75,33.25,0,1
+1198,28.0,3.0,0.8,4.0,Taoge Seduh,Rendah Lemak & Karbo,0.1034,0.0276,24.83,41.38,55.17,0,0
+1199,34.0,3.7,1.2,4.3,Taoge Segar,Rendah Lemak & Karbo,0.1057,0.0343,30.86,42.29,49.14,0,0
+1200,104.0,12.9,6.8,1.2,Taokoa,Sedang,0.1229,0.0648,58.29,49.14,4.57,0,1
+1201,99.0,1.7,0.3,22.4,Tapai Beras,Rendah Lemak,0.017,0.003,2.7,6.8,89.6,0,0
+1202,166.0,3.8,1.0,34.4,Tapai Ketan Hitam,Rendah Lemak,0.0228,0.006,5.39,9.1,82.4,0,0
+1203,172.0,3.0,0.5,37.5,Tapai Ketan Putih,Rendah Lemak,0.0173,0.0029,2.6,6.94,86.71,0,0
+1204,169.0,1.4,0.3,40.2,Tapai Singkong,Rendah Lemak,0.0082,0.0018,1.59,3.29,94.59,0,0
+1205,358.0,7.5,4.3,70.4,Tauco Cap Das Cake,Sedang,0.0209,0.012,10.78,8.36,78.44,0,0
+1206,277.0,9.1,4.7,49.6,Tauji Cap Singa,Sedang,0.0327,0.0169,15.22,13.09,71.37,0,1
+1207,25.0,4.6,0.4,3.0,Tebu Terubuk,Rendah Lemak & Karbo,0.1769,0.0154,13.85,70.77,46.15,0,0
+1208,83.0,10.4,3.4,2.8,Tedong Pallu Basa Masakan,Sedang,0.1238,0.0405,36.43,49.52,13.33,0,1
+1209,132.0,19.5,0.7,67.8,Teh,"Tinggi Protein, Rendah Lemak",0.1466,0.0053,4.74,58.65,203.91,0,1
+1210,300.0,28.3,4.8,53.6,Teh Hijau Daun Kering,Sedang,0.094,0.0159,14.35,37.61,71.23,0,1
+1211,299.0,24.1,3.5,59.0,Teh Melati Daun Kering,Sedang,0.0803,0.0117,10.5,32.13,78.67,0,1
+1212,34.0,2.0,0.1,7.9,Tekokak,Rendah Lemak & Karbo,0.0571,0.0029,2.57,22.86,90.29,0,0
+1213,294.0,8.3,1.7,72.6,Tekokak Kering,Rendah Lemak,0.0281,0.0058,5.19,11.25,98.44,0,1
+1214,53.0,1.9,0.9,9.4,Tekwan,Rendah Lemak & Karbo,0.0352,0.0167,15.0,14.07,69.63,0,0
+1215,162.0,12.8,11.5,0.7,Telur Ayam,Sedang,0.0785,0.0706,63.5,31.41,1.72,1,0
+1216,361.0,19.3,31.9,0.7,Telur Ayam Bagian Kuning,Tinggi Protein & Lemak,0.0533,0.0881,79.31,21.33,0.77,2,0
+1217,50.0,10.8,0.0,0.8,Telur Ayam Bagian Putih,"Tinggi Protein, Rendah Lemak",0.2118,0.0,0.0,84.71,6.27,0,1
+1218,383.0,15.1,32.9,8.3,Telur Ayam Ceplok,Tinggi Protein & Lemak,0.0393,0.0857,77.11,15.73,8.65,2,0
+1219,251.0,16.3,19.4,1.4,Telur Ayam Dadar,Tinggi Protein & Lemak,0.0647,0.077,69.29,25.87,2.22,2,0
+1220,179.0,13.6,13.3,4.4,Telur Ayam Kampung,Sedang,0.0756,0.0739,66.5,30.22,9.78,1,0
+1221,386.0,17.0,35.0,0.8,Telur Bebek Bagian Kuning Segar,Tinggi Protein & Lemak,0.0439,0.0904,81.4,17.57,0.83,2,0
+1222,54.0,11.0,0.0,0.8,Telur Bebek Bagian Putih,"Tinggi Protein, Rendah Lemak",0.2,0.0,0.0,80.0,5.82,0,1
+1223,54.0,11.0,0.0,0.8,Telur Bebek Bagian Putih Segar,"Tinggi Protein, Rendah Lemak",0.2,0.0,0.0,80.0,5.82,0,1
+1224,320.0,15.1,30.5,0.9,Telur Bebek Ceplok,Tinggi Protein & Lemak,0.047,0.095,85.51,18.82,1.12,2,0
+1225,301.0,20.0,23.7,0.0,Telur Bebek Dadar,Tinggi Protein & Lemak,0.0662,0.0785,70.63,26.49,0.0,2,0
+1226,187.0,10.9,12.4,7.9,Telur Bebek Tambak Segar,Sedang,0.058,0.066,59.36,23.19,16.81,1,0
+1227,195.0,13.6,13.6,1.4,Telur Bebek Telur Asin,Sedang,0.0694,0.0694,62.45,27.76,2.86,1,0
+1228,116.0,10.7,7.0,1.6,Telur Burung Puyuh Segar,Sedang,0.0915,0.0598,53.85,36.58,5.47,0,1
+1229,144.0,12.0,10.2,0.0,Telur Penyu,Sedang,0.0828,0.0703,63.31,33.1,0.0,1,0
+1230,425.0,31.0,28.0,10.0,Telur Terubuk,Tinggi Protein & Lemak,0.0728,0.0657,59.15,29.11,9.39,2,0
+1231,119.0,4.4,3.5,18.3,Tempe Bongkrek,Sedang,0.0367,0.0292,26.25,14.67,61.0,0,0
+1232,73.0,5.7,1.3,4.2,Tempe Gembus,Rendah Lemak & Karbo,0.077,0.0176,15.81,30.81,22.7,0,1
+1233,76.0,6.8,0.7,10.6,Tempe Gembus Yogya,Rendah Lemak & Karbo,0.0883,0.0091,8.18,35.32,55.06,0,1
+1234,328.0,18.4,23.2,12.8,Tempe Goreng,Tinggi Protein & Lemak,0.0559,0.0705,63.47,22.37,15.56,2,0
+1235,139.0,12.5,0.8,21.9,Tempe Kacang Babi,"Tinggi Protein, Rendah Lemak",0.0893,0.0057,5.14,35.71,62.57,0,1
+1236,212.0,17.5,10.0,12.9,Tempe Kacang Belimbing,Sedang,0.0822,0.0469,42.25,32.86,24.23,1,1
+1237,143.0,12.0,5.5,11.4,Tempe Kedelai + Jagung,Sedang,0.0833,0.0382,34.38,33.33,31.67,0,1
+1238,350.0,24.5,26.6,10.4,Tempe Kedelai Murni Goreng,Tinggi Protein & Lemak,0.0698,0.0758,68.21,27.92,11.85,2,0
+1239,201.0,20.8,8.8,13.5,Tempe Kedelai Murni Mentah,Sedang,0.103,0.0436,39.21,41.19,26.73,1,1
+1240,141.0,10.2,1.3,23.2,Tempe Koro Benguk,"Tinggi Protein, Rendah Lemak",0.0718,0.0092,8.24,28.73,65.35,0,1
+1241,146.0,11.7,2.3,19.6,Tempe Lamtoro Var. Gung Dengan Kulit,"Tinggi Protein, Rendah Lemak",0.0796,0.0156,14.08,31.84,53.33,0,1
+1242,131.0,18.0,0.8,13.0,Tempe Lamtoro Var. Gung Tanpa Kulit,"Tinggi Protein, Rendah Lemak",0.1364,0.0061,5.45,54.55,39.39,0,1
+1243,150.0,14.0,7.7,9.1,Tempe Pasar Segar,Sedang,0.0927,0.051,45.89,37.09,24.11,0,1
+1244,336.0,20.0,28.0,7.8,Tempe Pasar Goreng,Tinggi Protein & Lemak,0.0593,0.0831,74.78,23.74,9.26,2,0
+1245,240.0,6.0,2.7,49.3,Tempe Sayur,Rendah Lemak,0.0249,0.0112,10.08,9.96,81.83,0,1
+1246,110.0,1.7,1.3,21.9,Tempoya,Rendah Lemak,0.0153,0.0117,10.54,6.13,78.92,0,0
+1247,126.0,1.1,2.2,25.7,Tempuyak,Rendah Lemak,0.0087,0.0173,15.59,3.46,80.94,0,0
+1248,355.0,0.7,0.2,85.2,Tepung Arrowroot,Rendah Lemak,0.002,0.0006,0.51,0.79,95.73,0,0
+1249,364.0,7.0,0.5,80.0,Tepung Beras,Rendah Lemak,0.0192,0.0014,1.23,7.67,87.67,0,0
+1250,353.0,7.0,0.5,80.0,Tepung Beras Mentah,Rendah Lemak,0.0198,0.0014,1.27,7.91,90.4,0,0
+1251,353.0,0.8,1.7,83.6,Tepung Ganyong,Rendah Lemak,0.0023,0.0048,4.32,0.9,94.46,0,0
+1252,363.0,1.1,0.5,88.2,Tepung Gaplek,Rendah Lemak,0.003,0.0014,1.24,1.21,96.92,0,0
+1253,355.0,0.7,0.2,85.2,Tepung Garut (Arrowroot),Rendah Lemak,0.002,0.0006,0.51,0.79,95.73,0,0
+1254,364.0,4.5,1.0,83.5,Tepung Hunkwee,Rendah Lemak,0.0123,0.0027,2.47,4.93,91.51,0,0
+1255,316.0,60.1,6.5,22.4,Tepung Ikan,Sedang,0.1896,0.0205,18.45,75.84,28.26,0,0
+1256,355.0,9.2,3.9,73.7,Tepung Jagung Kuning,Sedang,0.0258,0.011,9.86,10.34,82.81,0,0
+1257,355.0,9.2,3.9,73.7,Tepung Jagung Putih,Sedang,0.0258,0.011,9.86,10.34,82.81,0,0
+1258,388.0,19.0,7.5,61.2,Tepung Jalejo,Sedang,0.0488,0.0193,17.35,19.54,62.93,0,0
+1259,347.0,35.9,20.6,29.9,Tepung Kacang Kedelai,Tinggi Protein & Lemak,0.1032,0.0592,53.28,41.26,34.37,2,0
+1260,347.0,0.3,0.1,85.6,Tepung Kentang,Rendah Lemak,0.0009,0.0003,0.26,0.34,98.39,0,0
+1261,350.0,1.2,0.6,85.0,Tepung Mocaf,Rendah Lemak,0.0034,0.0017,1.54,1.37,96.87,0,0
+1262,338.0,2.9,0.4,80.6,Tepung Pisang,Rendah Lemak,0.0086,0.0012,1.06,3.42,95.1,0,0
+1263,353.0,0.7,0.2,84.7,Tepung Sagu,Rendah Lemak,0.002,0.0006,0.51,0.79,95.71,0,0
+1264,326.0,4.0,0.4,76.7,Tepung Sente,Rendah Lemak,0.0122,0.0012,1.1,4.89,93.82,0,0
+1265,363.0,1.1,0.5,88.2,Tepung Singkong/ Tapioka,Rendah Lemak,0.003,0.0014,1.24,1.21,96.92,0,0
+1266,353.0,2.9,0.5,84.4,Tepung Sukun,Rendah Lemak,0.0082,0.0014,1.27,3.28,95.37,0,0
+1267,509.0,24.6,30.0,36.2,Tepung Susu,Tinggi Protein & Lemak,0.0482,0.0588,52.94,19.29,28.39,2,0
+1268,418.0,19.0,9.0,65.5,Tepung Susu Asam Untuk Bayi,Sedang,0.0453,0.0215,19.33,18.14,62.53,1,0
+1269,362.0,35.6,1.0,52.0,Tepung Susu Skim,"Tinggi Protein, Rendah Lemak",0.0981,0.0028,2.48,39.23,57.3,0,0
+1270,332.0,5.7,0.6,76.1,Tepung Tales Beneng,Rendah Lemak,0.0171,0.0018,1.62,6.85,91.41,0,0
+1271,365.0,8.9,1.3,77.3,Tepung Terigu,Rendah Lemak,0.0243,0.0036,3.2,9.73,84.48,0,0
+1272,354.0,2.8,0.6,84.4,Tepung Ubi Ungu,Rendah Lemak,0.0079,0.0017,1.52,3.15,95.1,0,0
+1273,155.0,22.3,2.9,9.9,Terasi,"Tinggi Protein, Rendah Lemak",0.1429,0.0186,16.73,57.18,25.38,0,1
+1274,191.0,33.1,3.6,6.6,Terasi Dobo,Sedang,0.1724,0.0188,16.88,68.96,13.75,0,1
+1275,174.0,30.0,3.5,3.5,Terasi Merah,Sedang,0.1714,0.02,18.0,68.57,8.0,0,1
+1276,174.0,30.0,3.5,5.6,Terasi Merah,Sedang,0.1714,0.02,18.0,68.57,12.8,0,1
+1277,365.0,23.7,22.3,17.5,Teri Balado Masakan,Tinggi Protein & Lemak,0.0648,0.0609,54.84,25.9,19.13,2,0
+1278,462.0,39.1,32.4,3.5,Teripang Dendeng Mentah,Tinggi Protein & Lemak,0.0844,0.07,62.98,33.78,3.02,2,0
+1279,24.0,1.1,0.2,5.5,Terong,Rendah Lemak & Karbo,0.044,0.008,7.2,17.6,88.0,0,0
+1280,285.0,4.3,25.7,9.5,Terong + Oncom Makanan,Tinggi Lemak,0.015,0.0899,80.87,6.01,13.29,2,0
+1281,39.0,2.3,1.9,2.0,Terong Asam,Rendah Lemak & Karbo,0.0575,0.0475,42.75,23.0,20.0,0,0
+1282,48.0,1.5,0.3,11.3,Terong Belanda,Rendah Lemak & Karbo,0.0306,0.0061,5.51,12.24,92.24,0,0
+1283,45.0,1.9,0.8,7.5,Terong Hintalo Segar,Rendah Lemak & Karbo,0.0413,0.0174,15.65,16.52,65.22,0,0
+1284,23.0,1.8,0.1,4.9,Terong Kukus,Rendah Lemak & Karbo,0.075,0.0042,3.75,30.0,81.67,0,0
+1285,28.0,1.1,0.2,5.5,Terong Segar,Rendah Lemak & Karbo,0.0379,0.0069,6.21,15.17,75.86,0,0
+1286,52.0,2.1,1.1,8.6,Terung Belanda Segar,Rendah Lemak & Karbo,0.0396,0.0208,18.68,15.85,64.91,0,0
+1287,52.0,1.1,0.4,11.2,Terung Bengkulu Segar,Rendah Lemak & Karbo,0.0208,0.0075,6.79,8.3,84.53,0,0
+1288,25.0,2.1,0.1,5.3,Terung Panjang,Rendah Lemak & Karbo,0.0808,0.0038,3.46,32.31,81.54,0,0
+1289,23.0,1.8,0.1,4.9,Terung Panjang Kukus,Rendah Lemak & Karbo,0.075,0.0042,3.75,30.0,81.67,0,0
+1290,59.0,2.9,0.3,13.9,Tespong Daun,Rendah Lemak & Karbo,0.0483,0.005,4.5,19.33,92.67,0,0
+1291,120.0,2.4,0.4,26.0,Tim (Nasi Tim),Rendah Lemak,0.0198,0.0033,2.98,7.93,85.95,0,0
+1292,33.0,1.2,1.3,4.1,Tinira Ninahu Nggaluku,Rendah Lemak & Karbo,0.0353,0.0382,34.41,14.12,48.24,0,0
+1293,516.0,17.7,49.5,0.0,Tinoransak Masakan,Tinggi Protein & Lemak,0.0342,0.0957,86.17,13.69,0.0,2,0
+1294,355.0,6.2,1.2,79.8,Tipa-Tipa,Rendah Lemak,0.0174,0.0034,3.03,6.97,89.66,0,0
+1295,353.0,2.4,1.1,83.4,Tiwul,Rendah Lemak,0.0068,0.0031,2.8,2.71,94.24,0,0
+1296,395.0,3.2,8.5,76.5,Tiwul Instan,Sedang,0.0081,0.0215,19.32,3.23,77.27,1,0
+1297,392.0,5.4,28.5,28.4,Toge -Tahu Makanan,Tinggi Lemak,0.0137,0.0725,65.27,5.5,28.91,2,0
+1298,93.6,4.4,1.8,15.1,Toge Goreng,Rendah Lemak,0.0465,0.019,17.12,18.6,63.85,0,0
+1299,23.0,2.9,0.2,4.1,Toge Kacang Ijo,Rendah Lemak & Karbo,0.1208,0.0083,7.5,48.33,68.33,0,0
+1300,35.0,5.0,0.2,5.8,Toge Kacang Tunggak,Rendah Lemak & Karbo,0.1389,0.0056,5.0,55.56,64.44,0,1
+1301,67.0,9.0,2.6,6.4,Toge Kedelai,Rendah Lemak & Karbo,0.1324,0.0382,34.41,52.94,37.65,0,1
+1302,28.0,3.0,0.8,4.0,Toge Seduh,Rendah Lemak & Karbo,0.1034,0.0276,24.83,41.38,55.17,0,0
+1303,20.0,1.0,0.2,3.5,Tomat Air (Juice) Segar,Rendah Lemak & Karbo,0.0476,0.0095,8.57,19.05,66.67,0,0
+1304,20.0,1.0,0.3,4.2,Tomat Masak,Rendah Lemak & Karbo,0.0476,0.0143,12.86,19.05,80.0,0,0
+1305,24.0,1.3,0.5,4.7,Tomat Merah Segar,Rendah Lemak & Karbo,0.052,0.02,18.0,20.8,75.2,0,0
+1306,24.0,2.0,0.7,3.3,Tomat Muda Segar,Rendah Lemak & Karbo,0.08,0.028,25.2,32.0,52.8,0,0
+1307,189.0,11.3,15.7,0.6,Tumis Bandeng,Tinggi Lemak,0.0595,0.0826,74.37,23.79,1.26,2,0
+1308,48.0,1.4,4.2,2.6,Tumis Bayam Bersantan,Sedang,0.0286,0.0857,77.14,11.43,21.22,0,0
+1309,186.0,1.9,0.2,44.3,Ubi Cilembu,Rendah Lemak,0.0102,0.0011,0.96,4.06,94.76,0,0
+1310,160.0,3.7,1.3,55.3,Ubi Jalar Goreng,Rendah Lemak,0.023,0.0081,7.27,9.19,137.39,0,0
+1311,100.0,0.7,0.3,23.8,Ubi Jalar Kuning Kukus,Rendah Lemak,0.0069,0.003,2.67,2.77,94.26,0,0
+1312,119.0,0.5,0.4,25.1,Ubi Jalar Kuning Segar,Rendah Lemak,0.0042,0.0033,3.0,1.67,83.67,0,0
+1313,83.0,1.5,0.2,18.8,Ubi Jalar Manis Segar,Rendah Lemak,0.0179,0.0024,2.14,7.14,89.52,0,0
+1314,123.0,1.8,0.7,27.9,Ubi Jalar Merah,Rendah Lemak,0.0145,0.0056,5.08,5.81,90.0,0,0
+1315,151.0,1.6,0.3,35.4,Ubi Jalar Merah Segar,Rendah Lemak,0.0105,0.002,1.78,4.21,93.16,0,0
+1316,123.0,1.8,0.7,27.9,Ubi Jalar Putih,Rendah Lemak,0.0145,0.0056,5.08,5.81,90.0,0,0
+1317,114.0,1.4,9.6,25.6,Ubi Jalar Rebus,Sedang,0.0122,0.0835,75.13,4.87,89.04,1,0
+1318,184.0,1.4,0.3,22.5,Ubi Jalar Sayur,Rendah Lemak,0.0076,0.0016,1.46,3.03,48.65,0,0
+1319,108.0,0.5,0.4,25.6,Ubi Jalar Tinta/ Kemayung,Rendah Lemak,0.0046,0.0037,3.3,1.83,93.94,0,0
+1320,165.0,0.9,0.2,39.8,Ubi Jalar Tinta/ Kemayung Kukus,Rendah Lemak,0.0054,0.0012,1.08,2.17,95.9,0,0
+1321,82.0,5.8,1.3,11.7,Uceng/ Bunga Melinjo Segar,Rendah Lemak & Karbo,0.0699,0.0157,14.1,27.95,56.39,0,1
+1322,56.0,11.4,0.6,1.2,Udang Besar Segar,"Tinggi Protein, Rendah Lemak",0.2,0.0105,9.47,80.0,8.42,0,1
+1323,81.0,16.5,0.3,3.0,Udang Galah Segar,"Tinggi Protein, Rendah Lemak",0.2012,0.0037,3.29,80.49,14.63,0,1
+1324,295.0,62.4,2.3,1.8,Udang Kering,"Tinggi Protein, Rendah Lemak",0.2108,0.0078,6.99,84.32,2.43,0,1
+1325,278.0,62.6,4.1,2.2,Udang Kering Mentah,Sedang,0.2244,0.0147,13.23,89.75,3.15,0,1
+1326,273.0,47.8,3.8,12.5,Udang Papay Mentah,Sedang,0.1745,0.0139,12.48,69.78,18.25,0,1
+1327,91.0,21.0,0.2,0.1,Udang Segar,"Tinggi Protein, Rendah Lemak",0.2283,0.0022,1.96,91.3,0.43,0,1
+1328,380.0,11.9,30.3,14.9,Ulat Sagu Panggang,Tinggi Lemak,0.0312,0.0795,71.57,12.49,15.64,2,0
+1329,241.0,5.8,21.6,5.8,Ulat Sagu Segar,Tinggi Lemak,0.024,0.0893,80.33,9.59,9.59,2,0
+1330,120.0,2.8,0.5,82.3,Umbi Uwi Segar,Rendah Lemak,0.0231,0.0041,3.72,9.26,272.07,0,0
+1331,34.0,2.4,0.3,5.5,Umbut Rotan,Rendah Lemak & Karbo,0.0686,0.0086,7.71,27.43,62.86,0,0
+1332,130.0,14.0,7.2,1.5,Usus Sapi,Sedang,0.1069,0.055,49.47,42.75,4.58,0,1
+1333,101.0,2.0,0.2,19.8,Uwi,Rendah Lemak,0.0196,0.002,1.76,7.84,77.65,0,0
+1334,363.0,8.7,0.4,78.7,Vermicelli,Rendah Lemak,0.0239,0.0011,0.99,9.56,86.48,0,0
+1335,303.0,6.3,2.7,63.3,Wajit Camilan,Rendah Lemak,0.0207,0.0089,7.99,8.29,83.29,0,0
+1336,45.0,0.8,0.9,8.1,Waluh Balamak,Rendah Lemak & Karbo,0.0174,0.0196,17.61,6.96,70.43,0,0
+1337,424.0,1.3,10.7,80.7,Widaran,Sedang,0.0031,0.0252,22.66,1.22,75.95,1,0
+1338,568.0,19.3,51.1,18.1,Wijen,Tinggi Protein & Lemak,0.0339,0.0898,80.83,13.57,12.72,2,0
+1339,355.0,3.2,15.1,51.4,Wingko Babat,Tinggi Lemak,0.009,0.0424,38.17,3.6,57.75,2,0
+1340,143.0,3.1,7.8,15.0,Woku Ubi,Sedang,0.0215,0.0542,48.75,8.61,41.67,0,0
+1341,452.0,14.5,42.3,2.3,Worst (Sosis Daging),Tinggi Lemak,0.032,0.0934,84.04,12.8,2.03,2,0
+1342,42.0,1.2,0.6,9.3,Wortel Segar,Rendah Lemak & Karbo,0.0279,0.014,12.56,11.16,86.51,0,0
+1343,37.0,1.0,0.6,8.3,Wortel Kukus,Rendah Lemak & Karbo,0.0263,0.0158,14.21,10.53,87.37,0,0
+1344,28.0,0.7,0.5,6.3,Wortel Rebus,Rendah Lemak & Karbo,0.0241,0.0172,15.52,9.66,86.9,0,0
+1345,254.0,3.0,1.1,58.1,Yangko,Rendah Lemak,0.0118,0.0043,3.88,4.71,91.14,0,0
+1346,52.0,3.3,2.5,4.0,Yoghurt,Rendah Lemak & Karbo,0.0623,0.0472,42.45,24.91,30.19,0,0

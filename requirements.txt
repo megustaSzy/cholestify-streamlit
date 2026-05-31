@@ -1,0 +1,14 @@
+streamlit>=1.36.0
+pandas
+numpy
+matplotlib
+plotly
+scipy
+opencv-python-headless
+tensorflow
+keras
+Pillow
+statsmodels
+seaborn
+missingno
+scikit-learn
