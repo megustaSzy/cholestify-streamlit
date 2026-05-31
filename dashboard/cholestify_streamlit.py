@@ -67,6 +67,8 @@ section[data-testid="stSidebar"] .stRadio label:hover {
     background: rgba(96,165,250,0.12);
     border-color: rgba(96,165,250,0.35);
 }
+[data-testid="stSidebarNavItems"] li > div > a > span { color: #e2e8f0 !important; }
+[data-testid="stSidebarNavItems"] li > div > a:hover { background-color: rgba(96,165,250,0.12) !important; }
 
 /* ── Headings ── */
 h1 {

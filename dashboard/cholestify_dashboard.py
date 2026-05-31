@@ -66,6 +66,8 @@ section[data-testid="stSidebar"] .stRadio label:hover {
     background: rgba(96,165,250,0.12);
     border-color: rgba(96,165,250,0.35);
 }
+[data-testid="stSidebarNavItems"] li > div > a > span { color: #e2e8f0 !important; }
+[data-testid="stSidebarNavItems"] li > div > a:hover { background-color: rgba(96,165,250,0.12) !important; }
 
 /* ── Headings ── */
 h1 {
@@ -346,9 +348,17 @@ def add_rekomendasi_score(df):
 
 with st.sidebar:
     # Brand header
-    st.markdown("""
+    import base64
+    try:
+        with open("assets/logo.png", "rb") as img_file:
+            logo_b64 = base64.b64encode(img_file.read()).decode()
+        logo_html = f"<img src='data:image/png;base64,{logo_b64}' style='width: 65px; margin-bottom: 12px; border-radius: 10px;'/>"
+    except Exception:
+        logo_html = "<span class='sidebar-brand-icon'>🫀</span>"
+
+    st.markdown(f"""
     <div class='sidebar-brand'>
-        <span class='sidebar-brand-icon'>🫀</span>
+        {logo_html}
         <div class='sidebar-brand-title'>Cholestify</div>
         <div class='sidebar-brand-sub'>Analisis Nutrisi Makanan Indonesia</div>
     </div>
