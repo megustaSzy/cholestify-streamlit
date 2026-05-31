@@ -154,8 +154,11 @@ h3 {
     background: linear-gradient(145deg, #111827, #0f172a);
     border: 1px solid rgba(51,65,85,0.7);
     border-radius: 12px;
-    padding: 14px 6px;
-    height: 100px;
+    padding: 16px 10px;
+    min-height: 125px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     position: relative;
     transition: all 0.25s ease;
     overflow: hidden;
@@ -562,14 +565,16 @@ if page == "🏠 Overview":
         ("8", "Improvement",  "SMOTE + CV"),
         ("9", "Inference",    "Rule-Based LDL/HDL"),
     ]
-    for col, (num, title, desc) in zip(st.columns(len(steps)), steps):
-        with col:
-            st.markdown(f"""
-            <div class='pipeline-step'>
-                <div class='pipeline-num'>{num}</div>
-                <div class='pipeline-title'>{title}</div>
-                <div class='pipeline-desc'>{desc}</div>
-            </div>""", unsafe_allow_html=True)
+    steps_html = "<div style='display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 12px;'>"
+    for (num, title, desc) in steps:
+        steps_html += f"""
+        <div class='pipeline-step'>
+            <div class='pipeline-num'>{num}</div>
+            <div class='pipeline-title'>{title}</div>
+            <div class='pipeline-desc'>{desc}</div>
+        </div>"""
+    steps_html += "</div>"
+    st.markdown(steps_html, unsafe_allow_html=True)
 
 
 # ════════════════════════════════════════════════════════════════════════════════

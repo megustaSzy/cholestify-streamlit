@@ -155,8 +155,11 @@ h3 {
     background: linear-gradient(145deg, #111827, #0f172a);
     border: 1px solid rgba(51,65,85,0.7);
     border-radius: 12px;
-    padding: 14px 6px;
-    height: 100px;
+    padding: 16px 10px;
+    min-height: 125px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     position: relative;
     transition: all 0.25s ease;
     overflow: hidden;
