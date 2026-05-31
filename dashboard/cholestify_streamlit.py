@@ -515,7 +515,27 @@ with st.sidebar:
         is_active = st.session_state.page == page
         if st.button(page, use_container_width=True, type="primary" if is_active else "secondary"):
             st.session_state.page = page
+            if page == "🍔 Food Table":
+                st.session_state.food_tab = "🏠 Overview"
             st.rerun()
+            
+        # Tampilkan Sub-Menu di bawah "Food Table" jika sedang aktif
+        if page == "🍔 Food Table" and st.session_state.page == "🍔 Food Table":
+            sub_pages = [
+                "🏠 Overview", "📊 EDA & Distribusi", "🔬 Business Questions",
+                "⚗️ A/B Testing", "🤖 Feature Engineering", "🎯 Rekomendasi Personal", "📚 Data Dictionary"
+            ]
+            if "food_tab" not in st.session_state:
+                st.session_state.food_tab = "🏠 Overview"
+                
+            for sp in sub_pages:
+                sp_active = st.session_state.food_tab == sp
+                # Gunakan markdown column layout kecil atau tombol agar terlihat seperti sub-menu
+                col_spacer, col_btn = st.columns([1, 10])
+                with col_btn:
+                    if st.button(sp, key=f"sub_{sp}", use_container_width=True, type="primary" if sp_active else "secondary"):
+                        st.session_state.food_tab = sp
+                        st.rerun()
 
     st.markdown("---")
     st.info("💡 **Tips:** Gunakan halaman 'Prediction' untuk simulasi risiko kolesterol.")

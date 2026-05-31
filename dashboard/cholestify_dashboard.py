@@ -353,48 +353,32 @@ def add_rekomendasi_score(df):
     return df
 
 
-# ═══ SIDEBAR ════════════════════════════════════════════════════════════════════
+# ── Load Dataset ──────────────────────────────────────────
+CSV_CANDIDATES = [
+    "df_nutrition_cleaned.csv",
+    "data/df_nutrition_cleaned.csv",
+    "../data/df_nutrition_cleaned.csv",
+]
+df_raw = None
+csv_path = None
+for path in CSV_CANDIDATES:
+    if os.path.exists(path):
+        df_raw, csv_path = load_data(path)
+        if df_raw is not None:
+            break
+
+if df_raw is None:
+    st.error("⚠️ File dataset tidak ditemukan.\n\nPastikan `df_nutrition_cleaned.csv` ada di folder `data/`.")
+    st.stop()
+
+df = add_rekomendasi_score(df_raw)
+
+# Mengambil status halaman aktif dari navigasi utama (app.py / cholestify_streamlit.py)
+page = st.session_state.get("food_tab", "🏠 Overview")
 
 with st.sidebar:
-    # Brand header
-    import base64
-    try:
-        with open("assets/logo.png", "rb") as img_file:
-            logo_b64 = base64.b64encode(img_file.read()).decode()
-        logo_html = f"<img src='data:image/png;base64,{logo_b64}' style='width: 65px; margin-bottom: 12px; border-radius: 10px;'/>"
-    except Exception:
-        logo_html = "<span class='sidebar-brand-icon'>🫀</span>"
-
-    st.markdown(f"""
-    <div class='sidebar-brand'>
-        {logo_html}
-        <div class='sidebar-brand-title'>Cholestify</div>
-        <div class='sidebar-brand-sub'>Analisis Nutrisi Makanan Indonesia</div>
-    </div>
-    """, unsafe_allow_html=True)
-
     st.markdown("---")
-
-    # ── Load Dataset ──────────────────────────────────────────
-    CSV_CANDIDATES = [
-        "df_nutrition_cleaned.csv",
-        "data/df_nutrition_cleaned.csv",
-        "../data/df_nutrition_cleaned.csv",
-    ]
-    df_raw = None
-    csv_path = None
-    for path in CSV_CANDIDATES:
-        if os.path.exists(path):
-            df_raw, csv_path = load_data(path)
-            if df_raw is not None:
-                break
-
-    if df_raw is None:
-        st.error("⚠️ File dataset tidak ditemukan.\n\nPastikan `df_nutrition_cleaned.csv` ada di folder `data/`.")
-        st.stop()
-
-    df = add_rekomendasi_score(df_raw)
-
+    
     # ── Dataset Info ──────────────────────────────────────────
     st.markdown("<p style='font-size:0.72rem;color:#475569;text-transform:uppercase;letter-spacing:0.1em;margin-bottom:6px'>📦 Dataset Info</p>", unsafe_allow_html=True)
     col_s1, col_s2 = st.columns(2)
@@ -411,25 +395,6 @@ with st.sidebar:
             <div class='info-card-value'>{df.shape[1]}</div>
         </div>""", unsafe_allow_html=True)
     st.caption(f"📁 `{csv_path}`")
-
-    st.markdown("---")
-
-    # ── Navigasi ──────────────────────────────────────────────
-    st.markdown("<p style='font-size:0.72rem;color:#475569;text-transform:uppercase;letter-spacing:0.1em;margin-bottom:6px'>📋 Navigasi</p>", unsafe_allow_html=True)
-    page = st.radio(
-        "Pilih Halaman",
-        options=[
-            "🏠 Overview",
-            "📊 EDA & Distribusi",
-            "🔬 Business Questions",
-            "⚗️ A/B Testing",
-            "🤖 Feature Engineering",
-            "🎯 Rekomendasi Personal",
-            "📚 Data Dictionary",
-        ],
-        label_visibility="collapsed",
-    )
-
     st.markdown("---")
     # Legend badges
     st.markdown("""
