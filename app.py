@@ -33,21 +33,14 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Definisi Halaman
-page1 = st.Page("dashboard/cholestify_dashboard.py", title="Dashboard Nutrisi Makanan", icon="🍎", default=True)
-page2 = st.Page("dashboard/cholestify_streamlit.py", title="Prediksi & Data Kolesterol", icon="🩸")
+# Menambahkan logo asli (tanpa diubah) di bagian atas sidebar
+if os.path.exists("assets/logo.png"):
+    st.logo("assets/logo.png")
 
-# Sembunyikan navigasi bawaan dari sidebar
-pg = st.navigation([page1, page2], position="hidden")
-
-# Buat Custom Top Menu (Menu Atas Horizontal)
-st.markdown("<div style='margin-top: -30px;'></div>", unsafe_allow_html=True)
-st.markdown("### 🫀 Cholestify App Menu")
-col1, col2 = st.columns(2)
-with col1:
-    st.page_link(page1, use_container_width=True)
-with col2:
-    st.page_link(page2, use_container_width=True)
-st.markdown("<hr style='margin-top: 5px; margin-bottom: 20px;'/>", unsafe_allow_html=True)
+# Konfigurasi halaman menggunakan st.navigation (Tersedia mulai Streamlit 1.36)
+pg = st.navigation([
+    st.Page("dashboard/cholestify_dashboard.py", title="🍎 Analisis Makanan & Nutrisi", default=True),
+    st.Page("dashboard/cholestify_streamlit.py", title="🩸 Analisis & Prediksi Kolesterol")
+])
 
 pg.run()
