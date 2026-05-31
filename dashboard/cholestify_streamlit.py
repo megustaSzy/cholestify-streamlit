@@ -102,6 +102,9 @@ h3 {
     position: relative;
     overflow: hidden;
     transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+    height: 190px;
+    display: flex;
+    flex-direction: column;
 }
 .kpi-card::before {
     content: '';
@@ -138,7 +141,7 @@ h3 {
 .kpi-delta {
     font-size: 0.8rem;
     color: #34d399;
-    margin-top: 8px;
+    margin-top: auto;
     padding-top: 8px;
     border-top: 1px solid rgba(51,65,85,0.5);
 }
