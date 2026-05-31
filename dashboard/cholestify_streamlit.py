@@ -122,13 +122,14 @@ h3 {
 .kpi-icon { font-size: 1.5rem; margin-bottom: 8px; display: block; }
 .kpi-value {
     font-family: 'Space Mono', monospace;
-    font-size: 1.85rem;
+    font-size: 1.4rem;
     font-weight: 700;
     background: linear-gradient(135deg, #60a5fa, #a5f3fc);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    line-height: 1.1;
+    line-height: 1.2;
+    white-space: nowrap;
 }
 .kpi-label {
     font-size: 0.72rem;
@@ -139,11 +140,13 @@ h3 {
     font-weight: 600;
 }
 .kpi-delta {
-    font-size: 0.8rem;
+    font-size: 0.75rem;
     color: #34d399;
     margin-top: auto;
     padding-top: 8px;
     border-top: 1px solid rgba(51,65,85,0.5);
+    word-break: break-word;
+    line-height: 1.3;
 }
 
 /* ── Pipeline Steps ── */
