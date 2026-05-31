@@ -1172,9 +1172,10 @@ if st.session_state.page == "📊 Cholesterol Data":
 # HALAMAN 2: Food Table
 # ════════════════════════════════════════════════════════════════════════════════
 elif st.session_state.page == "🍔 Food Table":
-    st.title("Food Table Dashboard")
-    st.markdown("Dashboard ini menampilkan tren data terkait pantangan makanan bagi penderita kolesterol.")
-    st.dataframe(df_nutrition, use_container_width=True)
+    import runpy
+    import os
+    dashboard_path = os.path.join(os.path.dirname(__file__), "cholestify_dashboard.py")
+    runpy.run_path(dashboard_path, run_name="__main__")
 
 
 # ════════════════════════════════════════════════════════════════════════════════

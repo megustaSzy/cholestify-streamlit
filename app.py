@@ -37,10 +37,8 @@ st.set_page_config(
 if os.path.exists("assets/logo.png"):
     st.logo("assets/logo.png")
 
-# Konfigurasi halaman menggunakan st.navigation (Tersedia mulai Streamlit 1.36)
-pg = st.navigation([
-    st.Page("dashboard/cholestify_dashboard.py", title="🍎 Analisis Makanan & Nutrisi", default=True),
-    st.Page("dashboard/cholestify_streamlit.py", title="🩸 Analisis & Prediksi Kolesterol")
-])
-
-pg.run()
+# Eksekusi langsung aplikasi utama tanpa menu navigasi Streamlit
+import runpy
+import os
+app_path = os.path.join(os.path.dirname(__file__), "dashboard", "cholestify_streamlit.py")
+runpy.run_path(app_path, run_name="__main__")
