@@ -581,10 +581,10 @@ if st.session_state.page == "📊 Cholesterol Data":
             color_discrete_sequence=["#3b82f6"],
             labels={hist_col: hist_col},
             title=f"Distribusi {hist_col}",
-            template="plotly_dark", paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)", font=dict(family="Inter", color="#94a3b8"),
+            template="plotly_dark",
         )
         fig_hist.update_traces(marker_line_color="#1e293b", marker_line_width=0.8)
-        fig_hist.update_layout(height=360, margin=dict(t=50, b=20))
+        fig_hist.update_layout(height=360, margin=dict(t=50, b=20), paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)", font=dict(family="Inter", color="#94a3b8"))
         st.plotly_chart(fig_hist, use_container_width=True)
 
         st.divider()
@@ -835,14 +835,15 @@ if st.session_state.page == "📊 Cholesterol Data":
                 color="Mean totChol (mg/dL)",
                 color_continuous_scale=["#22C55E", "#F59E0B", "#EF4444"],
                 text="Mean totChol (mg/dL)",
-                template="plotly_dark", paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)", font=dict(family="Inter", color="#94a3b8"),
+                template="plotly_dark",
                 height=400,
             )
             fig_line.update_traces(textposition="outside")
             fig_line.update_layout(
                 title="Rata-rata totChol per Kelompok Usia",
                 coloraxis_showscale=False, 
-                margin=dict(t=70, b=20)
+                margin=dict(t=70, b=20),
+                paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)", font=dict(family="Inter", color="#94a3b8")
             )
             st.plotly_chart(fig_line, use_container_width=True)
 
@@ -858,11 +859,11 @@ if st.session_state.page == "📊 Cholesterol Data":
             },
             trendline="ols",
             labels={"age": "Usia (tahun)", "totChol": "Total Kolesterol (mg/dL)"},
-            template="plotly_dark", paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)", font=dict(family="Inter", color="#94a3b8"),
+            template="plotly_dark",
             height=380,
             opacity=0.55,
         )
-        fig_scatter.update_layout(margin=dict(t=40, b=20))
+        fig_scatter.update_layout(margin=dict(t=40, b=20), paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)", font=dict(family="Inter", color="#94a3b8"))
         st.plotly_chart(fig_scatter, use_container_width=True)
 
         st.markdown("""
